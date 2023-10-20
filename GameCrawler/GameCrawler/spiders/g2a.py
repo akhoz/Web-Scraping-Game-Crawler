@@ -9,13 +9,13 @@ class G2aSpider(scrapy.Spider):
         
         for game in games:
             game_name = game.xpath('@name').extract_first()
-            game_price = game.xpath('.//span[contains(@data-locator, "zth-price")]/text()').extract_first()
-            game_discount = game.xpath('.//span[contains(@data-locator, "zth-badge")]/text()').extract_first()
+            game_price = ''.join(game.xpath('.//span[contains(@data-locator, "zth-price")]/text()').extract()).strip()
+            game_discount = ''.join(game.xpath('.//span[contains(@data-locator, "zth-badge")]/text()').extract()).strip()
+            game_discount = game_discount.replace('-', '')  # Eliminar el signo "-"
             
             if game_name and game_price:
-                print(f"Nombre: {game_name}")
-                print(f"Precio: {game_price}")
+                print(f"Name: {game_name}")
+                print(f"Price: {game_price}")
                 
                 if game_discount:
                     print(f"Discount: {game_discount}")
-                
