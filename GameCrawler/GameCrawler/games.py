@@ -91,6 +91,7 @@ allowed_games = [
     "The Legend of Zelda: Skyward Sword HD",
     "EA SPORTS FC 24",
     "Cities: Skylines",
+    "Cities: Skylines II",
     "The Sims 4",
     "The Lords of the Fallen",
     "Project Zomboid",
