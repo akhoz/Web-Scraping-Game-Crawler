@@ -6,8 +6,8 @@
     },
     {
         "Name": "EA SPORTS FC 24",
-        "Price": "39.99",
-        "Discount": "43%"
+        "Price": "53.99",
+        "Discount": "23%"
     },
     {
         "Name": "Football Manager 2024",
@@ -23,5 +23,104 @@
         "Name": "Project Zomboid",
         "Price": "6.85",
         "Discount": "51%"
+    },
+    {
+        "Name": "Terraria",
+        "Price": "3.60",
+        "Discount": "64%"
+    },
+    {
+        "Name": "Red Dead Redemption 2",
+        "Price": "16.60",
+        "Discount": "72%"
+    },
+    {
+        "Name": "Grand Theft Auto V",
+        "Price": "12.75",
+        "Discount": "57%"
+    },
+    {
+        "Name": "Rust",
+        "Price": "18.14",
+        "Discount": "55%"
+    },
+    {
+        "Name": "Cyberpunk 2077",
+        "Price": "29.94",
+        "Discount": "50%"
+    },
+    {
+        "Name": "Hogwarts Legacy",
+        "Price": "33.43",
+        "Discount": "44%"
+    },
+    {
+        "Name": "Mortal Kombat 11",
+        "Price": "4.27",
+        "Discount": "93%"
+    },
+    {
+        "Name": "Starfield",
+        "Price": "81.53",
+        "Discount": "4%"
+    },
+    {
+        "Name": "Dying Light 2",
+        "Price": "21.90",
+        "Discount": "63%"
+    },
+    {
+        "Name": "Monster Hunter Rise",
+        "Price": "11.79",
+        "Discount": "80%"
+    },
+    {
+        "Name": "Elden Ring",
+        "Price": "26.34",
+        "Discount": "67%"
+    },
+    {
+        "Name": "Cities: Skylines",
+        "Price": "8.03",
+        "Discount": "71%"
+    },
+    {
+        "Name": "God of War",
+        "Price": "26.99",
+        "Discount": "46%"
+    },
+    {
+        "Name": "Battlefield 2042",
+        "Price": "17.27",
+        "Discount": "71%"
+    },
+    {
+        "Name": "The Outlast Trials",
+        "Price": "11.71"
+    },
+    {
+        "Name": "Far Cry 6",
+        "Price": "14.99",
+        "Discount": "75%"
+    },
+    {
+        "Name": "Forza Horizon 4",
+        "Price": "13.55",
+        "Discount": "77%"
+    },
+    {
+        "Name": "Star Wars Jedi: Fallen Order",
+        "Price": "12.75",
+        "Discount": "79%"
+    },
+    {
+        "Name": "GhostWire: Tokyo",
+        "Price": "6.06",
+        "Discount": "90%"
+    },
+    {
+        "Name": "Ratchet & Clank: Rift Apart",
+        "Price": "52.93",
+        "Discount": "12%"
     }
 ]
