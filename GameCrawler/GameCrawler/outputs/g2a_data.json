@@ -26,8 +26,8 @@
     },
     {
         "Name": "Terraria",
-        "Price": "3.60",
-        "Discount": "64%"
+        "Price": "3.72",
+        "Discount": "63%"
     },
     {
         "Name": "Red Dead Redemption 2",
@@ -41,8 +41,8 @@
     },
     {
         "Name": "Rust",
-        "Price": "16.68",
-        "Discount": "58%"
+        "Price": "15.65",
+        "Discount": "61%"
     },
     {
         "Name": "Spider-Man: Miles Morales",
@@ -51,8 +51,8 @@
     },
     {
         "Name": "Cyberpunk 2077",
-        "Price": "27.14",
-        "Discount": "55%"
+        "Price": "27.48",
+        "Discount": "54%"
     },
     {
         "Name": "Hogwarts Legacy",
@@ -66,22 +66,22 @@
     },
     {
         "Name": "Starfield",
-        "Price": "56.51",
-        "Discount": "19%"
-    },
-    {
-        "Name": "Dying Light 2",
-        "Price": "23.28",
-        "Discount": "61%"
-    },
-    {
-        "Name": "Monster Hunter Rise",
-        "Price": "12.83",
-        "Discount": "79%"
+        "Price": "81.53",
+        "Discount": "4%"
     },
     {
         "Name": "Elden Ring",
-        "Price": "26.18",
+        "Price": "26.08",
         "Discount": "67%"
+    },
+    {
+        "Name": "Dying Light 2",
+        "Price": "21.90",
+        "Discount": "63%"
+    },
+    {
+        "Name": "Monster Hunter Rise",
+        "Price": "12.98",
+        "Discount": "78%"
     }
 ]
