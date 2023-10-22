@@ -1,11 +1,14 @@
 import scrapy
-
+import json
+from GameCrawler.games import allowed_games
 
 class EnebaSpider(scrapy.Spider):
     name = 'eneba'
     start_urls = ['https://www.eneba.com/latam/store/games']
 
-
+    def __init__(self):
+        self.data = []
+        self.scraped_game_names = set()
 
     def parse(self, response):
         games = response.xpath('//div[contains(@class, "pFaGHa WpvaUk")]')
@@ -17,5 +20,18 @@ class EnebaSpider(scrapy.Spider):
             game_price = game_price.split(' €')[0].strip()
             game_price = game_price.replace('€', '').strip()
     
-            print(game_name, game_price)    
+            if game_name and game_price:
+                if game_name not in self.scraped_game_names:
+                    item = {
+                        "Name": game_name,
+                        "Price": game_price,
+                    } 
 
+                    if game_name in allowed_games:
+                        self.data.append(item)
+                        self.scraped_game_names.add(game_name)
+                        print(f"{game_name} added")
+
+    def closed(self, reason):
+        with open('GameCrawler/outputs/eneba_data.json', 'w', encoding='utf-8') as json_file:
+            json.dump(self.data, json_file, ensure_ascii=False, indent=4)
