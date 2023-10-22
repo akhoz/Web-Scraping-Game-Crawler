@@ -103,8 +103,8 @@ p {
     padding: 20px;
     padding-left: 10px;
     padding-right: 10px;
-    color: rgb(255, 255, 255); /* Texto blanco */
-    background-color: rgb(17, 7, 159); /* Fondo azul oscuro */
+    color: rgb(255, 255, 255);
+    background-color: rgb(17, 7, 159);
     border-radius: 20px;
     margin: 40px;
     text-align: center;
@@ -115,11 +115,11 @@ p {
 
 .games, .team-member, .text-2xl, .text-4xl, .text-xl {
     transition: box-shadow 0.5s ease-in-out;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra más suave en estado normal */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .games:hover, .team-member:hover, .text-2xl:hover, .text-4xl:hover, .text-xl:hover {
-    box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.8); /* Sombra muy fuerte en estado hover */
+    box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.8);
 }
 
 .games, .team-member, .text-2xl, .text-4xl, .text-xl {
@@ -127,7 +127,7 @@ p {
 }
 
 .games:hover {
-    background-color: #333; /* Cambia el color a tu elección */
+    background-color: #333;
 }
 
 .games, .team-member, .text-2xl, .text-4xl, .text-xl {
@@ -139,10 +139,9 @@ p {
 }
 
 .team-member .social-links img:hover {
-    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.7); /* Sombra más fuerte en estado hover */
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.7);
 }
 
-/* Efecto al tocar las imágenes de redes sociales en dispositivos táctiles */
 .team-member .social-links img:active {
-    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.7); /* Sombra más fuerte en estado activo (tocado) */
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.7);
 }
