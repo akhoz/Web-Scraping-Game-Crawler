@@ -1,0 +1,26 @@
+.games {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 45%;
+    box-shadow: 2px 1px 10px 1px rgba(0, 0, 0, 0.75);
+    display: inline-block;
+    vertical-align: top;
+    color: rgb(0, 48, 90);
+    font-size: 16px;
+}
+
+body {
+    background-image: url('images/main_theme.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+p {
+    color: rgb(2, 0, 119);
+    font-size: 20px;
+    font-weight: bold;
+}
