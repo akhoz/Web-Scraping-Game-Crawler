@@ -6,6 +6,10 @@ class HowlongtobeatSpider(scrapy.Spider):
     name = "howlongtobeat"
     start_urls = ["https://howlongtobeat.com/?q=recently%2520updated"]
 
+    custom_settings = {
+        'USER_AGENT':  'non_standar_user (https://howlongtobeat.com/?q=recently%2520updated)'
+    }
+
     def __init__(self):
         self.data = []
         self.scraped_game_names = set()
