@@ -11,14 +11,6 @@
     font-size: 16px;
 }
 
-body {
-    background-image: url('images/main_theme.webp');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-attachment: fixed;
-}
-
 p {
     color: rgb(2, 0, 119);
     font-size: 20px;
