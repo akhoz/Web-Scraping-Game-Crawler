@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // FUNCTION TO LOAD DATA FROM THE JSON FILE
     function loadData() {
-        fetch("g2a_data.json")
+        fetch("../GameCrawler/GameCrawler/outputs/g2a_data.json")
             .then(function (response) {
                 return response.json();
             })
@@ -44,4 +44,3 @@ document.addEventListener("DOMContentLoaded", function () {
 
     loadData();
 });
-y

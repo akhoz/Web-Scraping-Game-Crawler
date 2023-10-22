@@ -7,7 +7,7 @@
     box-shadow: 2px 1px 10px 1px rgba(0, 0, 0, 0.75);
     display: inline-block;
     vertical-align: top;
-    color: rgb(0, 48, 90);
+    color: rgb(120, 192, 255);
     font-size: 16px;
 }
 
@@ -23,4 +23,126 @@ p {
     color: rgb(2, 0, 119);
     font-size: 20px;
     font-weight: bold;
+}
+
+/* CONFIGURATION AND PERSONALIZATION PERSONAL INFORMATION */
+.team-member {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 45%;
+    box-shadow: 2px 1px 10px 1px rgba(0, 0, 0, 0.75);
+    display: inline-block;
+    vertical-align: top;
+    color: rgb(0, 48, 90);
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial;
+}
+
+/* PERSONAL IMAGES */
+.team-member img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto 15px;
+    display: flexbox;
+    margin: 10;
+}
+
+/* TITLE PERSONAL INFORMATION */
+.team-member h2 {
+    color: rgb(0, 48, 90);
+    font-size: 24px;
+    margin: 10;
+    font-family: Arial;
+}
+
+.team-member p {
+    color: rgb(0, 48, 90);
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.team-member .social-links .social-img {
+    width: 75px;
+    height: 75px;
+    margin: 20px;
+}
+
+/* IMAGES AND PERSONALIZATION TO TEXT ABOUT US*/
+.text-2xl {
+    font-size: 2rem;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+    display: flexl;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-4xl{
+    font-size: 4rem;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+    display: flexl;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-xl {
+    font-size: 1.5rem;
+    padding: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: rgb(255, 255, 255); /* Texto blanco */
+    background-color: rgb(17, 7, 159); /* Fondo azul oscuro */
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.games, .team-member, .text-2xl, .text-4xl, .text-xl {
+    transition: box-shadow 0.5s ease-in-out;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra más suave en estado normal */
+}
+
+.games:hover, .team-member:hover, .text-2xl:hover, .text-4xl:hover, .text-xl:hover {
+    box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.8); /* Sombra muy fuerte en estado hover */
+}
+
+.games, .team-member, .text-2xl, .text-4xl, .text-xl {
+    transition: background-color 0.3s ease-in-out;
+}
+
+.games:hover {
+    background-color: #333; /* Cambia el color a tu elección */
+}
+
+.games, .team-member, .text-2xl, .text-4xl, .text-xl {
+    transition: transform 0.2s ease-in-out;
+}
+
+.games:active{
+    transform: scale(0.95);
+}
+
+.team-member .social-links img:hover {
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.7); /* Sombra más fuerte en estado hover */
+}
+
+/* Efecto al tocar las imágenes de redes sociales en dispositivos táctiles */
+.team-member .social-links img:active {
+    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.7); /* Sombra más fuerte en estado activo (tocado) */
 }
