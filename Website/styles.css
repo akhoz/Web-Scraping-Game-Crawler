@@ -1,139 +1,163 @@
-.games {
-    background-color: #ffffff;
+/* Style for the header section */
+.header-section {
+    background-color: #022d5b;
+    color: #ffffff;
+    text-align: center;
     padding: 20px;
-    border-radius: 10px;
-    margin: 10px;
-    width: 45%;
-    box-shadow: 2px 1px 10px 1px rgba(0, 0, 0, 0.75);
-    display: inline-block;
-    vertical-align: top;
-    color: rgb(120, 192, 255);
-    font-size: 16px;
 }
 
-p {
-    color: rgb(2, 0, 119);
-    font-size: 20px;
+/* Style for the title in the header section */
+.header-title {
+    font-size: 3rem;
     font-weight: bold;
+    margin: 0;
+    padding: 10px;
 }
 
-/* CONFIGURATION AND PERSONALIZATION PERSONAL INFORMATION */
-.team-member {
-    background-color: #ffffff;
-    padding: 20px;
+/* Style for the subtitle in the header section */
+.header-subtitle {
+    font-size: 2rem;
+    margin: 0;
+}
+
+/* Style for game cards */
+.card-game {
+    background-color: #f0f0f0;
     border-radius: 10px;
-    margin: 10px;
-    width: 45%;
+    margin: 40px auto 10px;
     box-shadow: 2px 1px 10px 1px rgba(0, 0, 0, 0.75);
-    display: inline-block;
-    vertical-align: top;
     color: rgb(0, 48, 90);
     font-size: 16px;
     text-align: center;
     font-family: Arial;
+    width: 800px;
+    height: 500px;
 }
 
-/* PERSONAL IMAGES */
-.team-member img {
+/* Style for the game images */
+.card-game-img {
+    border-radius: 10px 10px 0 0;
+    max-height: 400px;
+}
+
+/* Style for the game titles */
+.card-game-title {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    color: rgb(0, 48, 90);
+}
+
+/* Style for game prices */
+.card-game-price {
+    font-size: 18px;
+    color: #007bff;
+}
+
+/* Style for game discounts */
+.card-game-discount {
+    font-size: 16px;
+    color: #dc3545;
+}
+
+/* Style for team member cards */
+.team-member-card {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    margin: 15px;
+    box-shadow: 5px 10px 30px 20px rgba(0, 0, 0, 0.75);
+    color: rgb(0, 48, 90);
+    font-size: 16px;
+    text-align: center;
+    font-family: Arial;
+    height: 450px;
+}
+
+/* Style for team member images */
+.team-member-img {
     border-radius: 50%;
     width: 150px;
     height: 150px;
-    margin: 0 auto 15px;
-    display: flexbox;
-    margin: 10;
+    margin: 30px auto 15px;
 }
 
-/* TITLE PERSONAL INFORMATION */
-.team-member h2 {
-    color: rgb(0, 48, 90);
+/* Style for team member names */
+.team-member-name {
     font-size: 24px;
-    margin: 10;
+    margin: 10px;
     font-family: Arial;
 }
 
-.team-member p {
-    color: rgb(0, 48, 90);
+/* Style for team member information */
+.team-member-info {
     font-size: 16px;
     margin: 5px 0;
 }
 
-.team-member .social-links .social-img {
+/* Style for social media images */
+.social-img {
     width: 75px;
     height: 75px;
     margin: 20px;
 }
 
-/* IMAGES AND PERSONALIZATION TO TEXT ABOUT US*/
-.text-2xl {
-    font-size: 2rem;
-    padding: 20px;
-    color: rgb(255, 255, 255);
-    background-color: black;
-    border-radius: 20px;
-    margin: 40px;
-    text-align: center;
-    display: flexl;
-    justify-content: center;
-    align-items: center;
-}
-
-.text-4xl{
-    font-size: 4rem;
-    padding: 20px;
-    color: rgb(255, 255, 255);
-    background-color: black;
-    border-radius: 20px;
-    margin: 40px;
-    text-align: center;
-    display: flexl;
-    justify-content: center;
-    align-items: center;
-}
-
-.text-xl {
-    font-size: 1.5rem;
-    padding: 20px;
-    padding-left: 10px;
-    padding-right: 10px;
-    color: rgb(255, 255, 255);
-    background-color: rgb(17, 7, 159);
-    border-radius: 20px;
-    margin: 40px;
-    text-align: center;
+/* About us section */
+.text-center {
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-style: bold;
+    background-color: #022040;
+    border-radius: 10px;
+    width: 100%;
+    height: 100px;
 }
 
-.games, .team-member, .text-2xl, .text-4xl, .text-xl {
-    transition: box-shadow 0.5s ease-in-out;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+/* Animation */
+.text-center:hover {
+    background-color: #FF5733; /* Cambia el color a tu preferencia */
 }
 
-.games:hover, .team-member:hover, .text-2xl:hover, .text-4xl:hover, .text-xl:hover {
-    box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.8);
+.social-img {
+    width: 75px;
+    height: 75px;
+    margin: 20px;
+    transition: transform 0.3s;
 }
 
-.games, .team-member, .text-2xl, .text-4xl, .text-xl {
-    transition: background-color 0.3s ease-in-out;
+.social-img:hover {
+    transform: scale(1.3);
 }
 
-.games:hover {
-    background-color: #333;
+.social-img {
+    width: 75px;
+    height: 75px;
+    margin: 20px;
+    transition: color 0.3s;
 }
 
-.games, .team-member, .text-2xl, .text-4xl, .text-xl {
-    transition: transform 0.2s ease-in-out;
+/* Animationd card games */
+.card-game {
+    transition: transform 0.3s;
 }
 
-.games:active{
-    transform: scale(0.95);
+.card-game:hover {
+    transform: scale(1.05);
+    background-color: #022040;
 }
 
-.team-member .social-links img:hover {
-    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.7);
+/* Animationd member card*/
+.team-member-card {
+    /* Otros estilos aquí */
+    transition: background-color 0.3s;
+    transition: color 0.3s;
 }
 
-.team-member .social-links img:active {
-    box-shadow: 12px 12px 20px rgba(0, 0, 0, 0.7);
+.team-member-card:hover {
+    background-color: #560000;
+    color: #ffffff;
 }
+

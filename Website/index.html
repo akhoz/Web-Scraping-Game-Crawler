@@ -2,63 +2,96 @@
 <html>
 <head>
     <title>Videogames Collections</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <header class="bg-blue-900 text-white p-4 text-center">
-        <h1 class="text-4xl font-bold">Welcome to GameVerse</h1>
-        <p class="text-xl">Endless Adventures</p>
+    <!-- Encabezado con estilo Bootstrap -->
+    <header class="header-section py-4">
+        <h1 class="header-title">Welcome to GameVerse</h1>
+        <p class="header-subtitle">Endless Adventures</p>
     </header>
 
-    <section class = "bg-gray-100 p-8">
-        <h2 class="text-2xl font-bold">Latest Game Drops</h2>
-        <div id="content" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
-    </section>
-
-    <section class="bg-black text-white p-8">
-        <h2 class="text-2xl font-bold">About Us</h2>
-        <div class="team-member">
-            <img src="images/Adrian.png" alt="Adrian">
-            <h2>Adrian Villalobos</h2>
-            <p>Computer Engineering Student</p>
-            <div class="social-links">
-                <a href="https://www.instagram.com/adrian_jvp25/" target="_blank">
-                    <img class="social-img" src="images/instagram.webp" alt="Instagram">
-                </a>
-                <a href="https://github.com/akhoz" target="_blank">
-                    <img class="social-img" src="images/github.png" alt="GitHub">
-                </a>
-            </div>
-        </div>
-
-        <div class="team-member">
-            <img src="images/Isaac.png" alt="Isaac">
-            <h2>Isaac Ramirez</h2>
-            <p>Computer Engineering Student</p>
-            <div class="social-links">
-                <a href="https://www.instagram.com/izackk_r/" target="_blank">
-                    <img class="social-img" src="images/instagram.webp" alt="Instagram">
-                </a>
-                <a href="https://github.com/iZackk26" target="_blank">
-                    <img class="social-img" src="images/github.png" alt="GitHub">
-                </a>
-            </div>
-        </div>
-
-        <div class="team-member">
-            <img src="images/Hector.png" alt="Hector">
-            <h2>Hector Caravaca</h2>
-            <p>Computer Engineering Student</p>
-            <div class="social-links">
-                <a href="https://www.instagram.com/hector_caravaca/" target="_blank">
-                    <img class="social-img" src="images/instagram.webp" alt="Instagram">
-                </a>
-                <a href="https://github.com/hectorcaravacavargas" target="_blank">
-                    <img class="social-img" src="images/github.png" alt="GitHub">
-                </a>
+    <!-- Sección de juegos con estilo Bootstrap -->
+    <section class="bg-light p-5">
+        <div class="container">
+            <h2 class="text-center display-4 mb-5">Latest Game Drops</h2>
+            <div id="content" class="row">
+                <!-- Las tarjetas de juegos se crearán dinámicamente aquí utilizando script.js -->
             </div>
         </div>
     </section>
+
+    <!-- Sección "Acerca de nosotros" con estilo Bootstrap -->
+    <section class="bg-dark text-white p-5">
+        <div class="team-member-conteiner">
+            <h2 class="text-center display-4 mb-5">About Us</h2>
+            <div class="row">
+
+                <!-- Tarjetas de miembros del equipo con estilo Bootstrap -->
+                <div class="team-member col-md-4">
+                    <div class="card team-member-card">
+                        <img src="images/Adrian.png" alt="Adrian" class="card-img-top team-member-img">
+                        <div class="card-body">
+                            <h2 class="card-title team-member-name">Adrian Villalobos</h2>
+                            <p class="card-text team-member-info">Computer Engineering Student</p>
+                            <div class="social-links">
+                                <a href="https://www.instagram.com/adrian_jvp25/" target="_blank">
+                                    <img class="social-img" src="images/instagram.webp" alt="Instagram">
+                                </a>
+                                <a href="https://github.com/akhoz" target="_blank">
+                                    <img class="social-img" src="images/github.png" alt="GitHub">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="team-member col-md-4">
+                    <div class="card team-member-card">
+                        <img src="images/Isaac.png" alt="Isaac" class="card-img-top team-member-img">
+                        <div class="card-body">
+                            <h2 class="card-title team-member-name">Isaac Ramirez</h2>
+                            <p class="card-text team-member-info">Computer Engineering Student</p>
+                            <div class="social-links">
+                                <a href="https://www.instagram.com/izackk_r/" target="_blank">
+                                    <img class="social-img" src="images/instagram.webp" alt="Instagram">
+                                </a>
+                                <a href="https://github.com/iZackk26" target="_blank">
+                                    <img class="social-img" src="images/github.png" alt="GitHub">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="team-member col-md-4">
+                    <div class="card team-member-card">
+                        <img src="images/Hector.png" alt="Hector" class="card-img-top team-member-img">
+                        <div class="card-body">
+                            <h2 class="card-title team-member-name">Hector Caravaca</h2>
+                            <p class="card-text team-member-info">Computer Engineering Student</p>
+                            <div class="social-links">
+                                <a href="https://www.instagram.com/hector_caravaca/" target="_blank">
+                                    <img class="social-img" src="images/instagram.webp" alt="Instagram">
+                                </a>
+                                <a href="https://github.com/hectorcaravacavargas" target="_blank">
+                                    <img class="social-img" src="images/github.png" alt="GitHub">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
 </body>
+
+<!-- Agregar los archivos JS de Bootstrap -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 <script src="script.js"></script>
 </html>
