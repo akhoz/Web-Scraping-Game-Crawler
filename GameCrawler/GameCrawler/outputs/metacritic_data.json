@@ -1,5 +1,9 @@
 [
     {
+        "Name": "The Legend of Zelda: Ocarina of Time",
+        "Metascore": "99"
+    },
+    {
         "Name": "Grand Theft Auto V",
         "Metascore": "97"
     },
@@ -16,6 +20,14 @@
         "Metascore": "97"
     },
     {
+        "Name": "The Legend of Zelda: Twilight Princess",
+        "Metascore": "96"
+    },
+    {
+        "Name": "The Legend of Zelda: The Wind Waker",
+        "Metascore": "96"
+    },
+    {
         "Name": "Elden Ring",
         "Metascore": "96"
     },
@@ -28,12 +40,20 @@
         "Metascore": "95"
     },
     {
+        "Name": "The Legend of Zelda: Majora's Mask",
+        "Metascore": "95"
+    },
+    {
         "Name": "The Last of Us Remastered",
         "Metascore": "95"
     },
     {
         "Name": "God of War",
         "Metascore": "94"
+    },
+    {
+        "Name": "The Legend of Zelda: Skyward Sword",
+        "Metascore": "93"
     },
     {
         "Name": "Super Smash Bros. Ultimate",
@@ -72,7 +92,23 @@
         "Metascore": "92"
     },
     {
+        "Name": "The Legend of Zelda: A Link Between Worlds",
+        "Metascore": "91"
+    },
+    {
         "Name": "Sekiro: Shadows Die Twice",
         "Metascore": "91"
+    },
+    {
+        "Name": "Monster Hunter: World",
+        "Metascore": "90"
+    },
+    {
+        "Name": "Animal Crossing: New Horizons",
+        "Metascore": "90"
+    },
+    {
+        "Name": "The Legend of Zelda: Phantom Hourglass",
+        "Metascore": "90"
     }
 ]
