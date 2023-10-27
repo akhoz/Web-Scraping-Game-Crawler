@@ -66,6 +66,8 @@ ROBOTSTXT_OBEY = True
 #    "GameCrawler.pipelines.GamecrawlerPipeline": 300,
 #}
 
+ROBOTSTXT_OBEY = False
+
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

@@ -1,6 +1,7 @@
 import scrapy
 import json
-from GameCrawler.games import allowed_games
+from games import allowed_games
+import os
 
 class G2aSpider(scrapy.Spider):
     name = "g2a"
@@ -36,10 +37,13 @@ class G2aSpider(scrapy.Spider):
                         print(f"{game_name} added")
         
         next_page = self.start_urls[0] + f"?page={self.pages}"
-        if self.pages < 999:
+        if self.pages < 20:
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
 
     def closed(self, reason):
-        with open('GameCrawler/outputs/g2a_data.json', 'w', encoding='utf-8') as json_file:
+        current_directory = os.path.dirname(os.path.realpath(__file__))
+        path = current_directory + '/data/g2a.json'
+        print(current_directory)
+        with open(path, 'w', encoding='utf-8') as json_file:
             json.dump(self.data, json_file, ensure_ascii=False, indent=4)

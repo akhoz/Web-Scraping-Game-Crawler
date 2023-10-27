@@ -1,6 +1,7 @@
 import scrapy
 import json
-from GameCrawler.games import allowed_games
+from games import allowed_games
+import os
 
 class HowlongtobeatSpider(scrapy.Spider):
     name = "howlongtobeat"
@@ -36,5 +37,8 @@ class HowlongtobeatSpider(scrapy.Spider):
                         print(f"{game_name} added")
 
     def closed(self, reason):
-        with open('GameCrawler/outputs/hltb_data.json', 'w', encoding='utf-8') as json_file:
+        current_directory = os.path.dirname(os.path.realpath(__file__))
+        path = current_directory + '/data/hltb.json'
+        print(current_directory)
+        with open(path, 'w', encoding='utf-8') as json_file:
             json.dump(self.data, json_file, ensure_ascii=False, indent=4)

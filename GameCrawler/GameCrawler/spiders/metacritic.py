@@ -1,7 +1,7 @@
 import scrapy
 import json
-from GameCrawler.games import allowed_games
-
+from games import allowed_games
+import os
 
 class MetacriticSpider(scrapy.Spider):
     name = "metacritic"
@@ -28,10 +28,13 @@ class MetacriticSpider(scrapy.Spider):
                         self.data.append(item)
                         self.scraped_game_names.add(game_name)
         next_page = self.start_urls[0] + f"?releaseYearMin=1910&releaseYearMax=2023&page={self.pages}"
-        if self.pages < 542:
+        if self.pages < 60:
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
         
     def closed(self, reason):
-        with open('GameCrawler/outputs/metacritic_data.json', 'w', encoding='utf-8') as json_file:
+        current_directory = os.path.dirname(os.path.realpath(__file__))
+        path = current_directory + '/data/metacritic.json'
+        print(current_directory)
+        with open(path, 'w', encoding='utf-8') as json_file:
             json.dump(self.data, json_file, ensure_ascii=False, indent=4)

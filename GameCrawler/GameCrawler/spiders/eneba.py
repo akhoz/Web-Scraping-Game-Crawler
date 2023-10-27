@@ -1,7 +1,8 @@
 import scrapy
 import json
-from GameCrawler.games import allowed_games
+from games import allowed_games
 from urllib.parse import urljoin
+import os
 
 class EnebaSpider(scrapy.Spider):
     name = 'eneba'
@@ -39,5 +40,8 @@ class EnebaSpider(scrapy.Spider):
             yield scrapy.Request(url=next_page_url, callback=self.parse)
 
     def closed(self, reason):
-        with open('GameCrawler/outputs/eneba_data.json', 'w', encoding='utf-8') as json_file:
+        current_directory = os.path.dirname(os.path.realpath(__file__))
+        path = current_directory + '/data/eneba.json'
+        print(current_directory)
+        with open(path, 'w', encoding='utf-8') as json_file:
             json.dump(self.data, json_file, ensure_ascii=False, indent=4)
