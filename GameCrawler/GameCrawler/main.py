@@ -9,7 +9,7 @@ from spiders.metacritic import MetacriticSpider
 from spiders.howlongtobeat import HowlongtobeatSpider
 from spiders.playStation import PlayStationSpider
 
-spiders = [InstantGamingSpider ,G2aSpider, PlayStationSpider, MetacriticSpider, HowlongtobeatSpider]
+spiders = [MetacriticSpider, G2aSpider, PlayStationSpider, InstantGamingSpider, HowlongtobeatSpider]
 
 #spiders = [InstantGamingSpider]
 def run_spider(spider):

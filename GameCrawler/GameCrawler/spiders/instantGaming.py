@@ -26,6 +26,7 @@ class InstantGamingSpider(scrapy.Spider):
             price = game_info.xpath('.//div[@class="price"]/text()').get()
             discount = game_info.xpath('.//div[@class="discount"]/text()').get()
             image = game_info.xpath('.//img/@data-src').get()
+            link = game_info.xpath('.//a/@href').get()
 
             if name and price and name not in self.games:
 
@@ -34,6 +35,7 @@ class InstantGamingSpider(scrapy.Spider):
                 game = {
                     'Name': name,
                     'Price': price,
+                    'Link': link,
                     'Image': image,
                 }
 
@@ -48,7 +50,7 @@ class InstantGamingSpider(scrapy.Spider):
                     print(f"InstantGaming: {name} -----------------------")
 
         next_page = self.start_urls[0] + f"?type%5B0%5D=steam&page={self.page}"
-        if self.page < 170:
+        if self.page < 10: # 170
             self.page += 1
             yield response.follow(next_page, callback=self.parse)
 

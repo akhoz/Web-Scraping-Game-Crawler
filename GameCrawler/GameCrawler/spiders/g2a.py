@@ -17,16 +17,21 @@ class G2aSpider(scrapy.Spider):
 
         for game in games:
             game_name = game.xpath('@name').extract_first()
-            game_name = game_name.split(' (')[0].strip()
             game_price = ''.join(game.xpath('.//span[contains(@data-locator, "zth-price")]/text()').extract()).strip()
             game_discount = ''.join(game.xpath('.//span[contains(@data-locator, "zth-badge")]/text()').extract()).strip()
-            game_discount = game_discount.replace('-', '')
+            product_link = game.xpath('.//a[contains(@class, "sc-gsWcmt")]/@href').extract_first()
+            game_image = game.xpath('.//a/img/@src').extract_first()
+
 
             if game_name and game_price:
                 if game_name not in self.scraped_game_names:
+                    game_name = game_name.split(' (')[0].strip()
+                    game_discount = game_discount.replace('-', '')
                     item = {
                         "Name": game_name,
                         "Price": game_price,
+                        "Link": product_link,
+                        "Image": game_image
                     }
 
                     if game_discount:
@@ -36,7 +41,7 @@ class G2aSpider(scrapy.Spider):
                         self.scraped_game_names.add(game_name)
                         print(f"G2a: {game_name} -----------------------")        
         next_page = self.start_urls[0] + f"?page={self.pages}"
-        if self.pages < 200:
+        if self.pages < 10: # 279
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
 

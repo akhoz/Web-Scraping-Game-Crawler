@@ -3,6 +3,7 @@ import json
 import os
 import requests
 from games import allowed_games
+from urllib.parse import urljoin
 
 class PlayStationSpider(scrapy.Spider):
     name = "playStation"
@@ -20,14 +21,22 @@ class PlayStationSpider(scrapy.Spider):
             game_name = game.xpath('.//span[contains(@class, "psw-t-body psw-c-t-1 psw-t-truncate-2 psw-m-b-2")]/text()').extract_first()
             game_price = game.xpath('.//span[contains(@class, "psw-m-r-3")]/text()').extract_first()
             game_discount = game.xpath('.//span[contains(@class, "psw-body-2 psw-badge__text psw-badge--none psw-text-bold psw-p-y-0 psw-p-2 psw-r-1 psw-l-anchor")]/text()').extract_first()
+            game_link = game.xpath('.//a/@href').extract_first()
+            game_image = game.xpath('.//img/@src').extract_first()
 
             if game_name in allowed_games and game_price:
-                game_price = game_price.replace("US$", "").strip()
+                game_price = game_price.replace("US$", "")
+                game_price = game_price[1:]
                 game_name = game_name.encode('utf-8').decode('ascii', 'ignore')
 
+                base_url = "https://store.playstation.com"
+                game_link = urljoin(base_url, game_link)
+                game_image = urljoin(base_url, game_image)
                 item = {
                     "Name": game_name,
                     "Price": game_price,
+                    "Link": game_link,
+                    "Image": game_image
                 }
 
                 if game_discount:
@@ -37,7 +46,7 @@ class PlayStationSpider(scrapy.Spider):
                 self.data.append(item)
                 print(f"PlayStation: {game_name} -----------------------")
 
-        if self.pages < 200:
+        if self.pages < 10: # 279
             next_page = f"https://store.playstation.com/en-us/category/877e5ce2-4afc-4694-9f69-4758e34e58cd/{self.pages+1}"
             yield response.follow(next_page, callback=self.parse)
             self.pages += 1
