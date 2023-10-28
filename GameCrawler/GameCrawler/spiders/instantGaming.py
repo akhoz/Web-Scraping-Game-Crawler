@@ -25,12 +25,14 @@ class InstantGamingSpider(scrapy.Spider):
             name = game_info.xpath('.//span[@class="title"]/text()').get()
             price = game_info.xpath('.//div[@class="price"]/text()').get()
             discount = game_info.xpath('.//div[@class="discount"]/text()').get()
+            image = game_info.xpath('.//img/@data-src').get()
 
             if name and price and discount and name not in self.games:
                 game = {
                     'name': name,
                     'price': price,
-                    'discount': discount
+                    'discount': discount,
+                    'image': image,
                 }
                 if name in allowed_games and game not in self.game_list:
                     self.game_list.append(game)
