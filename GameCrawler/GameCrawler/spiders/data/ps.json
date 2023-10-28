@@ -58,7 +58,7 @@
     },
     {
         "Name": "PUBG: BATTLEGROUNDS",
-        "Price": "ree",
+        "Price": "0",
         "Link": "https://store.playstation.com/en-us/product/UP5082-CUSA14081_00-PTSBUN0000000000",
         "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1609/076c674ecc2e8acee5c30a85428ebffe62c9a227e2d26e3d.png?w=54&thumb=true"
     },
@@ -113,7 +113,7 @@
     },
     {
         "Name": "RESIDENT EVIL 7 biohazard",
-        "Price": "ncluded",
+        "Price": "0",
         "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA03962_00-BH70000000000001",
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307HhTidFhptTYzAgEccg2W2gSTXJtujb__BJSLwLC3kk0zEM4uR1XXwEmncR2FJ86eNJ-NHgU2CWTlWz_DqldkV0WG1sV.png?w=54&thumb=true"
     },
@@ -210,7 +210,7 @@
     },
     {
         "Name": "Devil May Cry 5",
-        "Price": "ncluded",
+        "Price": "0",
         "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA08216_00-DMC5000000000001",
         "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA08216_00/nxnwRA9ePhYHVjnfn406ZXw1Ug0ddELA.png?w=54&thumb=true"
     },
@@ -324,7 +324,7 @@
     },
     {
         "Name": "A Plague Tale: Innocence",
-        "Price": "ree",
+        "Price": "0",
         "Link": "https://store.playstation.com/en-us/product/UP4133-CUSA11032_00-APLAGUETALEGAME0",
         "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2216/uFqCClqXSIsEFIo3ktJdZm7H.png?w=54&thumb=true"
     },

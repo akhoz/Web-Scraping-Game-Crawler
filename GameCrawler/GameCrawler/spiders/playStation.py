@@ -26,7 +26,13 @@ class PlayStationSpider(scrapy.Spider):
 
             if game_name in allowed_games and game_price:
                 game_price = game_price.replace("US$", "")
-                game_price = game_price[1:]
+                
+                if game_price == "Free" or game_price == "Included":
+                    game_price = "0"
+
+                else:
+                    game_price = game_price[1:]
+
                 game_name = game_name.encode('utf-8').decode('ascii', 'ignore')
 
                 base_url = "https://store.playstation.com"
