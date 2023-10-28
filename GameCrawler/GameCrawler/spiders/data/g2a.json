@@ -2,77 +2,70 @@
     {
         "Name": "Red Dead Redemption 2",
         "Price": "16.60",
-        "Link": null,
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=2",
         "Image": "https://images.g2a.com/115x155/1x1x0/red-dead-redemption-2-rockstar-key-global/5bc41691ae653a49fd7f4e1b",
         "Discount": "72%"
     },
     {
         "Name": "Marvel's Spider-Man Remastered",
         "Price": "40.99",
-        "Link": null,
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=2",
         "Image": "https://images.g2a.com/115x155/1x1x0/marvels-spider-man-remastered-pc-steam-key-global/7e4252006f11418bae232b83",
         "Discount": "32%"
     },
     {
         "Name": "Grand Theft Auto V",
         "Price": "12.09",
-        "Link": null,
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=3",
         "Image": "https://images.g2a.com/115x155/1x1x0/grand-theft-auto-v-rockstar-key-global/59e5efeb5bafe304c4426c47",
         "Discount": "60%"
     },
     {
         "Name": "Golf With Your Friends",
         "Price": "4.20",
-        "Link": null,
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=3",
         "Image": "https://images.g2a.com/115x155/1x1x0/golf-with-your-friends-pc-steam-key-global/5911f1d2ae653ac4581f3f43",
         "Discount": "72%"
     },
     {
         "Name": "No Man's Sky",
-        "Price": "22.26",
-        "Link": null,
+        "Price": "20.47",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=5",
         "Image": "https://images.g2a.com/115x155/1x1x0/no-mans-sky-steam-key-global/5b58695dae653a67c354ffb4",
-        "Discount": "60%"
+        "Discount": "63%"
     },
     {
         "Name": "Assetto Corsa Competizione",
         "Price": "9.42",
-        "Link": null,
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=5",
         "Image": "https://images.g2a.com/115x155/1x1x0/assetto-corsa-competizione-steam-key-global/5b9946d65bafe3100e478935",
         "Discount": "76%"
     },
     {
         "Name": "ARK: Survival Evolved",
         "Price": "3.03",
-        "Link": null,
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=7",
         "Image": "https://images.g2a.com/115x155/1x1x0/ark-survival-evolved-pc-steam-account-account-global/5a5e0a165bafe3dc5157ad83",
         "Discount": "89%"
     },
     {
         "Name": "Red Dead Redemption 2",
         "Price": "13.72",
-        "Link": null,
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=8",
         "Image": "https://images.g2a.com/115x155/1x1x0/red-dead-redemption-2-pc-steam-account-account-global/5bc41691ae653a49fd7f4e1b",
         "Discount": "77%"
     },
     {
-        "Name": "Fallout 4: Game of the Year Edition",
-        "Price": "10.36",
-        "Link": null,
-        "Image": "https://images.g2a.com/115x155/1x1x0/fallout-4-game-of-the-year-edition-pc-steam-key-global/59a93f5aae653a212d5cfc13",
-        "Discount": "83%"
-    },
-    {
         "Name": "Fallout 76",
-        "Price": "11.06",
-        "Link": null,
+        "Price": "11.30",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=9",
         "Image": "https://images.g2a.com/115x155/1x1x0/fallout-76-pc-steam-key-global/5b1e66a2ae653a1fea0c8313",
         "Discount": "72%"
     },
     {
         "Name": "Mortal Kombat 11",
         "Price": "3.96",
-        "Link": null,
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=9",
         "Image": "https://images.g2a.com/115x155/1x1x0/mortal-kombat-11-steam-key-global/5cc00a385bafe3b6dc586b45",
         "Discount": "93%"
     }

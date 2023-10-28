@@ -30,7 +30,7 @@ class G2aSpider(scrapy.Spider):
                     item = {
                         "Name": game_name,
                         "Price": game_price,
-                        "Link": product_link,
+                        "Link": response.urljoin(product_link),
                         "Image": game_image
                     }
 
