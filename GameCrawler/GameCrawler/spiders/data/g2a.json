@@ -1,43 +1,13 @@
 [
     {
-        "Name": "Cities: Skylines II",
-        "Price": "36.02",
-        "Discount": "28%"
-    },
-    {
-        "Name": "EA SPORTS FC 24",
-        "Price": "44.92",
-        "Discount": "36%"
-    },
-    {
-        "Name": "Football Manager 2024",
-        "Price": "36.99",
-        "Discount": "38%"
-    },
-    {
-        "Name": "The Lords of the Fallen",
-        "Price": "43.32",
-        "Discount": "28%"
-    },
-    {
-        "Name": "Project Zomboid",
-        "Price": "6.85",
-        "Discount": "51%"
-    },
-    {
-        "Name": "Terraria",
-        "Price": "3.72",
-        "Discount": "63%"
-    },
-    {
         "Name": "Red Dead Redemption 2",
         "Price": "16.60",
         "Discount": "72%"
     },
     {
         "Name": "Marvel's Spider-Man Remastered",
-        "Price": "44.06",
-        "Discount": "27%"
+        "Price": "40.99",
+        "Discount": "32%"
     },
     {
         "Name": "Grand Theft Auto V",
@@ -50,73 +20,88 @@
         "Discount": "72%"
     },
     {
-        "Name": "Spider-Man: Miles Morales",
-        "Price": "35.48",
-        "Discount": "29%"
-    },
-    {
-        "Name": "Rust",
-        "Price": "17.49",
-        "Discount": "56%"
-    },
-    {
         "Name": "No Man's Sky",
-        "Price": "20.53",
+        "Price": "20.47",
         "Discount": "63%"
     },
     {
-        "Name": "Hogwarts Legacy",
-        "Price": "33.12",
-        "Discount": "45%"
+        "Name": "Assetto Corsa Competizione",
+        "Price": "9.42",
+        "Discount": "76%"
     },
     {
-        "Name": "Cyberpunk 2077",
-        "Price": "27.69",
-        "Discount": "54%"
+        "Name": "ARK: Survival Evolved",
+        "Price": "3.03",
+        "Discount": "89%"
     },
     {
-        "Name": "Cities: Skylines",
-        "Price": "8.39",
-        "Discount": "70%"
+        "Name": "Fallout 4: Game of the Year Edition",
+        "Price": "9.96",
+        "Discount": "83%"
     },
     {
-        "Name": "Dying Light 2",
-        "Price": "21.56",
-        "Discount": "64%"
-    },
-    {
-        "Name": "Elden Ring",
-        "Price": "25.98",
-        "Discount": "68%"
+        "Name": "Fallout 76",
+        "Price": "11.06",
+        "Discount": "72%"
     },
     {
         "Name": "Mortal Kombat 11",
-        "Price": "4.01",
+        "Price": "3.96",
         "Discount": "93%"
     },
     {
-        "Name": "Monster Hunter Rise",
-        "Price": "12.71",
-        "Discount": "79%"
-    },
-    {
-        "Name": "Starfield",
-        "Price": "56.49",
-        "Discount": "19%"
-    },
-    {
         "Name": "God of War",
-        "Price": "30.00",
-        "Discount": "40%"
+        "Price": "26.99",
+        "Discount": "46%"
+    },
+    {
+        "Name": "Ghostrunner",
+        "Price": "8.06",
+        "Discount": "73%"
     },
     {
         "Name": "The Jackbox Party Pack 8",
-        "Price": "11.79",
-        "Discount": "53%"
+        "Price": "12.53",
+        "Discount": "50%"
     },
     {
-        "Name": "Battlefield 2042",
-        "Price": "17.25",
-        "Discount": "71%"
+        "Name": "Marvel's Avengers - The Definitive Edition",
+        "Price": "5.63",
+        "Discount": "91%"
+    },
+    {
+        "Name": "Mafia: Definitive Edition",
+        "Price": "10.73",
+        "Discount": "73%"
+    },
+    {
+        "Name": "LEGO Marvel Super Heroes",
+        "Price": "2.37",
+        "Discount": "88%"
+    },
+    {
+        "Name": "Wasteland 3",
+        "Price": "5.78",
+        "Discount": "90%"
+    },
+    {
+        "Name": "The Jackbox Party Quintpack",
+        "Price": "31.06",
+        "Discount": "65%"
+    },
+    {
+        "Name": "The Outer Worlds",
+        "Price": "9.65",
+        "Discount": "84%"
+    },
+    {
+        "Name": "WWE 2K Battlegrounds",
+        "Price": "1.53",
+        "Discount": "96%"
+    },
+    {
+        "Name": "Ghostbusters: The Video Game Remastered",
+        "Price": "2.42",
+        "Discount": "90%"
     }
 ]

@@ -4,13 +4,14 @@ from scrapy.utils.project import get_project_settings
 
 from spiders.instantGaming import InstantGamingSpider
 from spiders.g2a import G2aSpider
-from spiders.eneba import EnebaSpider
+#from spiders.eneba import EnebaSpider
 from spiders.metacritic import MetacriticSpider
 from spiders.howlongtobeat import HowlongtobeatSpider
+from spiders.playStation import PlayStationSpider
 
-#spiders = [InstantGamingSpider ,G2aSpider, EnebaSpider, MetacriticSpider, HowlongtobeatSpider]
+spiders = [InstantGamingSpider ,G2aSpider, PlayStationSpider, MetacriticSpider, HowlongtobeatSpider]
 
-spiders = [InstantGamingSpider]
+#spiders = [InstantGamingSpider]
 def run_spider(spider):
     process = CrawlerProcess(get_project_settings())
     process.crawl(spider)

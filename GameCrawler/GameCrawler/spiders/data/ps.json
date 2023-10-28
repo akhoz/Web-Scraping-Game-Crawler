@@ -1,0 +1,302 @@
+[
+    {
+        "name": "The Last of Us Part II",
+        "price": "$39.99"
+    },
+    {
+        "name": "Ghost of Tsushima: Legends",
+        "price": "$19.99"
+    },
+    {
+        "name": "Marvel's Spider-Man: Game of the Year Edition",
+        "price": "$39.99"
+    },
+    {
+        "name": "Grand Theft Auto V: Premium Edition",
+        "price": "$29.99"
+    },
+    {
+        "name": "Mortal Kombat 11",
+        "price": "$49.99"
+    },
+    {
+        "name": "FINAL FANTASY VII REMAKE",
+        "price": "$29.99"
+    },
+    {
+        "name": "God of War",
+        "price": "$19.99"
+    },
+    {
+        "name": "PGA TOUR 2K21",
+        "price": "$59.99"
+    },
+    {
+        "name": "Mafia: Definitive Edition",
+        "price": "$39.99"
+    },
+    {
+        "name": "Nioh 2",
+        "price": "$39.99"
+    },
+    {
+        "name": "Marvel's Iron Man VR",
+        "price": "$39.99"
+    },
+    {
+        "name": "WWE 2K Battlegrounds",
+        "price": "$39.99"
+    },
+    {
+        "name": "Project CARS 3",
+        "price": "$59.99"
+    },
+    {
+        "name": "The Division 2 - Warlords of New York - Ultimate Edition",
+        "price": "$23.99"
+    },
+    {
+        "name": "No Man's Sky PS4 & PS5",
+        "price": "$59.99"
+    },
+    {
+        "name": "Cuphead",
+        "price": "$19.99"
+    },
+    {
+        "name": "Ghostrunner",
+        "price": "$29.99"
+    },
+    {
+        "name": "ARK: Survival Evolved",
+        "price": "$14.99"
+    },
+    {
+        "name": "Skater XL",
+        "price": "$39.99"
+    },
+    {
+        "name": "Mafia: Trilogy",
+        "price": "$59.99"
+    },
+    {
+        "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+        "price": "$11.99"
+    },
+    {
+        "name": "Fallout 76",
+        "price": "$7.99"
+    },
+    {
+        "name": "Stranded Deep",
+        "price": "$19.99"
+    },
+    {
+        "name": "Far Cry 5",
+        "price": "$59.99"
+    },
+    {
+        "name": "The Outer Worlds",
+        "price": "$29.99"
+    },
+    {
+        "name": "The Walking Dead: Saints & Sinners - Standard Edition",
+        "price": "$29.99"
+    },
+    {
+        "name": "PUBG: BATTLEGROUNDS",
+        "price": "Free"
+    },
+    {
+        "name": "13 Sentinels: Aegis Rim",
+        "price": "$59.99"
+    },
+    {
+        "name": "NASCAR Heat 5",
+        "price": "$19.99"
+    },
+    {
+        "name": "Wreckfest",
+        "price": "$10.49"
+    },
+    {
+        "name": "World War Z",
+        "price": "$29.99"
+    },
+    {
+        "name": "Mortal Shell",
+        "price": "$29.99"
+    },
+    {
+        "name": "Control: Ultimate Edition",
+        "price": "$39.99"
+    },
+    {
+        "name": "Maneater PS4 & PS5",
+        "price": "$39.99"
+    },
+    {
+        "name": "Maneater PS4 & PS5",
+        "price": "$39.99"
+    },
+    {
+        "name": "RESIDENT EVIL 7 biohazard",
+        "price": "Included"
+    },
+    {
+        "name": "Saints Row: The Third Remastered",
+        "price": "$39.99"
+    },
+    {
+        "name": "Destroy All Humans!",
+        "price": "$11.99"
+    },
+    {
+        "name": "Kingdoms of Amalur: Re-Reckoning",
+        "price": "$39.99"
+    },
+    {
+        "name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+        "price": "$9.99"
+    },
+    {
+        "name": "Risk of Rain 2",
+        "price": "$6.24"
+    },
+    {
+        "name": "The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition",
+        "price": "$79.99"
+    },
+    {
+        "name": "GORN",
+        "price": "$19.99"
+    },
+    {
+        "name": "Shadow of the Tomb Raider Definitive Edition",
+        "price": "$39.99"
+    },
+    {
+        "name": "KINGDOM HEARTS All-In-One Package",
+        "price": "$39.99"
+    },
+    {
+        "name": "Amnesia: Rebirth",
+        "price": "$5.99"
+    },
+    {
+        "name": "Fallout 4: Game of the Year Edition",
+        "price": "$9.99"
+    },
+    {
+        "name": "Attack on Titan 2: Final Battle",
+        "price": "$29.99"
+    },
+    {
+        "name": "Streets Of Rage 4",
+        "price": "$24.99"
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim VR",
+        "price": "$59.99"
+    },
+    {
+        "name": "Devil May Cry 5",
+        "price": "Included"
+    },
+    {
+        "name": "Monster Hunter World: Iceborne Digital Deluxe",
+        "price": "$39.99"
+    },
+    {
+        "name": "Wasteland 3",
+        "price": "$7.99"
+    },
+    {
+        "name": "Hunt: Showdown",
+        "price": "$11.99"
+    },
+    {
+        "name": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
+        "price": "$49.99"
+    },
+    {
+        "name": "SMITE Ultimate God Pack",
+        "price": "$29.99"
+    },
+    {
+        "name": "Street Fighter V: Champion Edition",
+        "price": "$9.99"
+    },
+    {
+        "name": "MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON",
+        "price": "$29.99"
+    },
+    {
+        "name": "Battlefield V Definitive Edition",
+        "price": "$49.99"
+    },
+    {
+        "name": "Attack on Titan 2",
+        "price": "$39.99"
+    },
+    {
+        "name": "Crysis Remastered",
+        "price": "$8.99"
+    },
+    {
+        "name": "Judgment",
+        "price": "$29.99"
+    },
+    {
+        "name": "Devil May Cry HD Collection & 4SE Bundle",
+        "price": "$44.99"
+    },
+    {
+        "name": "Yakuza 6: The Song of Life",
+        "price": "$5.99"
+    },
+    {
+        "name": "Yakuza Kiwami 2",
+        "price": "$19.99"
+    },
+    {
+        "name": "WRC 9 FIA World Rally Championship PS4 & PS5",
+        "price": "$39.99"
+    },
+    {
+        "name": "RIDE 4",
+        "price": "$39.99"
+    },
+    {
+        "name": "Kingdom Come: Deliverance Royal Edition",
+        "price": "$39.99"
+    },
+    {
+        "name": "A Plague Tale: Innocence",
+        "price": "Free"
+    },
+    {
+        "name": "Darksiders Genesis",
+        "price": "$7.99"
+    },
+    {
+        "name": "CODE VEIN Deluxe Edition",
+        "price": "$14.39"
+    },
+    {
+        "name": "Ghostbusters: The Video Game Remastered",
+        "price": "$11.99"
+    },
+    {
+        "name": "Assetto Corsa Competizione",
+        "price": "$11.99"
+    },
+    {
+        "name": "TALES OF BERSERIA",
+        "price": "$9.99"
+    },
+    {
+        "name": "Budget Cuts",
+        "price": "$29.99"
+    }
+]

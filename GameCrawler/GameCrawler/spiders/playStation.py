@@ -1,6 +1,6 @@
 import scrapy
 import json
-#from games import allowed_games
+from games import allowed_games
 import os
 #from GameCrawler.games import allowed_games
 
@@ -21,12 +21,12 @@ class PlayStationSpider(scrapy.Spider):
             game_name = game.xpath('.//span[contains(@class, "psw-t-body psw-c-t-1 psw-t-truncate-2 psw-m-b-2")]/text()').extract_first()
             game_price = game.xpath('.//span[contains(@class, "psw-m-r-3")]/text()').extract_first()
 
-            if game_name and game_price:
+            if game_name in allowed_games and game_price:
                 game_price = game_price.replace("US$", "").strip()
                 game_name = game_name.encode('utf-8').decode('ascii', 'ignore')
 
-                with open('game_names.txt', 'a') as f:
-                    f.write(f'"{game_name}",\n')
+                #with open('game_names.txt', 'a') as f:
+                    #f.write(f'"{game_name}",\n')
 
                 self.data.append({
                     'name': game_name,
@@ -37,15 +37,13 @@ class PlayStationSpider(scrapy.Spider):
         index = current_page.rfind("/")
         current_page = current_page[:index+1]
         next_page = current_page + str(self.pages)
-        if self.pages < 41:
+        if self.pages < 7:
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
 
-'''
     def closed(self, reason):
         current_directory = os.path.dirname(os.path.realpath(__file__))
         path = current_directory + '/data/ps.json'
         print(current_directory)
         with open(path, 'w', encoding='utf-8') as json_file:
             json.dump(self.data, json_file, ensure_ascii=False, indent=4)
-'''

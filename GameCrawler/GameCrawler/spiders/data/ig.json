@@ -1,23 +1,13 @@
 [
     {
-        "name": "Cities: Skylines II",
-        "price": "33.72€",
-        "discount": "-33%"
-    },
-    {
         "name": "Farming Simulator 22 - Premium Edition",
         "price": "27.99€",
         "discount": "-49%"
     },
     {
-        "name": "Starfield",
-        "price": "51.99€",
-        "discount": "-26%"
-    },
-    {
         "name": "Payday 3",
-        "price": "29.99€",
-        "discount": "-25%"
+        "price": "28.59€",
+        "discount": "-29%"
     },
     {
         "name": "Ride 5",
@@ -40,9 +30,14 @@
         "discount": "-38%"
     },
     {
-        "name": "Terraria",
-        "price": "5.57€",
-        "discount": "-43%"
+        "name": "Assetto Corsa Competizione",
+        "price": "7.91€",
+        "discount": "-80%"
+    },
+    {
+        "name": "Risk of Rain 2",
+        "price": "6.35€",
+        "discount": "-75%"
     },
     {
         "name": "Golf With Your Friends",
@@ -55,44 +50,34 @@
         "discount": "-94%"
     },
     {
-        "name": "Payday 2",
-        "price": "1.46€",
-        "discount": "-85%"
-    },
-    {
-        "name": "Cities: Skylines",
-        "price": "6.46€",
-        "discount": "-77%"
-    },
-    {
         "name": "No Man's Sky",
         "price": "19.32€",
         "discount": "-67%"
     },
     {
-        "name": "Monster Hunter Rise",
-        "price": "9.82€",
-        "discount": "-75%"
+        "name": "Cuphead",
+        "price": "13.91€",
+        "discount": "-30%"
     },
     {
-        "name": "Resident Evil Village",
-        "price": "11.80€",
-        "discount": "-70%"
+        "name": "Wreckfest",
+        "price": "9.17€",
+        "discount": "-69%"
     },
     {
-        "name": "Euro Truck Simulator 2",
-        "price": "15.90€",
-        "discount": "-20%"
+        "name": "Ghostrunner",
+        "price": "8.11€",
+        "discount": "-73%"
     },
     {
-        "name": "Sackboy: A Big Adventure",
-        "price": "19.62€",
-        "discount": "-67%"
+        "name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+        "price": "5.76€",
+        "discount": "-86%"
     },
     {
-        "name": "Battlefield 2042",
-        "price": "22.19€",
-        "discount": "-63%"
+        "name": "Arizona Sunshine",
+        "price": "5.67€",
+        "discount": "-81%"
     },
     {
         "name": "Cities: Skylines - Sunset Harbor",
@@ -100,19 +85,29 @@
         "discount": "-45%"
     },
     {
+        "name": "Mortal Shell",
+        "price": "4.03€",
+        "discount": "-84%"
+    },
+    {
+        "name": "Destroy All Humans!",
+        "price": "3.34€",
+        "discount": "-89%"
+    },
+    {
         "name": "Tropico 5",
         "price": "1.22€",
         "discount": "-94%"
     },
     {
-        "name": "Deathloop",
-        "price": "7.86€",
-        "discount": "-87%"
-    },
-    {
         "name": "LEGO DC Super-Villains Season Pass",
         "price": "1.97€",
         "discount": "-87%"
+    },
+    {
+        "name": "Saints Row: The Third Remastered",
+        "price": "7.59€",
+        "discount": "-75%"
     },
     {
         "name": "Company of Heroes Complete Pack",
@@ -173,5 +168,340 @@
         "name": "NBA 2K22",
         "price": "13.67€",
         "discount": "-77%"
+    },
+    {
+        "name": "The Jackbox Party Quintpack",
+        "price": "28.30€",
+        "discount": "-78%"
+    },
+    {
+        "name": "Prison Simulator",
+        "price": "9.75€",
+        "discount": "-42%"
+    },
+    {
+        "name": "Post Scriptum (uncut)",
+        "price": "5.73€",
+        "discount": "-80%"
+    },
+    {
+        "name": "The Jackbox Party Pack 8",
+        "price": "10.62€",
+        "discount": "-65%"
+    },
+    {
+        "name": "Amnesia: Rebirth",
+        "price": "1.96€",
+        "discount": "-93%"
+    },
+    {
+        "name": "Cities: Skylines - Content Creator Pack: Seaside Resorts",
+        "price": "3.99€",
+        "discount": "-33%"
+    },
+    {
+        "name": "The Surge 2 Premium Edition",
+        "price": "8.27€",
+        "discount": "-79%"
+    },
+    {
+        "name": "Ghostbusters: The Video Game Remastered",
+        "price": "3.20€",
+        "discount": "-85%"
+    },
+    {
+        "name": "Legend of Keepers: Career of a Dungeon Manager",
+        "price": "1.00€",
+        "discount": "-94%"
+    },
+    {
+        "name": "Ghost of a Tale",
+        "price": "2.61€",
+        "discount": "-87%"
+    },
+    {
+        "name": "BlazBlue: Centralfiction",
+        "price": "8.11€",
+        "discount": "-78%"
+    },
+    {
+        "name": "Sword Art Online: Alicization Lycoris Deluxe Edition",
+        "price": "14.79€",
+        "discount": "-84%"
+    },
+    {
+        "name": "The Jackbox Party Pack 3",
+        "price": "7.74€",
+        "discount": "-69%"
+    },
+    {
+        "name": "Warhammer 40.000: Dawn of War II Master Collection",
+        "price": "4.66€",
+        "discount": "-92%"
+    },
+    {
+        "name": "Life is Strange: True Colors - Ultimate Edition",
+        "price": "31.82€",
+        "discount": "-60%"
+    },
+    {
+        "name": "Overcooked! 2 - Carnival of Chaos",
+        "price": "2.29€",
+        "discount": "-54%"
+    },
+    {
+        "name": "Europa Universalis IV: Wealth of Nations",
+        "price": "3.45€",
+        "discount": "-65%"
+    },
+    {
+        "name": "Sid Meier’s Civilization VI: Leader Pass",
+        "price": "10.56€",
+        "discount": "-47%"
+    },
+    {
+        "name": "Pure Farming 2018 - Digital Deluxe Edition",
+        "price": "1.17€",
+        "discount": "-96%"
+    },
+    {
+        "name": "Yakuza Kiwami 2",
+        "price": "8.16€",
+        "discount": "-59%"
+    },
+    {
+        "name": "Dead by Daylight: The 80's Suitcase",
+        "price": "1.00€",
+        "discount": "-67%"
+    },
+    {
+        "name": "Cossacks: Back to War",
+        "price": "1.00€",
+        "discount": "-80%"
+    },
+    {
+        "name": "Sniper Elite 4 Season Pass",
+        "price": "4.00€",
+        "discount": "-88%"
+    },
+    {
+        "name": "Dredge Digital Deluxe Edition",
+        "price": "25.19€",
+        "discount": "-28%"
+    },
+    {
+        "name": "Endzone - A World Apart Complete Edition",
+        "price": "8.97€",
+        "discount": "-80%"
+    },
+    {
+        "name": "Solasta: Crown of the Magister - Lost Valley",
+        "price": "5.64€",
+        "discount": "-57%"
+    },
+    {
+        "name": "Elite Dangerous: Odyssey Deluxe Edition",
+        "price": "8.33€",
+        "discount": "-79%"
+    },
+    {
+        "name": "Hardspace: Shipbreaker",
+        "price": "17.75€",
+        "discount": "-49%"
+    },
+    {
+        "name": "Panzer Corps 2",
+        "price": "6.01€",
+        "discount": "-85%"
+    },
+    {
+        "name": "Treasure Hunter Simulator",
+        "price": "1.00€",
+        "discount": "-93%"
+    },
+    {
+        "name": "Tannenberg",
+        "price": "2.38€",
+        "discount": "-88%"
+    },
+    {
+        "name": "Star Wars Jedi Knight II: Jedi Outcast",
+        "price": "1.25€",
+        "discount": "-87%"
+    },
+    {
+        "name": "Absolver",
+        "price": "5.50€",
+        "discount": "-81%"
+    },
+    {
+        "name": "Endless Space 2 Definitive Edition",
+        "price": "25.20€",
+        "discount": "-73%"
+    },
+    {
+        "name": "Metro: Exodus Expansion Pass",
+        "price": "2.88€",
+        "discount": "-81%"
+    },
+    {
+        "name": "Gloomhaven",
+        "price": "16.83€",
+        "discount": "-52%"
+    },
+    {
+        "name": "Total War: Rome II - Wrath of Sparta",
+        "price": "5.16€",
+        "discount": "-70%"
+    },
+    {
+        "name": "Risen 2: Dark Waters",
+        "price": "1.30€",
+        "discount": "-87%"
+    },
+    {
+        "name": "Earth Defense Force 5",
+        "price": "21.47€",
+        "discount": "-57%"
+    },
+    {
+        "name": "Driving School Simulator",
+        "price": "2.66€",
+        "discount": "-73%"
+    },
+    {
+        "name": "Orcs Must Die! 3 - Cold as Eyes",
+        "price": "1.94€",
+        "discount": "-71%"
+    },
+    {
+        "name": "Monster Train - The Last Divinity",
+        "price": "1.00€",
+        "discount": "-92%"
+    },
+    {
+        "name": "Patrician III",
+        "price": "1.00€",
+        "discount": "-80%"
+    },
+    {
+        "name": "Guilty Gear -Strive- Deluxe Edition",
+        "price": "47.97€",
+        "discount": "-20%"
+    },
+    {
+        "name": "Destiny 2: Legendary Edition",
+        "price": "22.15€",
+        "discount": "-72%"
+    },
+    {
+        "name": "Overcooked! 2 - Too Many Cooks Pack",
+        "price": "1.00€",
+        "discount": "-58%"
+    },
+    {
+        "name": "Dragon Ball FighterZ: FighterZ Pass",
+        "price": "15.24€",
+        "discount": "-56%"
+    },
+    {
+        "name": "Old World - The Sacred and The Profane",
+        "price": "2.80€",
+        "discount": "-44%"
+    },
+    {
+        "name": "SBK 22",
+        "price": "7.99€",
+        "discount": "-80%"
+    },
+    {
+        "name": "Star Wars Jedi Knight Collection",
+        "price": "3.76€",
+        "discount": "-85%"
+    },
+    {
+        "name": "Alone In The Dark: The New Nightmare",
+        "price": "1.00€",
+        "discount": "-86%"
+    },
+    {
+        "name": "Sanctum 2",
+        "price": "3.04€",
+        "discount": "-79%"
+    },
+    {
+        "name": "One Piece: Burning Blood Gold Pack",
+        "price": "6.86€",
+        "discount": "-73%"
+    },
+    {
+        "name": "A Normal Lost Phone",
+        "price": "1.00€",
+        "discount": "-67%"
+    },
+    {
+        "name": "Devil May Cry 3: Special Edition",
+        "price": "3.46€",
+        "discount": "-83%"
+    },
+    {
+        "name": "Wasteland 3",
+        "price": "6.07€",
+        "discount": "-82%"
+    },
+    {
+        "name": "Project Highrise",
+        "price": "1.20€",
+        "discount": "-94%"
+    },
+    {
+        "name": "Kingdoms of Amalur: Re-Reckoning",
+        "price": "4.64€",
+        "discount": "-88%"
+    },
+    {
+        "name": "Monster Hunter: World",
+        "price": "12.19€",
+        "discount": "-59%"
+    },
+    {
+        "name": "Roguebook Deluxe Edition",
+        "price": "5.20€",
+        "discount": "-85%"
+    },
+    {
+        "name": "Shift Happens",
+        "price": "1.53€",
+        "discount": "-90%"
+    },
+    {
+        "name": "Frozen Flame",
+        "price": "10.34€",
+        "discount": "-66%"
+    },
+    {
+        "name": "Sniper Ghost Warrior 3",
+        "price": "2.77€",
+        "discount": "-86%"
+    },
+    {
+        "name": "Shadowrun: Dragonfall (Director's Cut)",
+        "price": "2.18€",
+        "discount": "-85%"
+    },
+    {
+        "name": "Fights in Tight Spaces",
+        "price": "10.40€",
+        "discount": "-50%"
+    },
+    {
+        "name": "Gloria Victis: Medieval MMORPG",
+        "price": "2.85€",
+        "discount": "-86%"
+    },
+    {
+        "name": "GORN",
+        "price": "13.54€",
+        "discount": "-31%"
     }
 ]

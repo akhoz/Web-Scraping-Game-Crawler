@@ -1,9 +1,5 @@
 [
     {
-        "Name": "The Legend of Zelda: Ocarina of Time",
-        "Metascore": "99"
-    },
-    {
         "Name": "Grand Theft Auto V",
         "Metascore": "97"
     },
@@ -20,34 +16,6 @@
         "Metascore": "97"
     },
     {
-        "Name": "The Legend of Zelda: Twilight Princess",
-        "Metascore": "96"
-    },
-    {
-        "Name": "The Legend of Zelda: The Wind Waker",
-        "Metascore": "96"
-    },
-    {
-        "Name": "The Elder Scrolls V: Skyrim",
-        "Metascore": "96"
-    },
-    {
-        "Name": "The Legend of Zelda: Tears of the Kingdom",
-        "Metascore": "96"
-    },
-    {
-        "Name": "Elden Ring",
-        "Metascore": "96"
-    },
-    {
-        "Name": "The Legend of Zelda: Majora's Mask",
-        "Metascore": "95"
-    },
-    {
-        "Name": "The Last of Us Remastered",
-        "Metascore": "95"
-    },
-    {
         "Name": "God of War",
         "Metascore": "94"
     },
@@ -56,40 +24,12 @@
         "Metascore": "93"
     },
     {
-        "Name": "The Legend of Zelda: Skyward Sword",
-        "Metascore": "93"
-    },
-    {
         "Name": "The Witcher 3: Wild Hunt",
-        "Metascore": "93"
-    },
-    {
-        "Name": "Uncharted 4: A Thief's End",
-        "Metascore": "93"
-    },
-    {
-        "Name": "Ori and the Will of the Wisps",
         "Metascore": "93"
     },
     {
         "Name": "The Last of Us Part II",
         "Metascore": "93"
-    },
-    {
-        "Name": "Super Smash Bros. Ultimate",
-        "Metascore": "93"
-    },
-    {
-        "Name": "The Legend of Zelda: A Link Between Worlds",
-        "Metascore": "91"
-    },
-    {
-        "Name": "Sekiro: Shadows Die Twice",
-        "Metascore": "91"
-    },
-    {
-        "Name": "The Legend of Zelda: Phantom Hourglass",
-        "Metascore": "90"
     },
     {
         "Name": "Monster Hunter: World",
@@ -100,7 +40,11 @@
         "Metascore": "90"
     },
     {
-        "Name": "Deathloop",
+        "Name": "Tony Hawk's Pro Skater 1 + 2",
+        "Metascore": "90"
+    },
+    {
+        "Name": "Dreams",
         "Metascore": "89"
     },
     {
@@ -108,67 +52,39 @@
         "Metascore": "89"
     },
     {
-        "Name": "Super Mario 3D World + Bowser's Fury",
+        "Name": "Devil May Cry 5",
         "Metascore": "89"
+    },
+    {
+        "Name": "Cuphead",
+        "Metascore": "88"
     },
     {
         "Name": "Marvel's Spider-Man Remastered",
         "Metascore": "87"
     },
     {
-        "Name": "The Legend of Zelda: Spirit Tracks",
-        "Metascore": "87"
-    },
-    {
-        "Name": "Gran Turismo 7",
-        "Metascore": "87"
-    },
-    {
-        "Name": "Halo Infinite",
-        "Metascore": "87"
-    },
-    {
-        "Name": "Destiny 2",
-        "Metascore": "87"
-    },
-    {
-        "Name": "Final Fantasy VII Remake",
-        "Metascore": "87"
-    },
-    {
-        "Name": "The Legend of Zelda: Link's Awakening",
-        "Metascore": "87"
+        "Name": "Panzer Corps 2",
+        "Metascore": "86"
     },
     {
         "Name": "Mortal Kombat 11",
         "Metascore": "86"
     },
     {
-        "Name": "Panzer Corps 2",
-        "Metascore": "86"
-    },
-    {
-        "Name": "Death Stranding",
-        "Metascore": "86"
-    },
-    {
-        "Name": "Starfield",
-        "Metascore": "86"
-    },
-    {
-        "Name": "Cities: Skylines",
+        "Name": "Wasteland 3",
         "Metascore": "85"
     },
     {
-        "Name": "Control",
+        "Name": "Control: Ultimate Edition",
         "Metascore": "85"
     },
     {
-        "Name": "Hogwarts Legacy",
+        "Name": "Judgment",
         "Metascore": "85"
     },
     {
-        "Name": "Terraria",
+        "Name": "Nioh 2",
         "Metascore": "85"
     }
 ]
