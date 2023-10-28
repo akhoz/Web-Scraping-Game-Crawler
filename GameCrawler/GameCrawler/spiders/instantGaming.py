@@ -14,9 +14,9 @@ class InstantGamingSpider(scrapy.Spider):
         self.allowed_games = set()
 
     def check_cheepest_price(self, game):
-        if game['name'] in self.allowed_games:
-            if game['price'] < self.allowed_games[game['name']]:
-                self.allowed_games[game['name']] = game['price']
+        if game['Name'] in self.allowed_games:
+            if game['Price'] < self.allowed_games[game['Name']]:
+                self.allowed_games[game['Name']] = game['Price']
 
     def parse(self, response):
         game_items = response.xpath('//div[@class="search listing-items"]//div[@class="item force-badge"]')
@@ -27,20 +27,28 @@ class InstantGamingSpider(scrapy.Spider):
             discount = game_info.xpath('.//div[@class="discount"]/text()').get()
             image = game_info.xpath('.//img/@data-src').get()
 
-            if name and price and discount and name not in self.games:
+            if name and price and name not in self.games:
+
+                price = price.replace('€', '')
+
                 game = {
-                    'name': name,
-                    'price': price,
-                    'discount': discount,
-                    'image': image,
+                    'Name': name,
+                    'Price': price,
+                    'Image': image,
                 }
+
+                if discount:
+                    discount = discount.replace('-', '')
+                    game['Discount'] = discount
+
+                self.check_cheepest_price(game)
                 if name in allowed_games and game not in self.game_list:
                     self.game_list.append(game)
                     self.games.append(name)
-                    print(self.games)
+                    print(f"InstantGaming: {name} -----------------------")
 
         next_page = self.start_urls[0] + f"?type%5B0%5D=steam&page={self.page}"
-        if self.page < 60:
+        if self.page < 170:
             self.page += 1
             yield response.follow(next_page, callback=self.parse)
 

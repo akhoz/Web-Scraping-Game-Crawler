@@ -27,8 +27,10 @@ class MetacriticSpider(scrapy.Spider):
                         }
                         self.data.append(item)
                         self.scraped_game_names.add(game_name)
+                        print(f"Metacritic: {game_name} -----------------------")
+                        
         next_page = self.start_urls[0] + f"?releaseYearMin=1910&releaseYearMax=2023&page={self.pages}"
-        if self.pages < 60:
+        if self.pages < 200:
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
         

@@ -34,8 +34,7 @@ class HowlongtobeatSpider(scrapy.Spider):
                     if game_name in allowed_games:
                         self.data.append(item)
                         self.scraped_game_names.add(game_name)
-                        print(f"{game_name} added")
-
+                        print(f"HowLongToBeat: {game_name} -----------------------")
     def closed(self, reason):
         current_directory = os.path.dirname(os.path.realpath(__file__))
         path = current_directory + '/data/hltb.json'

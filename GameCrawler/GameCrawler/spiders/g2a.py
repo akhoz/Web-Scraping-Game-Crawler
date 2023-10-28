@@ -34,10 +34,9 @@ class G2aSpider(scrapy.Spider):
                     if game_name in allowed_games:
                         self.data.append(item)
                         self.scraped_game_names.add(game_name)
-                        print(f"{game_name} added")
-        
+                        print(f"G2a: {game_name} -----------------------")        
         next_page = self.start_urls[0] + f"?page={self.pages}"
-        if self.pages < 60:
+        if self.pages < 200:
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
 
