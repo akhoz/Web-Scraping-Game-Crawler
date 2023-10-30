@@ -41,7 +41,7 @@ class G2aSpider(scrapy.Spider):
                         self.scraped_game_names.add(game_name)
                         print(f"G2a: {game_name} -----------------------")        
         next_page = self.start_urls[0] + f"?page={self.pages}"
-        if self.pages < 10: # 279
+        if self.pages < 279: # 279
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
 

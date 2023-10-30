@@ -52,7 +52,7 @@ class PlayStationSpider(scrapy.Spider):
                 self.data.append(item)
                 print(f"PlayStation: {game_name} -----------------------")
 
-        if self.pages < 10: # 279
+        if self.pages < 279: # 279
             next_page = f"https://store.playstation.com/en-us/category/877e5ce2-4afc-4694-9f69-4758e34e58cd/{self.pages+1}"
             yield response.follow(next_page, callback=self.parse)
             self.pages += 1

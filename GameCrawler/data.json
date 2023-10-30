@@ -1,27 +1,27 @@
 [
     {
         "Name": "Red Dead Redemption 2",
-        "Price": "13.72",
-        "Link": "https://www.g2a.com/es/category/gaming-c1?page=8",
-        "Image": "https://images.g2a.com/115x155/1x1x0/red-dead-redemption-2-pc-steam-account-account-global/5bc41691ae653a49fd7f4e1b",
-        "Discount": "77%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Marvel's Spider-Man Remastered",
-        "Price": "36.99",
-        "Link": "https://www.instant-gaming.com/en/11907-buy-marvel-s-spider-man-remastered-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/11907/380x218/marvel-s-spider-man-remastered-pc-game-steam-cover.jpg?v=1697644479",
-        "Discount": "38%",
-        "Metascore": "--"
+        "Price": "10.86",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=162",
+        "Image": "https://images.g2a.com/115x155/1x1x0/red-dead-redemption-2-xbox-one-xbox-account-account-global/8988e42277f8408981303fe5",
+        "Discount": "82%",
+        "Metascore": "97"
     },
     {
         "Name": "Grand Theft Auto V",
-        "Price": "12.09",
-        "Link": "https://www.g2a.com/es/category/gaming-c1?page=3",
-        "Image": "https://images.g2a.com/115x155/1x1x0/grand-theft-auto-v-rockstar-key-global/59e5efeb5bafe304c4426c47",
-        "Discount": "60%",
-        "Metascore": "--"
+        "Price": "11.15",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=46",
+        "Image": "https://images.g2a.com/115x155/1x1x0/grand-theft-auto-v-pc-rockstar-account-account-global/59e5efeb5bafe304c4426c47",
+        "Discount": "81%",
+        "Metascore": "97"
+    },
+    {
+        "Name": "Marvel's Spider-Man Remastered",
+        "Price": "29.94",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=223",
+        "Image": "https://images.g2a.com/115x155/1x1x0/marvels-spider-man-remastered-pc-steam-key-turkey/7e4252006f11418bae232b83",
+        "Discount": "50%",
+        "Metascore": "87"
     },
     {
         "Name": "Golf With Your Friends",
@@ -29,23 +29,26 @@
         "Link": "https://www.instant-gaming.com/en/2482-buy-golf-with-your-friends-pc-mac-game-steam/",
         "Image": "https://gaming-cdn.com/images/products/2482/380x218/golf-with-your-friends-pc-mac-game-steam-cover.jpg?v=1697187045",
         "Discount": "78%",
-        "Metascore": "--"
+        "Metascore": "71",
+        "Completionist hours": "22"
     },
     {
         "Name": "No Man's Sky",
-        "Price": "19.32",
-        "Link": "https://www.instant-gaming.com/en/414-buy-no-man-s-sky-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/414/380x218/no-man-s-sky-pc-game-steam-cover.jpg?v=1696493956",
-        "Discount": "67%",
-        "Metascore": "--"
+        "Price": "18.49",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=115",
+        "Image": "https://images.g2a.com/115x155/1x1x0/no-mans-sky-pc-steam-account-account-global/92d5e1c802814c73b34f34c7",
+        "Discount": "61%",
+        "Metascore": "83",
+        "Completionist hours": "140"
     },
     {
         "Name": "Assetto Corsa Competizione",
-        "Price": "7.91",
-        "Link": "https://www.instant-gaming.com/en/3153-buy-assetto-corsa-competizione-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/3153/380x218/assetto-corsa-competizione-pc-game-steam-cover.jpg?v=1697644479",
-        "Discount": "80%",
-        "Metascore": "--"
+        "Price": "6.35",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=131",
+        "Image": "https://images.g2a.com/115x155/1x1x0/assetto-corsa-competizione-pc-steam-account-account-global/5b9946d65bafe3100e478935",
+        "Discount": "84%",
+        "Metascore": "80",
+        "Completionist hours": "200"
     },
     {
         "Name": "ARK: Survival Evolved",
@@ -53,23 +56,7 @@
         "Link": "https://www.g2a.com/es/category/gaming-c1?page=7",
         "Image": "https://images.g2a.com/115x155/1x1x0/ark-survival-evolved-pc-steam-account-account-global/5a5e0a165bafe3dc5157ad83",
         "Discount": "89%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Fallout 4: Game of the Year Edition",
-        "Price": "9.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1003-CUSA02557_00-FALLOUT4BUNDLENA",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2505/OJeNSHONzyyiePtYckbXSFHB.png?w=54&thumb=true",
-        "Discount": "75%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Fallout 76",
-        "Price": "7.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1003-CUSA12057_00-PRJMTN0000000000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1620/cea58139c6e7aea72adb31b25d1aacaa22ee92f4b733bfe0.png?w=54&thumb=true",
-        "Discount": "80%",
-        "Metascore": "--"
+        "Metascore": "70"
     },
     {
         "Name": "Mortal Kombat 11",
@@ -77,371 +64,245 @@
         "Link": "https://www.instant-gaming.com/en/3339-buy-mortal-kombat-11-pc-game-steam/",
         "Image": "https://gaming-cdn.com/images/products/3339/380x218/mortal-kombat-11-pc-game-steam-cover.jpg?v=1649408755",
         "Discount": "94%",
-        "Metascore": "--"
+        "Metascore": "86",
+        "Completionist hours": "56"
     },
     {
-        "Name": "Farming Simulator 22 - Premium Edition",
-        "Price": "27.99",
-        "Link": "https://www.instant-gaming.com/en/14538-buy-farming-simulator-22-premium-edition-premium-edition-pc-mac-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/14538/380x218/farming-simulator-22-premium-edition-premium-edition-pc-mac-game-steam-cover.jpg?v=1698400622",
-        "Discount": "49%",
-        "Metascore": "--"
+        "Name": "God of War",
+        "Price": "21.09",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=139",
+        "Image": "https://images.g2a.com/115x155/1x1x0/god-of-war-pc-steam-account-account-global/98c4f59fc39f44aaa432445e",
+        "Discount": "58%",
+        "Metascore": "94",
+        "Completionist hours": "51"
     },
     {
-        "Name": "Payday 3",
-        "Price": "28.59",
-        "Link": "https://www.instant-gaming.com/en/6442-buy-payday-3-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/6442/380x218/payday-3-pc-game-steam-cover.jpg?v=1696580204",
-        "Discount": "29%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Starfield Digital Premium Edition",
-        "Price": "73.99",
-        "Link": "https://www.instant-gaming.com/en/14350-buy-starfield-digital-premium-edition-digital-premium-edition-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/14350/380x218/starfield-digital-premium-edition-digital-premium-edition-pc-game-steam-cover.jpg?v=1697644479",
-        "Discount": "26%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Ride 5",
-        "Price": "45.16",
-        "Link": "https://www.instant-gaming.com/en/13417-buy-ride-5-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/13417/380x218/ride-5-pc-game-steam-cover.jpg?v=1696580346",
-        "Discount": "25%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "MotoGP 23",
-        "Price": "33.58",
-        "Link": "https://www.instant-gaming.com/en/13416-buy-motogp-23-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/13416/380x218/motogp-23-pc-game-steam-cover.jpg?v=1696585615",
-        "Discount": "33%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Risk of Rain 2",
-        "Price": "6.24",
-        "Link": "https://store.playstation.com/en-us/product/UP0292-CUSA16153_00-RISKOFRAIN2SIEA0",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2220/RfRnyMuPPdQraj09cluhX5yZ.png?w=54&thumb=true",
+        "Name": "Fallout 4: Game of the Year Edition",
+        "Price": "9.99",
+        "Link": "https://store.playstation.com/en-us/product/UP1003-CUSA02557_00-FALLOUT4BUNDLENA",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2505/OJeNSHONzyyiePtYckbXSFHB.png?w=54&thumb=true",
         "Discount": "75%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Cuphead",
-        "Price": "13.91",
-        "Link": "https://www.instant-gaming.com/en/2310-buy-cuphead-pc-mac-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/2310/380x218/cuphead-pc-mac-game-steam-cover.jpg?v=1697644479",
-        "Discount": "30%",
-        "Metascore": "--"
+        "Completionist hours": "213"
     },
     {
         "Name": "Ghostrunner",
-        "Price": "8.11",
-        "Link": "https://www.instant-gaming.com/en/6267-buy-ghostrunner-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/6267/380x218/ghostrunner-pc-game-steam-cover.jpg?v=1684998969",
+        "Price": "8.06",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=11",
+        "Image": "https://images.g2a.com/115x155/1x1x0/ghostrunner-pc-steam-key-global/5f61c7497e696c0aff516ea2",
         "Discount": "73%",
-        "Metascore": "--"
+        "Metascore": "81",
+        "Completionist hours": "13"
     },
     {
-        "Name": "Wreckfest",
-        "Price": "9.17",
-        "Link": "https://www.instant-gaming.com/en/582-buy-wreckfest-pc-game-steam/",
-        "Image": "https://gaming-cdn.com/images/products/582/380x218/wreckfest-pc-game-steam-cover.jpg?v=1692960253",
-        "Discount": "69%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Skater XL",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP5790-CUSA18859_00-0000000000000000",
-        "Image": "https://image.api.playstation.com/vulcan/img/rnd/202007/1720/QfCQ7mztrl7xEZ712QPCYeQg.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Mafia: Trilogy",
-        "Price": "59.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1001-CUSA03652_00-MAFIATRILOGYDEFI",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0902/7CAOfTFXzgypO4TWHnWtQstC.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
-        "Price": "11.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4389-CUSA14898_00-SPONGEBOBBFBBEU0",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1814/aglGICQMUl73037QEhSl7Avk.png?w=54&thumb=true",
-        "Discount": "60%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Stranded Deep",
-        "Price": "19.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA",
-        "Image": "https://image.api.playstation.com/vulcan/img/rnd/202109/2216/t9XzGHGabQ2Ym0zbx4m0nEUC.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Far Cry 5",
-        "Price": "59.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0001-CUSA05904_00-FARCRY5GAME00000",
-        "Image": "https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "The Outer Worlds",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4581-CUSA16285_00-THEOUTERWORLDS01",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307wMjfgx5P1og84rPU_f7JRWHhWnbDWqpjfHfMPGtwxykE12sZmu8C7n0XrhYwLTdxcQyXwH4Jy4JpS67tQd5Gl0Kd5Rz.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "The Walking Dead: Saints & Sinners - Standard Edition",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP2533-CUSA17412_00-TWDSSSTDEDITION0",
-        "Image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0120/M3aUa8wvFpmXkzFJvDB4VnsS.png?w=54&thumb=true",
-        "Discount": "25%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "PUBG: BATTLEGROUNDS",
-        "Price": "0",
-        "Link": "https://store.playstation.com/en-us/product/UP5082-CUSA14081_00-PTSBUN0000000000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1609/076c674ecc2e8acee5c30a85428ebffe62c9a227e2d26e3d.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "13 Sentinels: Aegis Rim",
-        "Price": "59.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0177-CUSA19610_00-BSTUBCUSA1961000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0917/bIsL7LdWIVw9V46oHJ0PIwZv.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "NASCAR Heat 5",
-        "Price": "19.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0777-CUSA18441_00-704NASCARHEAT5XX",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307XhZW_6jI7vxeW2fIeDKmD8Mn5axu6FTfwpQdj-FbxAUvDUnfZbOBePWU_tbynYLUFSwBSXWwRCAkW_I43IikB46zIco.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "World War Z",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP2746-CUSA14046_00-WWZTHEGAME201800",
-        "Image": "https://image.api.playstation.com/cdn/UP2746/CUSA14046_00/0sdmApE8KNjQkMY5y3PFa7KJzf7MIx2K.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Mortal Shell",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP3639-CUSA16364_00-0000000000000001",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0109/F5Wvzwr4VFVlonLj4wtjYkDx.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Control: Ultimate Edition",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4040-CUSA11461_00-CONTROLUEBUNDLE0",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/hvVTsd8akckaGtN2eZ3yIuwc.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Maneater PS4 & PS5",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0115-CUSA14519_00-MANEATER00000001",
-        "Image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA14538_00/7/i_1dbc60bd015bfb1ecb0990b9484ad19b4ba86ea0e8d183138bfbf89d78d18d98/i/icon0.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "RESIDENT EVIL 7 biohazard",
-        "Price": "0",
-        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA03962_00-BH70000000000001",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307HhTidFhptTYzAgEccg2W2gSTXJtujb__BJSLwLC3kk0zEM4uR1XXwEmncR2FJ86eNJ-NHgU2CWTlWz_DqldkV0WG1sV.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Saints Row: The Third Remastered",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP2047-CUSA16343_00-SRTTRDRDXGAME001",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307ZQa9F0lR59qWMGe5AuNsUzvhJupp0klYtDLljBwThMEDJzLV0a1skhjGwqW0ylx1m475-O0XaUCcpeFalQT5cET8ike.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Destroy All Humans!",
-        "Price": "11.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4389-CUSA14899_00-DAH1REMAKEUS0000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1809/asPyYrCEHcsY0fbs83KGO4l2.png?w=54&thumb=true",
-        "Discount": "70%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Kingdoms of Amalur: Re-Reckoning",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4389-CUSA17271_00-KOARECKONINGDEUS",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/2610/7j1GUXdvOGPoLaaQRt2J2viK.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
-        "Price": "9.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0101-CUSA17688_00-YGOLOTDLEXXXXXXX",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0112/ZkrCJGdMnokOv6tzAlTsdYFV.png?w=54&thumb=true",
-        "Discount": "75%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition",
-        "Price": "79.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1063-CUSA19637_00-DIGITALDELUXE000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1900/gVAjWeXdy9DJwGVfJZEMT2Dx.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "GORN",
-        "Price": "19.99",
-        "Link": "https://store.playstation.com/en-us/product/UP3643-CUSA18144_00-00000000GORNPSVR",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202005/0120/t3BidiywyjNXxtz9yIfhCcUz.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Shadow of the Tomb Raider Definitive Edition",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA10938_00-DEFINITIVE00SIEA",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307obn0reFe1U4gMc6b1pGe29vUWBAwdA8-rwjTkBN9iSwdc4rU6hpu5QI4ZXkrja75v0RAOXR1bNsTAg1jbb-3AgvCc1Y.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "KINGDOM HEARTS All-In-One Package",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA12031_00-COLLECTION300000",
-        "Image": "https://image.api.playstation.com/cdn/UP0082/CUSA12031_00/weJ4jcOJffCFNa15KgMxk1lE0dQlz0cg.png?w=54&thumb=true",
-        "Discount": "60%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Amnesia: Rebirth",
-        "Price": "5.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1192-CUSA19254_00-AMNESIAREBIRTH20",
-        "Image": "https://image.api.playstation.com/vulcan/img/rnd/202010/1521/0z2iBs3VlZ6Q544DuoeyOGes.png?w=54&thumb=true",
+        "Name": "Fallout 76",
+        "Price": "7.99",
+        "Link": "https://store.playstation.com/en-us/product/UP1003-CUSA12057_00-PRJMTN0000000000",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1620/cea58139c6e7aea72adb31b25d1aacaa22ee92f4b733bfe0.png?w=54&thumb=true",
         "Discount": "80%",
-        "Metascore": "--"
+        "Metascore": "53",
+        "Completionist hours": "314"
     },
     {
-        "Name": "Attack on Titan 2: Final Battle",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4108-CUSA08956_00-BDLAOT2FB0000000",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307UiIez8fp0GscAdICJnyugwq31NbsZTYT48ub_blRsnoc-_SFb6BMXA8DFY93-7OKjUEDg2b7FE70OebqjDTx3AjCW4J.png?w=54&thumb=true",
-        "Discount": "50%",
-        "Metascore": "--"
+        "Name": "The Jackbox Party Pack 8",
+        "Price": "10.62",
+        "Link": "https://www.instant-gaming.com/en/9825-buy-the-jackbox-party-pack-8-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/9825/380x218/the-jackbox-party-pack-8-pc-mac-game-steam-cover.jpg?v=1652963231",
+        "Discount": "65%"
     },
     {
-        "Name": "Streets Of Rage 4",
-        "Price": "24.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1482-CUSA16237_00-00STREETSOFRAGE4",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307SG7zL96CGqmW5YM1pQqKoFKGsANspJGrugX1Nl7FgaI5OjvEMSoTOcNBZIjb2BP2MMER8S84jBxfI8U6_tTNdIDIPrV.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "Marvel's Avengers - The Definitive Edition",
+        "Price": "5.63",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=20",
+        "Image": "https://images.g2a.com/115x155/1x1x0/marvels-avengers-the-definitive-edition-pc-steam-key-global/36903eba45a54826b5105fca",
+        "Discount": "91%"
     },
     {
-        "Name": "The Elder Scrolls V: Skyrim VR",
-        "Price": "59.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1003-CUSA09124_00-SKYRIMVR00000000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2820/8galiZfjE4UBwA70UbFmX77R.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "Mafia: Definitive Edition",
+        "Price": "10.04",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=89",
+        "Image": "https://images.g2a.com/115x155/1x1x0/mafia-definitive-edition-pc-steam-key-europe/5ec507ef7e696c1b9761e613",
+        "Discount": "75%",
+        "Metascore": "79",
+        "Completionist hours": "25"
     },
     {
-        "Name": "Devil May Cry 5",
-        "Price": "0",
-        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA08216_00-DMC5000000000001",
-        "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA08216_00/nxnwRA9ePhYHVjnfn406ZXw1Ug0ddELA.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Monster Hunter World: Iceborne Digital Deluxe",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-ICEBORNDX0000000",
-        "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA07713_00/5DTIJKKvHirRyG83XwGHie8nIhvVD9zE.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "LEGO Marvel Super Heroes",
+        "Price": "2.41",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=24",
+        "Image": "https://images.g2a.com/115x155/1x1x0/lego-marvel-super-heroes-steam-key-global/b25c2290a20543169404c8d8",
+        "Discount": "88%",
+        "Metascore": "83",
+        "Completionist hours": "40"
     },
     {
         "Name": "Wasteland 3",
-        "Price": "7.99",
-        "Link": "https://store.playstation.com/en-us/product/UP2047-CUSA13473_00-WL3USDEEPS000002",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0212/hkWzFjhy8pExIDghB3XIqz6Y.png?w=54&thumb=true",
-        "Discount": "80%",
-        "Metascore": "--"
+        "Price": "5.78",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=38",
+        "Image": "https://images.g2a.com/115x155/1x1x0/wasteland-3-steam-key-global/5dd265da7e696c16aa6e6492",
+        "Discount": "90%",
+        "Metascore": "85",
+        "Completionist hours": "72"
+    },
+    {
+        "Name": "The Jackbox Party Quintpack",
+        "Price": "28.30",
+        "Link": "https://www.instant-gaming.com/en/13003-buy-the-jackbox-party-quintpack-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/13003/380x218/the-jackbox-party-quintpack-pc-mac-game-steam-cover.jpg?v=1664873809",
+        "Discount": "78%"
+    },
+    {
+        "Name": "The Outer Worlds",
+        "Price": "9.30",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=54",
+        "Image": "https://images.g2a.com/115x155/1x1x0/the-outer-worlds-steam-key-pc-global/5d242e3946177c66ee55f0e2",
+        "Discount": "84%",
+        "Completionist hours": "39"
+    },
+    {
+        "Name": "Ghostbusters: The Video Game Remastered",
+        "Price": "2.21",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=56",
+        "Image": "https://images.g2a.com/115x155/1x1x0/ghostbusters-the-video-game-remastered-pc-steam-key-global/5d761dc57e696c23e12faf32",
+        "Discount": "91%",
+        "Metascore": "73"
+    },
+    {
+        "Name": "WWE 2K Battlegrounds",
+        "Price": "1.53",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=58",
+        "Image": "https://images.g2a.com/115x155/1x1x0/wwe-2k-battlegrounds-pc-steam-key-global/5f68468546177c0ccf1f1eb2",
+        "Discount": "96%",
+        "Metascore": "60",
+        "Completionist hours": "14"
     },
     {
         "Name": "Hunt: Showdown",
-        "Price": "11.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4291-CUSA15760_00-HUNTSHOWDOWN0000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2207/UYg5tZV3NU7iRE78vFF1vG8b.png?w=54&thumb=true",
-        "Discount": "70%",
-        "Metascore": "--"
+        "Price": "10.86",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=60",
+        "Image": "https://images.g2a.com/115x155/1x1x0/hunt-showdown-pc-steam-account-account-global/5b60671fae653a67407e8de5",
+        "Metascore": "81"
     },
     {
-        "Name": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
-        "Price": "49.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA05933_00-KINGDOMHEART1525",
-        "Image": "https://image.api.playstation.com/cdn/UP0082/CUSA05933_00/Mcd5L82dShQ7n5zWfBVNKMAfPgl1kkSz.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "Risk of Rain 2",
+        "Price": "4.78",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=60",
+        "Image": "https://images.g2a.com/115x155/1x1x0/risk-of-rain-2-pc-steam-account-account-global/5f5210da46177c1e0d2ccfc2",
+        "Discount": "81%",
+        "Completionist hours": "138"
     },
     {
-        "Name": "SMITE Ultimate God Pack",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0334-CUSA02328_00-ULTIMATEGODPACKX",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2322/CM072lQwXunn2Z23lGXtpw4A.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "Far Cry 5",
+        "Price": "9.72",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=68",
+        "Image": "https://images.g2a.com/115x155/1x1x0/far-cry-5-ubisoft-connect-key-europe/592883675bafe324dd6cad52",
+        "Discount": "84%",
+        "Metascore": "82",
+        "Completionist hours": "46"
     },
     {
-        "Name": "Street Fighter V: Champion Edition",
-        "Price": "9.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA01200_00-SFVCE00000000000",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307MTvkumhOsLQiA_3g0ZbFhLnHOOWVw3qR4Rum7sKAh8I3THtbG0aa-P7dF7-miXzo1ceqN897MfxYZ7Qx-GaEZs8kq4X.png?w=54&thumb=true",
-        "Discount": "50%",
-        "Metascore": "--"
+        "Name": "Yakuza Kiwami 2",
+        "Price": "8.16",
+        "Link": "https://www.instant-gaming.com/en/4507-buy-yakuza-kiwami-2-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/4507/380x218/yakuza-kiwami-2-pc-game-steam-cover.jpg?v=1681198120",
+        "Discount": "59%",
+        "Metascore": "85",
+        "Completionist hours": "76"
     },
     {
-        "Name": "MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0700-CUSA18758_00-EXTREMEVSMBONPKG",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/0913/TeXq1rCfgUpptXglhNL9rLC8.png?w=54&thumb=true",
-        "Discount": "50%",
-        "Metascore": "--"
+        "Name": "Gloomhaven",
+        "Price": "16.70",
+        "Link": "https://www.instant-gaming.com/en/4942-buy-gloomhaven-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/4942/380x218/gloomhaven-pc-game-steam-cover.jpg?v=1663683351",
+        "Discount": "52%",
+        "Metascore": "82",
+        "Completionist hours": "204"
     },
     {
-        "Name": "Battlefield V Definitive Edition",
-        "Price": "49.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0006-CUSA08724_00-BFVDEFINIEDITION",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0813/TGIIghw30d2pJUuZDdKkni6O.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "Cuphead",
+        "Price": "3.67",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=180",
+        "Image": "https://images.g2a.com/115x155/1x1x0/cuphead-xbox-one-xbox-live-key-argentina/4940092f8d8b4ee3a2756cb8",
+        "Metascore": "88",
+        "Completionist hours": "25"
     },
     {
-        "Name": "Attack on Titan 2",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4108-CUSA08956_00-AT2NAHDDGAME0000",
-        "Image": "https://image.api.playstation.com/cdn/UP4108/CUSA08956_00/EsdKIgxYrK4Bbs5O1pNO3zT5xJ0pL8Gk.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "Minecraft",
+        "Price": "13.60",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=171",
+        "Image": "https://images.g2a.com/115x155/1x1x0/minecraft-ps4-psn-account-account-global/a6bb16bc5e594a909a398c54",
+        "Discount": "55%"
     },
     {
-        "Name": "Crysis Remastered",
-        "Price": "8.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4291-CUSA18659_00-CRYSISREMASTERED",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0715/rNqpXMO3CX4zfiNMwiFNpWf5.png?w=54&thumb=true",
-        "Discount": "70%",
-        "Metascore": "--"
+        "Name": "Tom Clancy's Ghost Recon Breakpoint",
+        "Price": "12.93",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=95",
+        "Image": "https://images.g2a.com/115x155/1x1x0/tom-clancys-ghost-recon-breakpoint-standard-edition-ubisoft-connect-key-north-america/5cd54742ae653aefd3181cb4",
+        "Discount": "78%",
+        "Completionist hours": "96"
     },
     {
-        "Name": "Judgment",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0177-CUSA13186_00-JUDGMENTRYUGAENG",
-        "Image": "https://image.api.playstation.com/cdn/UP0177/CUSA13186_00/4mDsRJK5TIlp4bhiyNyTwjlCq5anKOgE.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "Cities: Skylines - Sunset Harbor",
+        "Price": "10.28",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=97",
+        "Image": "https://images.g2a.com/115x155/1x1x0/cities-skylines-sunset-harbor-pc-steam-key-global/5fc6284946177c1715743c62",
+        "Discount": "31%"
     },
     {
-        "Name": "Devil May Cry HD Collection & 4SE Bundle",
-        "Price": "44.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA09407_00-DMCHDC4SEBUNDLE0",
-        "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA09407_00/EPWah8q3QqBhWFwFRs1sgHF42oZjNrtm.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Name": "Star Wars Jedi Knight II: Jedi Outcast",
+        "Price": "1.25",
+        "Link": "https://www.instant-gaming.com/en/1579-buy-star-wars-jedi-knight-ii-jedi-outcast-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1579/380x218/star-wars-jedi-knight-ii-jedi-outcast-pc-mac-game-steam-cover.jpg?v=1649169596",
+        "Discount": "87%",
+        "Completionist hours": "18"
+    },
+    {
+        "Name": "Amnesia: Rebirth",
+        "Price": "1.94",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=100",
+        "Image": "https://images.g2a.com/115x155/1x1x0/amnesia-rebirth-pc-steam-key-global/5f61c47746177c4445010b02",
+        "Discount": "92%",
+        "Metascore": "80",
+        "Completionist hours": "13"
+    },
+    {
+        "Name": "RIDE 4",
+        "Price": "13.98",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=108",
+        "Image": "https://images.g2a.com/115x155/1x1x0/ride-4-pc-steam-key-global/5ece61197e696c01f54a97c4",
+        "Discount": "72%",
+        "Metascore": "78"
+    },
+    {
+        "Name": "Sid Meier\u00e2\u20ac\u2122s Civilization VI: Leader Pass",
+        "Price": "10.56",
+        "Link": "https://www.instant-gaming.com/en/13207-buy-sid-meier-s-civilization-vi-leader-pass-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/13207/380x218/sid-meier-s-civilization-vi-leader-pass-pc-mac-game-steam-cover.jpg?v=1694619902",
+        "Discount": "47%"
+    },
+    {
+        "Name": "Mortal Shell",
+        "Price": "4.03",
+        "Link": "https://www.instant-gaming.com/en/12627-buy-mortal-shell-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/12627/380x218/mortal-shell-pc-game-steam-cover.jpg?v=1695732582",
+        "Discount": "84%",
+        "Completionist hours": "22"
+    },
+    {
+        "Name": "NASCAR Heat 5",
+        "Price": "1.56",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=121",
+        "Image": "https://images.g2a.com/115x155/1x1x0/nascar-heat-5-pc-steam-key-global/5eb3f1197e696c5e9938f8c2",
+        "Discount": "96%",
+        "Metascore": "69"
+    },
+    {
+        "Name": "LEGO Batman 3: Beyond Gotham",
+        "Price": "1.74",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=124",
+        "Image": "https://images.g2a.com/115x155/1x1x0/lego-batman-3-beyond-gotham-steam-key-global/5e46534c7e696c60935d4562",
+        "Discount": "94%",
+        "Metascore": "74",
+        "Completionist hours": "37"
     },
     {
         "Name": "Yakuza 6: The Song of Life",
@@ -449,80 +310,826 @@
         "Link": "https://store.playstation.com/en-us/product/UP0177-CUSA09032_00-YAKUZA6SONGOFLEN",
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/113071xiujKbeSUGWNMQB6CmcRy6h7vpOeFZFnU9-b9F7fgAwIPaSKuj9zWamoz_9-F14-dJ4cbOR2c0nGwwiXB-U4UHt1HX.png?w=54&thumb=true",
         "Discount": "70%",
-        "Metascore": "--"
+        "Metascore": "87",
+        "Completionist hours": "53"
     },
     {
-        "Name": "Yakuza Kiwami 2",
+        "Name": "Monster Train - The Last Divinity",
+        "Price": "0.80",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=129",
+        "Image": "https://images.g2a.com/115x155/1x1x0/monster-train-the-last-divinity-pc-steam-key-global/605d8e497e696c5c3d1d22b2",
+        "Discount": "92%"
+    },
+    {
+        "Name": "Creaks",
+        "Price": "1.97",
+        "Link": "https://www.instant-gaming.com/en/9269-buy-creaks-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/9269/380x218/creaks-pc-mac-game-steam-cover.jpg?v=1652947327",
+        "Discount": "90%",
+        "Metascore": "83",
+        "Completionist hours": "6"
+    },
+    {
+        "Name": "NBA 2K22",
+        "Price": "13.67",
+        "Link": "https://www.instant-gaming.com/en/9446-buy-nba-2k22-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/9446/380x218/nba-2k22-pc-game-steam-cover.jpg?v=1683555932",
+        "Discount": "77%"
+    },
+    {
+        "Name": "Hardspace: Shipbreaker",
+        "Price": "17.75",
+        "Link": "https://www.instant-gaming.com/en/6524-buy-hardspace-shipbreaker-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6524/380x218/hardspace-shipbreaker-pc-game-steam-cover.jpg?v=1697644479",
+        "Discount": "49%",
+        "Metascore": "82",
+        "Completionist hours": "38"
+    },
+    {
+        "Name": "Fights in Tight Spaces",
+        "Price": "10.40",
+        "Link": "https://www.instant-gaming.com/en/8647-buy-fights-in-tight-spaces-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/8647/380x218/fights-in-tight-spaces-pc-game-steam-cover.jpg?v=1695391548",
+        "Discount": "50%",
+        "Metascore": "78"
+    },
+    {
+        "Name": "Plants vs. Zombies: Battle for Neighborville",
+        "Price": "8.14",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=182",
+        "Image": "https://images.g2a.com/115x155/1x1x0/plants-vs-zombies-battle-for-neighborville-standard-edition-ea-app-key-global/5d9f1f8c7e696c031e4c3ac2",
+        "Discount": "80%",
+        "Completionist hours": "174"
+    },
+    {
+        "Name": "The Legend of Zelda: Breath of the Wild",
+        "Price": "56.61",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=184",
+        "Image": "https://images.g2a.com/115x155/1x1x0/the-legend-of-zelda-breath-of-the-wild-nintendo-switch-nintendo-eshop-key-europe/5af9c268ae653a87ca4062c3",
+        "Discount": "6%",
+        "Metascore": "97",
+        "Completionist hours": "190"
+    },
+    {
+        "Name": "Orcs Must Die! 3 - Cold as Eyes",
+        "Price": "1.94",
+        "Link": "https://www.instant-gaming.com/en/9991-buy-orcs-must-die-3-cold-as-eyes-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/9991/380x218/orcs-must-die-3-cold-as-eyes-pc-game-steam-cover.jpg?v=1683876400",
+        "Discount": "71%"
+    },
+    {
+        "Name": "Attack on Titan 2: Final Battle",
+        "Price": "29.99",
+        "Link": "https://store.playstation.com/en-us/product/UP4108-CUSA08956_00-BDLAOT2FB0000000",
+        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307UiIez8fp0GscAdICJnyugwq31NbsZTYT48ub_blRsnoc-_SFb6BMXA8DFY93-7OKjUEDg2b7FE70OebqjDTx3AjCW4J.png?w=54&thumb=true",
+        "Discount": "50%",
+        "Metascore": "75"
+    },
+    {
+        "Name": "GORN",
+        "Price": "15.60",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=215",
+        "Image": "https://images.g2a.com/115x155/1x1x0/gorn-steam-key-global/5e84666c7e696c600a481642",
+        "Discount": "22%"
+    },
+    {
+        "Name": "Skater XL",
+        "Price": "18.36",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=221",
+        "Image": "https://images.g2a.com/115x155/1x1x0/skater-xl-pc-steam-account-account-global/22c9d08aa73b4e4e9db95a93",
+        "Discount": "54%",
+        "Metascore": "59"
+    },
+    {
+        "Name": "Legend of Keepers: Career of a Dungeon Manager",
+        "Price": "1.00",
+        "Link": "https://www.instant-gaming.com/en/6447-buy-legend-of-keepers-career-of-a-dungeon-manager-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6447/380x218/legend-of-keepers-career-of-a-dungeon-manager-pc-mac-game-steam-cover.jpg?v=1655721998",
+        "Discount": "94%",
+        "Metascore": "76",
+        "Completionist hours": "65"
+    },
+    {
+        "Name": "Judgment",
+        "Price": "28.98",
+        "Link": "https://www.g2a.com/es/category/gaming-c1?page=268",
+        "Image": "https://images.g2a.com/115x155/1x1x0/judgment-pc-steam-key-global/139e7ba6045c47fa9411a9e0",
+        "Discount": "28%",
+        "Completionist hours": "103"
+    },
+    {
+        "Name": "Farming Simulator 22 - Premium Edition",
+        "Price": "27.99",
+        "Link": "https://www.instant-gaming.com/en/14538-buy-farming-simulator-22-premium-edition-premium-edition-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/14538/380x218/farming-simulator-22-premium-edition-premium-edition-pc-mac-game-steam-cover.jpg?v=1698400622",
+        "Discount": "49%"
+    },
+    {
+        "Name": "Payday 3",
+        "Price": "28.59",
+        "Link": "https://www.instant-gaming.com/en/6442-buy-payday-3-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6442/380x218/payday-3-pc-game-steam-cover.jpg?v=1696580204",
+        "Discount": "29%",
+        "Metascore": "67"
+    },
+    {
+        "Name": "MotoGP 23",
+        "Price": "33.58",
+        "Link": "https://www.instant-gaming.com/en/13416-buy-motogp-23-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/13416/380x218/motogp-23-pc-game-steam-cover.jpg?v=1696585615",
+        "Discount": "33%",
+        "Metascore": "74"
+    },
+    {
+        "Name": "Starfield Digital Premium Edition",
+        "Price": "73.99",
+        "Link": "https://www.instant-gaming.com/en/14350-buy-starfield-digital-premium-edition-digital-premium-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/14350/380x218/starfield-digital-premium-edition-digital-premium-edition-pc-game-steam-cover.jpg?v=1697644479",
+        "Discount": "26%"
+    },
+    {
+        "Name": "Ride 5",
+        "Price": "45.16",
+        "Link": "https://www.instant-gaming.com/en/13417-buy-ride-5-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/13417/380x218/ride-5-pc-game-steam-cover.jpg?v=1696580346",
+        "Discount": "25%"
+    },
+    {
+        "Name": "Wreckfest",
+        "Price": "9.17",
+        "Link": "https://www.instant-gaming.com/en/582-buy-wreckfest-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/582/380x218/wreckfest-pc-game-steam-cover.jpg?v=1692960253",
+        "Discount": "69%",
+        "Metascore": "83",
+        "Completionist hours": "31"
+    },
+    {
+        "Name": "Arizona Sunshine",
+        "Price": "5.67",
+        "Link": "https://www.instant-gaming.com/en/1809-buy-arizona-sunshine-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1809/380x218/arizona-sunshine-pc-game-steam-cover.jpg?v=1685019780",
+        "Discount": "81%",
+        "Metascore": "63"
+    },
+    {
+        "Name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
+        "Price": "5.76",
+        "Link": "https://www.instant-gaming.com/en/6031-buy-yu-gi-oh-legacy-of-the-duelist-link-evolution-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6031/380x218/yu-gi-oh-legacy-of-the-duelist-link-evolution-pc-game-steam-cover.jpg?v=1651506874",
+        "Discount": "86%",
+        "Completionist hours": "139"
+    },
+    {
+        "Name": "Company of Heroes Complete Pack",
+        "Price": "6.10",
+        "Link": "https://www.instant-gaming.com/en/1350-buy-company-of-heroes-complete-pack-complete-pack-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1350/380x218/company-of-heroes-complete-pack-complete-pack-pc-game-steam-cover.jpg?v=1694166535",
+        "Discount": "76%"
+    },
+    {
+        "Name": "Call of Juarez: Bound in Blood",
+        "Price": "1.20",
+        "Link": "https://www.instant-gaming.com/en/1593-buy-call-of-juarez-bound-in-blood-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1593/380x218/call-of-juarez-bound-in-blood-pc-game-steam-cover.jpg?v=1649170679",
+        "Discount": "88%",
+        "Completionist hours": "12"
+    },
+    {
+        "Name": "Destroy All Humans!",
+        "Price": "3.34",
+        "Link": "https://www.instant-gaming.com/en/5802-buy-destroy-all-humans-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/5802/380x218/destroy-all-humans-pc-game-steam-cover.jpg?v=1696589298",
+        "Discount": "89%",
+        "Metascore": "71",
+        "Completionist hours": "14"
+    },
+    {
+        "Name": "Tropico 5",
+        "Price": "1.22",
+        "Link": "https://www.instant-gaming.com/en/336-buy-tropico-5-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/336/380x218/tropico-5-pc-mac-game-steam-cover.jpg?v=1662393176",
+        "Discount": "94%",
+        "Metascore": "76",
+        "Completionist hours": "103"
+    },
+    {
+        "Name": "The Jackbox Party Pack 3",
+        "Price": "7.74",
+        "Link": "https://www.instant-gaming.com/en/2084-buy-the-jackbox-party-pack-3-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/2084/380x218/the-jackbox-party-pack-3-pc-mac-game-steam-cover.jpg?v=1649240527",
+        "Discount": "69%"
+    },
+    {
+        "Name": "Hitman: Contracts",
+        "Price": "1.01",
+        "Link": "https://www.instant-gaming.com/en/7209-buy-hitman-contracts-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/7209/380x218/hitman-contracts-pc-game-steam-cover.jpg?v=1651744822",
+        "Discount": "89%",
+        "Metascore": "80",
+        "Completionist hours": "17"
+    },
+    {
+        "Name": "Batora: Lost Haven",
+        "Price": "1.32",
+        "Link": "https://www.instant-gaming.com/en/9368-buy-batora-lost-haven-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/9368/380x218/batora-lost-haven-pc-game-steam-cover.jpg?v=1696594122",
+        "Discount": "95%"
+    },
+    {
+        "Name": "Saints Row: The Third Remastered",
+        "Price": "7.59",
+        "Link": "https://www.instant-gaming.com/en/8820-buy-saints-row-the-third-remastered-remastered-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/8820/380x218/saints-row-the-third-remastered-remastered-pc-game-steam-cover.jpg?v=1652800228",
+        "Discount": "75%",
+        "Completionist hours": "37"
+    },
+    {
+        "Name": "Journey to the Savage Planet",
+        "Price": "5.26",
+        "Link": "https://www.instant-gaming.com/en/8130-buy-game-steam-journey-to-the-savage-planet/",
+        "Image": "https://gaming-cdn.com/images/products/8130/380x218/game-steam-journey-to-the-savage-planet-cover.jpg?v=1618229349",
+        "Discount": "82%",
+        "Metascore": "76",
+        "Completionist hours": "16"
+    },
+    {
+        "Name": "Cities: Skylines - Content Creator Pack: Seaside Resorts",
+        "Price": "3.99",
+        "Link": "https://www.instant-gaming.com/en/12893-buy-cities-skylines-content-creator-pack-seaside-resorts-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/12893/380x218/cities-skylines-content-creator-pack-seaside-resorts-pc-mac-game-steam-cover.jpg?v=1663225726",
+        "Discount": "33%"
+    },
+    {
+        "Name": "LEGO Marvel Super Heroes 2",
+        "Price": "2.89",
+        "Link": "https://www.instant-gaming.com/en/2087-buy-lego-marvel-super-heroes-2-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/2087/380x218/lego-marvel-super-heroes-2-pc-mac-game-steam-cover.jpg?v=1649240582",
+        "Discount": "90%",
+        "Completionist hours": "59"
+    },
+    {
+        "Name": "Europa Universalis IV: Wealth of Nations",
+        "Price": "3.45",
+        "Link": "https://www.instant-gaming.com/en/5480-buy-europa-universalis-iv-wealth-of-nations-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/5480/380x218/europa-universalis-iv-wealth-of-nations-pc-mac-game-steam-cover.jpg?v=1651500378",
+        "Discount": "65%",
+        "Metascore": "84"
+    },
+    {
+        "Name": "Post Scriptum (uncut)",
+        "Price": "5.73",
+        "Link": "https://www.instant-gaming.com/en/2765-buy-game-steam-post-scriptum-uncut/",
+        "Image": "https://gaming-cdn.com/images/products/2765/380x218/game-steam-post-scriptum-uncut-cover.jpg?v=1608049517",
+        "Discount": "80%"
+    },
+    {
+        "Name": "LEGO DC Super-Villains Season Pass",
+        "Price": "1.97",
+        "Link": "https://www.instant-gaming.com/en/14468-buy-lego-dc-super-villains-season-pass-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/14468/380x218/lego-dc-super-villains-season-pass-pc-game-steam-cover.jpg?v=1696338043",
+        "Discount": "87%"
+    },
+    {
+        "Name": "Solasta: Crown of the Magister - Lost Valley",
+        "Price": "5.64",
+        "Link": "https://www.instant-gaming.com/en/10729-buy-solasta-crown-of-the-magister-lost-valley-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/10729/380x218/solasta-crown-of-the-magister-lost-valley-pc-mac-game-steam-cover.jpg?v=1650458725",
+        "Discount": "57%"
+    },
+    {
+        "Name": "Autobahn Police Simulator 3",
+        "Price": "16.42",
+        "Link": "https://www.instant-gaming.com/en/12343-buy-autobahn-police-simulator-3-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/12343/380x218/autobahn-police-simulator-3-pc-game-steam-cover.jpg?v=1696346332",
+        "Discount": "45%"
+    },
+    {
+        "Name": "Syberia 3",
+        "Price": "1.82",
+        "Link": "https://www.instant-gaming.com/en/611-buy-syberia-3-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/611/380x218/syberia-3-pc-mac-game-steam-cover.jpg?v=1688127343",
+        "Discount": "88%",
+        "Metascore": "51",
+        "Completionist hours": "16"
+    },
+    {
+        "Name": "Life is Strange: True Colors - Ultimate Edition",
+        "Price": "31.82",
+        "Link": "https://www.instant-gaming.com/en/8670-buy-life-is-strange-true-colors-ultimate-edition-ultimate-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/8670/380x218/life-is-strange-true-colors-ultimate-edition-ultimate-edition-pc-game-steam-cover.jpg?v=1696935097",
+        "Discount": "60%"
+    },
+    {
+        "Name": "Total War: Rome II - Wrath of Sparta",
+        "Price": "5.16",
+        "Link": "https://www.instant-gaming.com/en/738-buy-total-war-rome-ii-wrath-of-sparta-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/738/380x218/total-war-rome-ii-wrath-of-sparta-pc-game-steam-cover.jpg?v=1662556443",
+        "Discount": "70%"
+    },
+    {
+        "Name": "Devil May Cry 3: Special Edition",
+        "Price": "3.46",
+        "Link": "https://www.instant-gaming.com/en/2196-buy-devil-may-cry-3-special-edition-special-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/2196/380x218/devil-may-cry-3-special-edition-special-edition-pc-game-steam-cover.jpg?v=1649422361",
+        "Discount": "83%",
+        "Metascore": "87"
+    },
+    {
+        "Name": "Tannenberg",
+        "Price": "2.26",
+        "Link": "https://www.instant-gaming.com/en/2113-buy-tannenberg-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/2113/380x218/tannenberg-pc-mac-game-steam-cover.jpg?v=1649242649",
+        "Discount": "89%"
+    },
+    {
+        "Name": "Sifu Digital Deluxe Edition",
+        "Price": "23.05",
+        "Link": "https://www.instant-gaming.com/en/13883-buy-sifu-digital-deluxe-edition-digital-deluxe-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/13883/380x218/sifu-digital-deluxe-edition-digital-deluxe-edition-pc-game-steam-cover.jpg?v=1684165589",
+        "Discount": "58%"
+    },
+    {
+        "Name": "Prison Simulator",
+        "Price": "9.75",
+        "Link": "https://www.instant-gaming.com/en/12982-buy-prison-simulator-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/12982/380x218/prison-simulator-pc-game-steam-cover.jpg?v=1695135864",
+        "Discount": "42%"
+    },
+    {
+        "Name": "Dead by Daylight: The 80's Suitcase",
+        "Price": "1.00",
+        "Link": "https://www.instant-gaming.com/en/4358-buy-dead-by-daylight-the-80-s-suitcase-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/4358/380x218/dead-by-daylight-the-80-s-suitcase-pc-game-steam-cover.jpg?v=1680777670",
+        "Discount": "67%"
+    },
+    {
+        "Name": "Alone In The Dark: The New Nightmare",
+        "Price": "1.00",
+        "Link": "https://www.instant-gaming.com/en/3491-buy-alone-in-the-dark-the-new-nightmare-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/3491/380x218/alone-in-the-dark-the-new-nightmare-pc-game-steam-cover.jpg?v=1673630409",
+        "Discount": "86%"
+    },
+    {
+        "Name": "Cossacks: Back to War",
+        "Price": "1.00",
+        "Link": "https://www.instant-gaming.com/en/1924-buy-cossacks-back-to-war-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1924/380x218/cossacks-back-to-war-pc-game-steam-cover.jpg?v=1652361619",
+        "Discount": "80%"
+    },
+    {
+        "Name": "The Surge 2 Premium Edition",
+        "Price": "8.27",
+        "Link": "https://www.instant-gaming.com/en/8152-buy-the-surge-2-premium-edition-premium-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/8152/380x218/the-surge-2-premium-edition-premium-edition-pc-game-steam-cover.jpg?v=1650543913",
+        "Discount": "79%"
+    },
+    {
+        "Name": "Warhammer 40.000: Dawn of War II Master Collection",
+        "Price": "4.66",
+        "Link": "https://www.instant-gaming.com/en/1762-buy-warhammer-40-000-dawn-of-war-ii-master-collection-master-collection-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1762/380x218/warhammer-40-000-dawn-of-war-ii-master-collection-master-collection-pc-mac-game-steam-cover.jpg?v=1648822334",
+        "Discount": "92%"
+    },
+    {
+        "Name": "Risen 2: Dark Waters",
+        "Price": "1.30",
+        "Link": "https://www.instant-gaming.com/en/164-buy-risen-2-dark-waters-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/164/380x218/risen-2-dark-waters-pc-game-steam-cover.jpg?v=1675951168",
+        "Discount": "87%",
+        "Metascore": "69",
+        "Completionist hours": "47"
+    },
+    {
+        "Name": "Endzone - A World Apart Complete Edition",
+        "Price": "8.97",
+        "Link": "https://www.instant-gaming.com/en/13077-buy-endzone-a-world-apart-complete-edition-complete-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/13077/380x218/endzone-a-world-apart-complete-edition-complete-edition-pc-game-steam-cover.jpg?v=1695134243",
+        "Discount": "80%"
+    },
+    {
+        "Name": "Panzer Corps 2",
+        "Price": "6.01",
+        "Link": "https://www.instant-gaming.com/en/6226-buy-panzer-corps-2-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6226/380x218/panzer-corps-2-pc-game-steam-cover.jpg?v=1668181582",
+        "Discount": "85%",
+        "Metascore": "86",
+        "Completionist hours": "--"
+    },
+    {
+        "Name": "Overcooked! 2 - Carnival of Chaos",
+        "Price": "2.29",
+        "Link": "https://www.instant-gaming.com/en/6074-buy-overcooked-2-carnival-of-chaos-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6074/380x218/overcooked-2-carnival-of-chaos-pc-mac-game-steam-cover.jpg?v=1651564079",
+        "Discount": "54%"
+    },
+    {
+        "Name": "SBK 22",
+        "Price": "7.99",
+        "Link": "https://www.instant-gaming.com/en/12628-buy-sbk-22-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/12628/380x218/sbk-22-pc-game-steam-cover.jpg?v=1695732575",
+        "Discount": "80%"
+    },
+    {
+        "Name": "Earth Defense Force 5",
+        "Price": "21.47",
+        "Link": "https://www.instant-gaming.com/en/12529-buy-earth-defense-force-5-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/12529/380x218/earth-defense-force-5-pc-game-steam-cover.jpg?v=1695740066",
+        "Discount": "57%",
+        "Metascore": "76",
+        "Completionist hours": "104"
+    },
+    {
+        "Name": "Sniper Elite 4 Season Pass",
+        "Price": "4.00",
+        "Link": "https://www.instant-gaming.com/en/1922-buy-sniper-elite-4-season-pass-season-pass-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1922/380x218/sniper-elite-4-season-pass-season-pass-pc-game-steam-cover.jpg?v=1649236340",
+        "Discount": "88%"
+    },
+    {
+        "Name": "Absolver",
+        "Price": "5.50",
+        "Link": "https://www.instant-gaming.com/en/1528-buy-absolver-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1528/380x218/absolver-pc-game-steam-cover.jpg?v=1649168636",
+        "Discount": "81%"
+    },
+    {
+        "Name": "Pure Farming 2018 - Digital Deluxe Edition",
+        "Price": "1.17",
+        "Link": "https://www.instant-gaming.com/en/7423-buy-pure-farming-2018-digital-deluxe-edition-digital-deluxe-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/7423/380x218/pure-farming-2018-digital-deluxe-edition-digital-deluxe-edition-pc-game-steam-cover.jpg?v=1674042310",
+        "Discount": "96%"
+    },
+    {
+        "Name": "Overcooked! 2 - Too Many Cooks Pack",
+        "Price": "1.00",
+        "Link": "https://www.instant-gaming.com/en/5262-buy-overcooked-2-too-many-cooks-pack-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/5262/380x218/overcooked-2-too-many-cooks-pack-pc-mac-game-steam-cover.jpg?v=1651132312",
+        "Discount": "58%"
+    },
+    {
+        "Name": "BlazBlue: Centralfiction",
+        "Price": "8.11",
+        "Link": "https://www.instant-gaming.com/en/3828-buy-blazblue-centralfiction-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/3828/380x218/blazblue-centralfiction-pc-game-steam-cover.jpg?v=1649754927",
+        "Discount": "78%"
+    },
+    {
+        "Name": "Elite Dangerous: Odyssey Deluxe Edition",
+        "Price": "8.33",
+        "Link": "https://www.instant-gaming.com/en/8841-buy-elite-dangerous-odyssey-deluxe-edition-deluxe-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/8841/380x218/elite-dangerous-odyssey-deluxe-edition-deluxe-edition-pc-game-steam-cover.jpg?v=1648540072",
+        "Discount": "79%"
+    },
+    {
+        "Name": "Kingdoms of Amalur: Re-Reckoning",
+        "Price": "4.64",
+        "Link": "https://www.instant-gaming.com/en/7058-buy-kingdoms-of-amalur-re-reckoning-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/7058/380x218/kingdoms-of-amalur-re-reckoning-pc-game-steam-cover.jpg?v=1688393120",
+        "Discount": "88%",
+        "Metascore": "72",
+        "Completionist hours": "92"
+    },
+    {
+        "Name": "Sword Art Online: Alicization Lycoris Deluxe Edition",
+        "Price": "14.79",
+        "Link": "https://www.instant-gaming.com/en/6872-buy-sword-art-online-alicization-lycoris-deluxe-edition-deluxe-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6872/380x218/sword-art-online-alicization-lycoris-deluxe-edition-deluxe-edition-pc-game-steam-cover.jpg?v=1668609455",
+        "Discount": "84%"
+    },
+    {
+        "Name": "One Piece: Burning Blood Gold Pack",
+        "Price": "6.86",
+        "Link": "https://www.instant-gaming.com/en/1657-buy-one-piece-burning-blood-gold-pack-gold-pack-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1657/380x218/one-piece-burning-blood-gold-pack-gold-pack-pc-game-steam-cover.jpg?v=1649864852",
+        "Discount": "73%"
+    },
+    {
+        "Name": "Driving School Simulator",
+        "Price": "2.66",
+        "Link": "https://www.instant-gaming.com/en/10939-buy-driving-school-simulator-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/10939/380x218/driving-school-simulator-pc-game-steam-cover.jpg?v=1698053296",
+        "Discount": "73%"
+    },
+    {
+        "Name": "Dragon Ball FighterZ: FighterZ Pass",
+        "Price": "15.12",
+        "Link": "https://www.instant-gaming.com/en/2492-buy-dragon-ball-fighterz-fighterz-pass-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/2492/380x218/dragon-ball-fighterz-fighterz-pass-pc-game-steam-cover.jpg?v=1649327949",
+        "Discount": "57%"
+    },
+    {
+        "Name": "Destiny 2: Legendary Edition",
+        "Price": "22.15",
+        "Link": "https://www.instant-gaming.com/en/7859-buy-destiny-2-legendary-edition-legendary-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/7859/380x218/destiny-2-legendary-edition-legendary-edition-pc-game-steam-cover.jpg?v=1687942702",
+        "Discount": "72%"
+    },
+    {
+        "Name": "Project Highrise",
+        "Price": "1.20",
+        "Link": "https://www.instant-gaming.com/en/1653-buy-project-highrise-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1653/380x218/project-highrise-pc-mac-game-steam-cover.jpg?v=1649172211",
+        "Discount": "94%",
+        "Metascore": "73"
+    },
+    {
+        "Name": "Metro: Exodus Expansion Pass",
+        "Price": "2.88",
+        "Link": "https://www.instant-gaming.com/en/6462-buy-metro-exodus-expansion-pass-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6462/380x218/metro-exodus-expansion-pass-pc-game-steam-cover.jpg?v=1651570839",
+        "Discount": "81%"
+    },
+    {
+        "Name": "Endless Space 2 Definitive Edition",
+        "Price": "25.20",
+        "Link": "https://www.instant-gaming.com/en/10366-buy-endless-space-2-definitive-edition-definitive-edition-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/10366/380x218/endless-space-2-definitive-edition-definitive-edition-pc-mac-game-steam-cover.jpg?v=1647518108",
+        "Discount": "73%"
+    },
+    {
+        "Name": "Roguebook Deluxe Edition",
+        "Price": "5.20",
+        "Link": "https://www.instant-gaming.com/en/8506-buy-roguebook-deluxe-edition-deluxe-edition-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/8506/380x218/roguebook-deluxe-edition-deluxe-edition-pc-mac-game-steam-cover.jpg?v=1650622185",
+        "Discount": "85%"
+    },
+    {
+        "Name": "Guilty Gear -Strive- Deluxe Edition",
+        "Price": "47.97",
+        "Link": "https://www.instant-gaming.com/en/8275-buy-guilty-gear-strive-deluxe-edition-deluxe-edition-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/8275/380x218/guilty-gear-strive-deluxe-edition-deluxe-edition-pc-game-steam-cover.jpg?v=1666195507",
+        "Discount": "20%"
+    },
+    {
+        "Name": "Sniper Ghost Warrior 3",
+        "Price": "2.77",
+        "Link": "https://www.instant-gaming.com/en/6770-buy-sniper-ghost-warrior-3-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/6770/380x218/sniper-ghost-warrior-3-pc-game-steam-cover.jpg?v=1651573956",
+        "Discount": "86%"
+    },
+    {
+        "Name": "A Normal Lost Phone",
+        "Price": "1.00",
+        "Link": "https://www.instant-gaming.com/en/3721-buy-a-normal-lost-phone-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/3721/380x218/a-normal-lost-phone-pc-mac-game-steam-cover.jpg?v=1649684857",
+        "Discount": "67%",
+        "Metascore": "73",
+        "Completionist hours": "1"
+    },
+    {
+        "Name": "Frozen Flame",
+        "Price": "10.34",
+        "Link": "https://www.instant-gaming.com/en/13186-buy-frozen-flame-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/13186/380x218/frozen-flame-pc-game-steam-cover.jpg?v=1696590646",
+        "Discount": "66%"
+    },
+    {
+        "Name": "Star Wars Jedi Knight Collection",
+        "Price": "3.76",
+        "Link": "https://www.instant-gaming.com/en/8757-buy-star-wars-jedi-knight-collection-jedi-knight-collection-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/8757/380x218/star-wars-jedi-knight-collection-jedi-knight-collection-pc-game-steam-cover.jpg?v=1684941466",
+        "Discount": "85%"
+    },
+    {
+        "Name": "Gloria Victis: Medieval MMORPG",
+        "Price": "2.85",
+        "Link": "https://www.instant-gaming.com/en/5202-buy-gloria-victis-medieval-mmorpg-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/5202/380x218/gloria-victis-medieval-mmorpg-pc-game-steam-cover.jpg?v=1651074822",
+        "Discount": "86%"
+    },
+    {
+        "Name": "Shift Happens",
+        "Price": "1.53",
+        "Link": "https://www.instant-gaming.com/en/1954-buy-shift-happens-pc-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/1954/380x218/shift-happens-pc-game-steam-cover.jpg?v=1649236808",
+        "Discount": "90%"
+    },
+    {
+        "Name": "Sanctum 2",
+        "Price": "3.04",
+        "Link": "https://www.instant-gaming.com/en/2486-buy-sanctum-2-pc-mac-game-steam/",
+        "Image": "https://gaming-cdn.com/images/products/2486/380x218/sanctum-2-pc-mac-game-steam-cover.jpg?v=1649321896",
+        "Discount": "79%",
+        "Metascore": "77",
+        "Completionist hours": "59"
+    },
+    {
+        "Name": "Mafia: Trilogy",
+        "Price": "59.99",
+        "Link": "https://store.playstation.com/en-us/product/UP1001-CUSA03652_00-MAFIATRILOGYDEFI",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0902/7CAOfTFXzgypO4TWHnWtQstC.png?w=54&thumb=true"
+    },
+    {
+        "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+        "Price": "11.99",
+        "Link": "https://store.playstation.com/en-us/product/UP4389-CUSA14898_00-SPONGEBOBBFBBEU0",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1814/aglGICQMUl73037QEhSl7Avk.png?w=54&thumb=true",
+        "Discount": "60%",
+        "Metascore": "71",
+        "Completionist hours": "14"
+    },
+    {
+        "Name": "Stranded Deep",
         "Price": "19.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0177-CUSA10634_00-YAKUZAKIWAMI0002",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307fMnju7y6slojW1jE4nLHyt0Krm3qKmn_cWYLxa5IPmol41FHfRdHeDAtZBE2yv2PFt9c5J99RkAH4LJC43hguscL32p.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Link": "https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA",
+        "Image": "https://image.api.playstation.com/vulcan/img/rnd/202109/2216/t9XzGHGabQ2Ym0zbx4m0nEUC.png?w=54&thumb=true",
+        "Metascore": "65",
+        "Completionist hours": "43"
+    },
+    {
+        "Name": "The Walking Dead: Saints & Sinners - Standard Edition",
+        "Price": "29.99",
+        "Link": "https://store.playstation.com/en-us/product/UP2533-CUSA17412_00-TWDSSSTDEDITION0",
+        "Image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0120/M3aUa8wvFpmXkzFJvDB4VnsS.png?w=54&thumb=true",
+        "Discount": "25%"
+    },
+    {
+        "Name": "PUBG: BATTLEGROUNDS",
+        "Price": "0",
+        "Link": "https://store.playstation.com/en-us/product/UP5082-CUSA14081_00-PTSBUN0000000000",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202310/1609/076c674ecc2e8acee5c30a85428ebffe62c9a227e2d26e3d.png?w=54&thumb=true"
+    },
+    {
+        "Name": "13 Sentinels: Aegis Rim",
+        "Price": "59.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0177-CUSA19610_00-BSTUBCUSA1961000",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0917/bIsL7LdWIVw9V46oHJ0PIwZv.png?w=54&thumb=true",
+        "Metascore": "88",
+        "Completionist hours": "38"
+    },
+    {
+        "Name": "World War Z",
+        "Price": "29.99",
+        "Link": "https://store.playstation.com/en-us/product/UP2746-CUSA14046_00-WWZTHEGAME201800",
+        "Image": "https://image.api.playstation.com/cdn/UP2746/CUSA14046_00/0sdmApE8KNjQkMY5y3PFa7KJzf7MIx2K.png?w=54&thumb=true",
+        "Metascore": "73",
+        "Completionist hours": "60"
+    },
+    {
+        "Name": "Control: Ultimate Edition",
+        "Price": "39.99",
+        "Link": "https://store.playstation.com/en-us/product/UP4040-CUSA11461_00-CONTROLUEBUNDLE0",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/hvVTsd8akckaGtN2eZ3yIuwc.png?w=54&thumb=true",
+        "Completionist hours": "39"
+    },
+    {
+        "Name": "Maneater PS4 & PS5",
+        "Price": "39.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0115-CUSA14519_00-MANEATER00000001",
+        "Image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA14538_00/7/i_1dbc60bd015bfb1ecb0990b9484ad19b4ba86ea0e8d183138bfbf89d78d18d98/i/icon0.png?w=54&thumb=true"
+    },
+    {
+        "Name": "RESIDENT EVIL 7 biohazard",
+        "Price": "0",
+        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA03962_00-BH70000000000001",
+        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307HhTidFhptTYzAgEccg2W2gSTXJtujb__BJSLwLC3kk0zEM4uR1XXwEmncR2FJ86eNJ-NHgU2CWTlWz_DqldkV0WG1sV.png?w=54&thumb=true"
+    },
+    {
+        "Name": "The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition",
+        "Price": "79.99",
+        "Link": "https://store.playstation.com/en-us/product/UP1063-CUSA19637_00-DIGITALDELUXE000",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1900/gVAjWeXdy9DJwGVfJZEMT2Dx.png?w=54&thumb=true"
+    },
+    {
+        "Name": "Shadow of the Tomb Raider Definitive Edition",
+        "Price": "39.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA10938_00-DEFINITIVE00SIEA",
+        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307obn0reFe1U4gMc6b1pGe29vUWBAwdA8-rwjTkBN9iSwdc4rU6hpu5QI4ZXkrja75v0RAOXR1bNsTAg1jbb-3AgvCc1Y.png?w=54&thumb=true"
+    },
+    {
+        "Name": "KINGDOM HEARTS All-In-One Package",
+        "Price": "39.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA12031_00-COLLECTION300000",
+        "Image": "https://image.api.playstation.com/cdn/UP0082/CUSA12031_00/weJ4jcOJffCFNa15KgMxk1lE0dQlz0cg.png?w=54&thumb=true",
+        "Discount": "60%"
+    },
+    {
+        "Name": "Streets Of Rage 4",
+        "Price": "24.99",
+        "Link": "https://store.playstation.com/en-us/product/UP1482-CUSA16237_00-00STREETSOFRAGE4",
+        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307SG7zL96CGqmW5YM1pQqKoFKGsANspJGrugX1Nl7FgaI5OjvEMSoTOcNBZIjb2BP2MMER8S84jBxfI8U6_tTNdIDIPrV.png?w=54&thumb=true"
+    },
+    {
+        "Name": "The Elder Scrolls V: Skyrim VR",
+        "Price": "59.99",
+        "Link": "https://store.playstation.com/en-us/product/UP1003-CUSA09124_00-SKYRIMVR00000000",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2820/8galiZfjE4UBwA70UbFmX77R.png?w=54&thumb=true",
+        "Metascore": "81"
+    },
+    {
+        "Name": "Devil May Cry 5",
+        "Price": "0",
+        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA08216_00-DMC5000000000001",
+        "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA08216_00/nxnwRA9ePhYHVjnfn406ZXw1Ug0ddELA.png?w=54&thumb=true",
+        "Metascore": "89",
+        "Completionist hours": "68"
+    },
+    {
+        "Name": "Monster Hunter World: Iceborne Digital Deluxe",
+        "Price": "39.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-ICEBORNDX0000000",
+        "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA07713_00/5DTIJKKvHirRyG83XwGHie8nIhvVD9zE.png?w=54&thumb=true"
+    },
+    {
+        "Name": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
+        "Price": "49.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA05933_00-KINGDOMHEART1525",
+        "Image": "https://image.api.playstation.com/cdn/UP0082/CUSA05933_00/Mcd5L82dShQ7n5zWfBVNKMAfPgl1kkSz.png?w=54&thumb=true"
+    },
+    {
+        "Name": "SMITE Ultimate God Pack",
+        "Price": "29.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0334-CUSA02328_00-ULTIMATEGODPACKX",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2322/CM072lQwXunn2Z23lGXtpw4A.png?w=54&thumb=true"
+    },
+    {
+        "Name": "Street Fighter V: Champion Edition",
+        "Price": "9.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA01200_00-SFVCE00000000000",
+        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307MTvkumhOsLQiA_3g0ZbFhLnHOOWVw3qR4Rum7sKAh8I3THtbG0aa-P7dF7-miXzo1ceqN897MfxYZ7Qx-GaEZs8kq4X.png?w=54&thumb=true",
+        "Discount": "50%",
+        "Metascore": "82"
+    },
+    {
+        "Name": "MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON",
+        "Price": "29.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0700-CUSA18758_00-EXTREMEVSMBONPKG",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/0913/TeXq1rCfgUpptXglhNL9rLC8.png?w=54&thumb=true",
+        "Discount": "50%"
+    },
+    {
+        "Name": "Battlefield V Definitive Edition",
+        "Price": "49.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0006-CUSA08724_00-BFVDEFINIEDITION",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0813/TGIIghw30d2pJUuZDdKkni6O.png?w=54&thumb=true"
+    },
+    {
+        "Name": "Attack on Titan 2",
+        "Price": "39.99",
+        "Link": "https://store.playstation.com/en-us/product/UP4108-CUSA08956_00-AT2NAHDDGAME0000",
+        "Image": "https://image.api.playstation.com/cdn/UP4108/CUSA08956_00/EsdKIgxYrK4Bbs5O1pNO3zT5xJ0pL8Gk.png?w=54&thumb=true",
+        "Completionist hours": "84"
+    },
+    {
+        "Name": "Crysis Remastered",
+        "Price": "8.99",
+        "Link": "https://store.playstation.com/en-us/product/UP4291-CUSA18659_00-CRYSISREMASTERED",
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0715/rNqpXMO3CX4zfiNMwiFNpWf5.png?w=54&thumb=true",
+        "Discount": "70%",
+        "Metascore": "69"
+    },
+    {
+        "Name": "Devil May Cry HD Collection & 4SE Bundle",
+        "Price": "44.99",
+        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA09407_00-DMCHDC4SEBUNDLE0",
+        "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA09407_00/EPWah8q3QqBhWFwFRs1sgHF42oZjNrtm.png?w=54&thumb=true"
     },
     {
         "Name": "WRC 9 FIA World Rally Championship PS4 & PS5",
         "Price": "39.99",
         "Link": "https://store.playstation.com/en-us/product/UP4008-PPSA01364_00-WRC9SIEA00000000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/3014/OVHWW4lmXZfj6r0LxmRPwJQW.png?w=54&thumb=true",
-        "Metascore": "--"
-    },
-    {
-        "Name": "RIDE 4",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1981-CUSA20488_00-RIDE4FULLGAME000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1712/WBU8MtDHSutQ5o9FxXm4Fpwp.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/3014/OVHWW4lmXZfj6r0LxmRPwJQW.png?w=54&thumb=true"
     },
     {
         "Name": "Kingdom Come: Deliverance Royal Edition",
         "Price": "39.99",
         "Link": "https://store.playstation.com/en-us/product/UP2047-CUSA15610_00-KCDROYALEDITION0",
-        "Image": "https://image.api.playstation.com/cdn/UP2047/CUSA15610_00/jrVUjkU3M5aOVUNvtLCgZYt54jf4IPzT.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Image": "https://image.api.playstation.com/cdn/UP2047/CUSA15610_00/jrVUjkU3M5aOVUNvtLCgZYt54jf4IPzT.png?w=54&thumb=true"
     },
     {
         "Name": "A Plague Tale: Innocence",
         "Price": "0",
         "Link": "https://store.playstation.com/en-us/product/UP4133-CUSA11032_00-APLAGUETALEGAME0",
         "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2216/uFqCClqXSIsEFIo3ktJdZm7H.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Metascore": "83",
+        "Completionist hours": "16"
     },
     {
         "Name": "Darksiders Genesis",
         "Price": "7.99",
         "Link": "https://store.playstation.com/en-us/product/UP4389-CUSA12988_00-DARKSIDERSSSUS00",
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307FTDlOD7fPdfJ96GsPcv3mi5nkJwT6RkPw7INSIM7lG41u2eTT8C14jHYAIOSsSXqTC7Y6OkSD_YPXtmRzJf_PkyH-rZ.png?w=54&thumb=true",
-        "Discount": "80%",
-        "Metascore": "--"
+        "Discount": "80%"
     },
     {
         "Name": "CODE VEIN Deluxe Edition",
         "Price": "14.39",
         "Link": "https://store.playstation.com/en-us/product/UP0700-CUSA10410_00-CODEVEINDELUXEED",
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/1130781JfdLPq3U9Vtp_KwMSb5NtN0MsyRr3clSe4tXSqLPA7Xhbt7DCueLz7YehURV2rtA238lYbxd9h9x9DNUEYJo9xOp8.png?w=54&thumb=true",
-        "Discount": "82%",
-        "Metascore": "--"
-    },
-    {
-        "Name": "Ghostbusters: The Video Game Remastered",
-        "Price": "11.99",
-        "Link": "https://store.playstation.com/en-us/product/UP2746-CUSA15493_00-GHOSTBUSTERS2019",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307apN4QQKTCfdQanTi24sIEosX7xpjiAPM_6O8Qj4eFjMQ8GqUeoNKa_pYBrdrot4ReKHX-z-ReWe4IupTAlDSBUtaggQ.png?w=54&thumb=true",
-        "Discount": "60%",
-        "Metascore": "--"
+        "Discount": "82%"
     },
     {
         "Name": "TALES OF BERSERIA",
         "Price": "9.99",
         "Link": "https://store.playstation.com/en-us/product/UP0700-CUSA05258_00-PS4TOBERSERIA001",
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307bGedQyeRZJAkHGHtYZLIpSgyRXqcbip4_mK_jjQzpIwzvoKgkEHfQfa-6Mn7hZKQwxm_dKBzN8vgabBUX4jq9IU_qMk.png?w=54&thumb=true",
-        "Discount": "50%",
-        "Metascore": "--"
+        "Discount": "50%"
     },
     {
         "Name": "Budget Cuts",
         "Price": "29.99",
         "Link": "https://store.playstation.com/en-us/product/UP5030-CUSA20553_00-7666010101337901",
         "Image": "https://image.api.playstation.com/vulcan/img/rnd/202009/2314/EA0PpIj13xBJg9BEkoJqZIWW.png?w=54&thumb=true",
-        "Metascore": "--"
+        "Completionist hours": "7"
     }
 ]

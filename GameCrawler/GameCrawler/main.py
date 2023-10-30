@@ -6,14 +6,12 @@ from scrapy.utils.project import get_project_settings
 
 from spiders.instantGaming import InstantGamingSpider
 from spiders.g2a import G2aSpider
-#from spiders.eneba import EnebaSpider
 from spiders.metacritic import MetacriticSpider
 from spiders.howlongtobeat import HowlongtobeatSpider
 from spiders.playStation import PlayStationSpider
 
 spiders = [MetacriticSpider, G2aSpider, PlayStationSpider, InstantGamingSpider, HowlongtobeatSpider]
 
-#spiders = [InstantGamingSpider]
 def run_spider(spider):
     process = CrawlerProcess(get_project_settings())
     process.crawl(spider)
@@ -34,6 +32,9 @@ def merge_data():
     with open(f'{current_directory}/spiders/data/metacritic.json', 'r') as file:
         mc = json.load(file)
 
+    with open(f'{current_directory}/spiders/data/hltb.json', 'r') as file:
+        hltb = json.load(file)
+
     merged_data = g2a + ig + ps
 
     data_dict = {}
@@ -48,11 +49,13 @@ def merge_data():
         else:
             data_dict[game_name] = game
 
-    for game_name, game_info in data_dict.items():
-        if game_name in mc:
-            game_info['Metascore'] = mc[game_name]['Metascore']
-        elif 'Metascore' not in game_info:
-            game_info['Metascore'] = "--"
+    for game in mc:
+        if game['Name'] in data_dict:
+            data_dict[game['Name']]['Metascore'] = game['Metascore']
+
+    for game in hltb:
+        if game['Game Name'] in data_dict:
+            data_dict[game['Game Name']]['Completionist hours'] = game['Completionist Hours']
 
     data_list = list(data_dict.values())
 

@@ -30,7 +30,7 @@ class MetacriticSpider(scrapy.Spider):
                         print(f"Metacritic: {game_name} -----------------------")
                         
         next_page = self.start_urls[0] + f"?releaseYearMin=1910&releaseYearMax=2023&page={self.pages}"
-        if self.pages < 10: # 543
+        if self.pages < 543: # 543
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
         
