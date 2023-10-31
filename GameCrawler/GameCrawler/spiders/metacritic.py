@@ -18,9 +18,11 @@ class MetacriticSpider(scrapy.Spider):
             game_name = game.xpath('.//div[@data-title]/@data-title').extract_first()
             metascore = game.xpath('.//div[contains(@class, "c-siteReviewScore")]/span/text()').extract_first()
 
-            if game_name and metascore:
+            if game_name:
                 if game_name not in self.scraped_game_names:
                     if game_name in allowed_games:
+                        if not metascore:
+                            metascore = "--"
                         item = {
                             "Name": game_name,
                             "Metascore": metascore
