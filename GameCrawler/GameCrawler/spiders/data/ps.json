@@ -50,13 +50,6 @@
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307wMjfgx5P1og84rPU_f7JRWHhWnbDWqpjfHfMPGtwxykE12sZmu8C7n0XrhYwLTdxcQyXwH4Jy4JpS67tQd5Gl0Kd5Rz.png?w=54&thumb=true"
     },
     {
-        "Name": "The Walking Dead: Saints & Sinners - Standard Edition",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP2533-CUSA17412_00-TWDSSSTDEDITION0",
-        "Image": "https://image.api.playstation.com/vulcan/img/rnd/202111/0120/M3aUa8wvFpmXkzFJvDB4VnsS.png?w=54&thumb=true",
-        "Discount": "25%"
-    },
-    {
         "Name": "PUBG: BATTLEGROUNDS",
         "Price": "0",
         "Link": "https://store.playstation.com/en-us/product/UP5082-CUSA14081_00-PTSBUN0000000000",
@@ -100,18 +93,6 @@
         "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/hvVTsd8akckaGtN2eZ3yIuwc.png?w=54&thumb=true"
     },
     {
-        "Name": "Maneater PS4 & PS5",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0115-CUSA14519_00-MANEATER00000001",
-        "Image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA14538_00/7/i_1dbc60bd015bfb1ecb0990b9484ad19b4ba86ea0e8d183138bfbf89d78d18d98/i/icon0.png?w=54&thumb=true"
-    },
-    {
-        "Name": "Maneater PS4 & PS5",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0115-PPSA01861_00-MANEATER00000001",
-        "Image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA14538_00/7/i_1dbc60bd015bfb1ecb0990b9484ad19b4ba86ea0e8d183138bfbf89d78d18d98/i/icon0.png?w=54&thumb=true"
-    },
-    {
         "Name": "RESIDENT EVIL 7 biohazard",
         "Price": "0",
         "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA03962_00-BH70000000000001",
@@ -151,29 +132,10 @@
         "Discount": "75%"
     },
     {
-        "Name": "The Legend of Heroes: Trails of Cold Steel IV Digital Deluxe Edition",
-        "Price": "79.99",
-        "Link": "https://store.playstation.com/en-us/product/UP1063-CUSA19637_00-DIGITALDELUXE000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1900/gVAjWeXdy9DJwGVfJZEMT2Dx.png?w=54&thumb=true"
-    },
-    {
         "Name": "GORN",
         "Price": "19.99",
         "Link": "https://store.playstation.com/en-us/product/UP3643-CUSA18144_00-00000000GORNPSVR",
         "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202005/0120/t3BidiywyjNXxtz9yIfhCcUz.png?w=54&thumb=true"
-    },
-    {
-        "Name": "Shadow of the Tomb Raider Definitive Edition",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA10938_00-DEFINITIVE00SIEA",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307obn0reFe1U4gMc6b1pGe29vUWBAwdA8-rwjTkBN9iSwdc4rU6hpu5QI4ZXkrja75v0RAOXR1bNsTAg1jbb-3AgvCc1Y.png?w=54&thumb=true"
-    },
-    {
-        "Name": "KINGDOM HEARTS All-In-One Package",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA12031_00-COLLECTION300000",
-        "Image": "https://image.api.playstation.com/cdn/UP0082/CUSA12031_00/weJ4jcOJffCFNa15KgMxk1lE0dQlz0cg.png?w=54&thumb=true",
-        "Discount": "60%"
     },
     {
         "Name": "Amnesia: Rebirth",
@@ -215,12 +177,6 @@
         "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA08216_00/nxnwRA9ePhYHVjnfn406ZXw1Ug0ddELA.png?w=54&thumb=true"
     },
     {
-        "Name": "Monster Hunter World: Iceborne Digital Deluxe",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-ICEBORNDX0000000",
-        "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA07713_00/5DTIJKKvHirRyG83XwGHie8nIhvVD9zE.png?w=54&thumb=true"
-    },
-    {
         "Name": "Wasteland 3",
         "Price": "7.99",
         "Link": "https://store.playstation.com/en-us/product/UP2047-CUSA13473_00-WL3USDEEPS000002",
@@ -235,12 +191,6 @@
         "Discount": "70%"
     },
     {
-        "Name": "KINGDOM HEARTS HD 1.5 +2.5 ReMIX",
-        "Price": "49.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0082-CUSA05933_00-KINGDOMHEART1525",
-        "Image": "https://image.api.playstation.com/cdn/UP0082/CUSA05933_00/Mcd5L82dShQ7n5zWfBVNKMAfPgl1kkSz.png?w=54&thumb=true"
-    },
-    {
         "Name": "SMITE Ultimate God Pack",
         "Price": "29.99",
         "Link": "https://store.playstation.com/en-us/product/UP0334-CUSA02328_00-ULTIMATEGODPACKX",
@@ -252,19 +202,6 @@
         "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA01200_00-SFVCE00000000000",
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307MTvkumhOsLQiA_3g0ZbFhLnHOOWVw3qR4Rum7sKAh8I3THtbG0aa-P7dF7-miXzo1ceqN897MfxYZ7Qx-GaEZs8kq4X.png?w=54&thumb=true",
         "Discount": "50%"
-    },
-    {
-        "Name": "MOBILE SUIT GUNDAM EXTREME VS. MAXIBOOST ON",
-        "Price": "29.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0700-CUSA18758_00-EXTREMEVSMBONPKG",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/0913/TeXq1rCfgUpptXglhNL9rLC8.png?w=54&thumb=true",
-        "Discount": "50%"
-    },
-    {
-        "Name": "Battlefield V Definitive Edition",
-        "Price": "49.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0006-CUSA08724_00-BFVDEFINIEDITION",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0813/TGIIghw30d2pJUuZDdKkni6O.png?w=54&thumb=true"
     },
     {
         "Name": "Attack on Titan 2",
@@ -286,12 +223,6 @@
         "Image": "https://image.api.playstation.com/cdn/UP0177/CUSA13186_00/4mDsRJK5TIlp4bhiyNyTwjlCq5anKOgE.png?w=54&thumb=true"
     },
     {
-        "Name": "Devil May Cry HD Collection & 4SE Bundle",
-        "Price": "44.99",
-        "Link": "https://store.playstation.com/en-us/product/UP0102-CUSA09407_00-DMCHDC4SEBUNDLE0",
-        "Image": "https://image.api.playstation.com/cdn/UP0102/CUSA09407_00/EPWah8q3QqBhWFwFRs1sgHF42oZjNrtm.png?w=54&thumb=true"
-    },
-    {
         "Name": "Yakuza 6: The Song of Life",
         "Price": "5.99",
         "Link": "https://store.playstation.com/en-us/product/UP0177-CUSA09032_00-YAKUZA6SONGOFLEN",
@@ -305,22 +236,10 @@
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307fMnju7y6slojW1jE4nLHyt0Krm3qKmn_cWYLxa5IPmol41FHfRdHeDAtZBE2yv2PFt9c5J99RkAH4LJC43hguscL32p.png?w=54&thumb=true"
     },
     {
-        "Name": "WRC 9 FIA World Rally Championship PS4 & PS5",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP4008-PPSA01364_00-WRC9SIEA00000000",
-        "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202006/3014/OVHWW4lmXZfj6r0LxmRPwJQW.png?w=54&thumb=true"
-    },
-    {
         "Name": "RIDE 4",
         "Price": "39.99",
         "Link": "https://store.playstation.com/en-us/product/UP1981-CUSA20488_00-RIDE4FULLGAME000",
         "Image": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1712/WBU8MtDHSutQ5o9FxXm4Fpwp.png?w=54&thumb=true"
-    },
-    {
-        "Name": "Kingdom Come: Deliverance Royal Edition",
-        "Price": "39.99",
-        "Link": "https://store.playstation.com/en-us/product/UP2047-CUSA15610_00-KCDROYALEDITION0",
-        "Image": "https://image.api.playstation.com/cdn/UP2047/CUSA15610_00/jrVUjkU3M5aOVUNvtLCgZYt54jf4IPzT.png?w=54&thumb=true"
     },
     {
         "Name": "A Plague Tale: Innocence",
@@ -334,20 +253,6 @@
         "Link": "https://store.playstation.com/en-us/product/UP4389-CUSA12988_00-DARKSIDERSSSUS00",
         "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307FTDlOD7fPdfJ96GsPcv3mi5nkJwT6RkPw7INSIM7lG41u2eTT8C14jHYAIOSsSXqTC7Y6OkSD_YPXtmRzJf_PkyH-rZ.png?w=54&thumb=true",
         "Discount": "80%"
-    },
-    {
-        "Name": "CODE VEIN Deluxe Edition",
-        "Price": "14.39",
-        "Link": "https://store.playstation.com/en-us/product/UP0700-CUSA10410_00-CODEVEINDELUXEED",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/1130781JfdLPq3U9Vtp_KwMSb5NtN0MsyRr3clSe4tXSqLPA7Xhbt7DCueLz7YehURV2rtA238lYbxd9h9x9DNUEYJo9xOp8.png?w=54&thumb=true",
-        "Discount": "82%"
-    },
-    {
-        "Name": "Ghostbusters: The Video Game Remastered",
-        "Price": "11.99",
-        "Link": "https://store.playstation.com/en-us/product/UP2746-CUSA15493_00-GHOSTBUSTERS2019",
-        "Image": "https://image.api.playstation.com/vulcan/img/cfn/11307apN4QQKTCfdQanTi24sIEosX7xpjiAPM_6O8Qj4eFjMQ8GqUeoNKa_pYBrdrot4ReKHX-z-ReWe4IupTAlDSBUtaggQ.png?w=54&thumb=true",
-        "Discount": "60%"
     },
     {
         "Name": "Assetto Corsa Competizione",

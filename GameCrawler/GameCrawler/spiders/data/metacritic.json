@@ -16,6 +16,10 @@
         "Metascore": "97"
     },
     {
+        "Name": "Devil May Cry",
+        "Metascore": "94"
+    },
+    {
         "Name": "God of War",
         "Metascore": "94"
     },
@@ -24,7 +28,11 @@
         "Metascore": "93"
     },
     {
-        "Name": "The Witcher 3: Wild Hunt",
+        "Name": "Minecraft",
+        "Metascore": "93"
+    },
+    {
+        "Name": "Company of Heroes",
         "Metascore": "93"
     },
     {
@@ -32,11 +40,15 @@
         "Metascore": "90"
     },
     {
+        "Name": "Tony Hawk's Pro Skater 1 + 2",
+        "Metascore": "90"
+    },
+    {
         "Name": "Devil May Cry 5",
         "Metascore": "89"
     },
     {
-        "Name": "Dreams",
+        "Name": "Star Wars Jedi Knight II: Jedi Outcast",
         "Metascore": "89"
     },
     {
@@ -44,15 +56,15 @@
         "Metascore": "88"
     },
     {
+        "Name": "Sid Meier's Civilization VI",
+        "Metascore": "88"
+    },
+    {
         "Name": "13 Sentinels: Aegis Rim",
         "Metascore": "88"
     },
     {
-        "Name": "Devil May Cry 3: Special Edition",
-        "Metascore": "87"
-    },
-    {
-        "Name": "Marvel's Spider-Man Remastered",
+        "Name": "Assassin's Creed Odyssey",
         "Metascore": "87"
     },
     {
@@ -68,6 +80,38 @@
         "Metascore": "86"
     },
     {
+        "Name": "Monster Train",
+        "Metascore": "86"
+    },
+    {
+        "Name": "Warhammer 40,000: Dawn of War II",
+        "Metascore": "85"
+    },
+    {
+        "Name": "The Outer Worlds",
+        "Metascore": "85"
+    },
+    {
+        "Name": "Judgment",
+        "Metascore": "85"
+    },
+    {
+        "Name": "Control: Ultimate Edition",
+        "Metascore": "85"
+    },
+    {
+        "Name": "Halo: The Master Chief Collection",
+        "Metascore": "85"
+    },
+    {
+        "Name": "Yakuza Kiwami 2",
+        "Metascore": "85"
+    },
+    {
+        "Name": "Assassin's Creed Origins",
+        "Metascore": "85"
+    },
+    {
         "Name": "Wasteland 3",
         "Metascore": "85"
     },
@@ -76,15 +120,19 @@
         "Metascore": "85"
     },
     {
-        "Name": "Yakuza Kiwami 2",
+        "Name": "Cities: Skylines",
         "Metascore": "85"
     },
     {
-        "Name": "Europa Universalis IV: Wealth of Nations",
-        "Metascore": "84"
+        "Name": "Risk of Rain 2",
+        "Metascore": "85"
     },
     {
         "Name": "LEGO Marvel Super Heroes",
+        "Metascore": "83"
+    },
+    {
+        "Name": "Creaks",
         "Metascore": "83"
     },
     {
@@ -96,14 +144,6 @@
         "Metascore": "83"
     },
     {
-        "Name": "Creaks",
-        "Metascore": "83"
-    },
-    {
-        "Name": "Spyro Reignited Trilogy",
-        "Metascore": "83"
-    },
-    {
         "Name": "No Man's Sky",
         "Metascore": "83"
     },
@@ -112,11 +152,11 @@
         "Metascore": "82"
     },
     {
-        "Name": "Gloomhaven",
+        "Name": "Metro Exodus",
         "Metascore": "82"
     },
     {
-        "Name": "Street Fighter V: Champion Edition",
+        "Name": "Borderlands 3",
         "Metascore": "82"
     },
     {
@@ -124,19 +164,27 @@
         "Metascore": "82"
     },
     {
-        "Name": "Ghostrunner",
-        "Metascore": "81"
+        "Name": "Street Fighter V: Champion Edition",
+        "Metascore": "82"
     },
     {
         "Name": "Hunt: Showdown",
         "Metascore": "81"
     },
     {
-        "Name": "The Elder Scrolls V: Skyrim VR",
+        "Name": "The Walking Dead: Saints & Sinners",
         "Metascore": "81"
     },
     {
         "Name": "Hitman: Contracts",
+        "Metascore": "80"
+    },
+    {
+        "Name": "The Jackbox Party Pack 5",
+        "Metascore": "80"
+    },
+    {
+        "Name": "Endless Space 2",
         "Metascore": "80"
     },
     {
@@ -148,8 +196,20 @@
         "Metascore": "80"
     },
     {
-        "Name": "Mafia: Definitive Edition",
+        "Name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
         "Metascore": "79"
+    },
+    {
+        "Name": "Call of Juarez: Bound in Blood",
+        "Metascore": "78"
+    },
+    {
+        "Name": "Budget Cuts",
+        "Metascore": "78"
+    },
+    {
+        "Name": "Roguebook",
+        "Metascore": "78"
     },
     {
         "Name": "RIDE 4",
@@ -160,7 +220,15 @@
         "Metascore": "78"
     },
     {
-        "Name": "Sanctum 2",
+        "Name": "Farming Simulator 22",
+        "Metascore": "78"
+    },
+    {
+        "Name": "Plants vs. Zombies: Battle for Neighborville",
+        "Metascore": "77"
+    },
+    {
+        "Name": "Darksiders Genesis",
         "Metascore": "77"
     },
     {
@@ -168,7 +236,15 @@
         "Metascore": "76"
     },
     {
-        "Name": "Legend of Keepers: Career of a Dungeon Manager",
+        "Name": "Mortal Shell",
+        "Metascore": "76"
+    },
+    {
+        "Name": "Watch Dogs: Legion",
+        "Metascore": "76"
+    },
+    {
+        "Name": "Saints Row: The Third Remastered",
         "Metascore": "76"
     },
     {
@@ -176,7 +252,11 @@
         "Metascore": "76"
     },
     {
-        "Name": "Earth Defense Force 5",
+        "Name": "Legend of Keepers: Career of a Dungeon Manager",
+        "Metascore": "76"
+    },
+    {
+        "Name": "NBA 2K22",
         "Metascore": "76"
     },
     {
@@ -188,19 +268,31 @@
         "Metascore": "75"
     },
     {
+        "Name": "LEGO DC Super-Villains",
+        "Metascore": "75"
+    },
+    {
+        "Name": "Code Vein",
+        "Metascore": "75"
+    },
+    {
+        "Name": "Attack on Titan 2",
+        "Metascore": "75"
+    },
+    {
+        "Name": "Cities: Skylines II",
+        "Metascore": "75"
+    },
+    {
         "Name": "LEGO Batman 3: Beyond Gotham",
         "Metascore": "74"
     },
     {
-        "Name": "MotoGP 23",
+        "Name": "Need for Speed Heat",
         "Metascore": "74"
     },
     {
-        "Name": "Marvel's Iron Man VR",
-        "Metascore": "73"
-    },
-    {
-        "Name": "Ghostbusters: The Video Game Remastered",
+        "Name": "Pure Farming 2018",
         "Metascore": "73"
     },
     {
@@ -216,7 +308,15 @@
         "Metascore": "73"
     },
     {
+        "Name": "Marvel's Avengers",
+        "Metascore": "73"
+    },
+    {
         "Name": "Sword Art Online: Fatal Bullet",
+        "Metascore": "72"
+    },
+    {
+        "Name": "Batora: Lost Haven",
         "Metascore": "72"
     },
     {
@@ -224,11 +324,11 @@
         "Metascore": "72"
     },
     {
-        "Name": "Destroy All Humans!",
+        "Name": "Dead by Daylight",
         "Metascore": "71"
     },
     {
-        "Name": "Golf With Your Friends",
+        "Name": "Destroy All Humans!",
         "Metascore": "71"
     },
     {
@@ -236,16 +336,24 @@
         "Metascore": "71"
     },
     {
-        "Name": "The Sims 4",
-        "Metascore": "70"
+        "Name": "Maneater",
+        "Metascore": "71"
+    },
+    {
+        "Name": "Golf With Your Friends",
+        "Metascore": "71"
     },
     {
         "Name": "ARK: Survival Evolved",
         "Metascore": "70"
     },
     {
-        "Name": "Project CARS 3",
+        "Name": "The Sims 4",
         "Metascore": "70"
+    },
+    {
+        "Name": "Shift Happens",
+        "Metascore": "69"
     },
     {
         "Name": "Risen 2: Dark Waters",
@@ -256,8 +364,8 @@
         "Metascore": "69"
     },
     {
-        "Name": "Crysis Remastered",
-        "Metascore": "69"
+        "Name": "GORN",
+        "Metascore": "68"
     },
     {
         "Name": "Payday 3",
@@ -274,14 +382,6 @@
     {
         "Name": "WWE 2K Battlegrounds",
         "Metascore": "60"
-    },
-    {
-        "Name": "Skater XL",
-        "Metascore": "59"
-    },
-    {
-        "Name": "Fallout 76",
-        "Metascore": "53"
     },
     {
         "Name": "Syberia 3",

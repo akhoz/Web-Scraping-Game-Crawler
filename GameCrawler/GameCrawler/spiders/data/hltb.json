@@ -1,274 +1,558 @@
 [
     {
-        "Game Name": "God of War",
-        "Completionist Hours": "51"
+        "Game Name": "Starfield",
+        "Completionist Hours": "154 Hours"
     },
     {
-        "Game Name": "Marvel's Spider-Man: Game of the Year Edition",
-        "Completionist Hours": "43"
+        "Game Name": "Red Dead Redemption 2",
+        "Completionist Hours": "182 Hours"
     },
     {
-        "Game Name": "The Legend of Zelda: Breath of the Wild",
-        "Completionist Hours": "190"
+        "Game Name": "The Witcher 3: Wild Hunt",
+        "Completionist Hours": "173 Hours"
     },
     {
-        "Game Name": "Doom Eternal",
-        "Completionist Hours": "27"
-    },
-    {
-        "Game Name": "Control: Ultimate Edition",
-        "Completionist Hours": "39"
-    },
-    {
-        "Game Name": "Cuphead",
-        "Completionist Hours": "25"
-    },
-    {
-        "Game Name": "Super Mario Odyssey",
-        "Completionist Hours": "62"
-    },
-    {
-        "Game Name": "A Plague Tale: Innocence",
-        "Completionist Hours": "16"
-    },
-    {
-        "Game Name": "Devil May Cry 5",
-        "Completionist Hours": "68"
-    },
-    {
-        "Game Name": "Monster Hunter: World",
-        "Completionist Hours": "404"
-    },
-    {
-        "Game Name": "Ghostrunner",
-        "Completionist Hours": "13"
-    },
-    {
-        "Game Name": "No Man's Sky",
-        "Completionist Hours": "140"
-    },
-    {
-        "Game Name": "Mafia: Definitive Edition",
-        "Completionist Hours": "25"
-    },
-    {
-        "Game Name": "Far Cry 5",
-        "Completionist Hours": "46"
-    },
-    {
-        "Game Name": "Spyro Reignited Trilogy",
-        "Completionist Hours": "33"
-    },
-    {
-        "Game Name": "Yakuza Kiwami 2",
-        "Completionist Hours": "76"
+        "Game Name": "Grand Theft Auto V",
+        "Completionist Hours": "82 Hours"
     },
     {
         "Game Name": "The Last of Us Part II",
-        "Completionist Hours": "42"
+        "Completionist Hours": "42½ Hours"
     },
     {
-        "Game Name": "Mortal Kombat 11",
-        "Completionist Hours": "56"
+        "Game Name": "Ghost of Tsushima: Legends",
+        "Completionist Hours": "44 Hours"
     },
     {
-        "Game Name": "Risk of Rain 2",
-        "Completionist Hours": "138"
+        "Game Name": "Marvel's Spider-Man: Game of the Year Edition",
+        "Completionist Hours": "43½ Hours"
     },
     {
-        "Game Name": "The Outer Worlds",
-        "Completionist Hours": "39"
+        "Game Name": "Watch Dogs: Legion",
+        "Completionist Hours": "48½ Hours"
     },
     {
-        "Game Name": "Fallout 76",
-        "Completionist Hours": "314"
-    },
-    {
-        "Game Name": "LEGO Marvel Super Heroes",
-        "Completionist Hours": "40"
-    },
-    {
-        "Game Name": "LEGO Batman 3: Beyond Gotham",
-        "Completionist Hours": "37"
-    },
-    {
-        "Game Name": "Amnesia: Rebirth",
-        "Completionist Hours": "13"
-    },
-    {
-        "Game Name": "Yakuza 6: The Song of Life",
-        "Completionist Hours": "53"
-    },
-    {
-        "Game Name": "Golf With Your Friends",
-        "Completionist Hours": "22"
-    },
-    {
-        "Game Name": "Mortal Shell",
-        "Completionist Hours": "22"
-    },
-    {
-        "Game Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
-        "Completionist Hours": "14"
-    },
-    {
-        "Game Name": "Judgment",
-        "Completionist Hours": "103"
-    },
-    {
-        "Game Name": "Wasteland 3",
-        "Completionist Hours": "72"
+        "Game Name": "Grand Theft Auto",
+        "Completionist Hours": "16 Hours"
     },
     {
         "Game Name": "Tony Hawk's Pro Skater 1 + 2",
-        "Completionist Hours": "31"
+        "Completionist Hours": "31 Hours"
     },
     {
-        "Game Name": "Sanctum 2",
-        "Completionist Hours": "59"
+        "Game Name": "Mortal Kombat 11",
+        "Completionist Hours": "56½ Hours"
     },
     {
-        "Game Name": "Kingdoms of Amalur: Re-Reckoning",
-        "Completionist Hours": "92"
+        "Game Name": "Assassin's Creed Odyssey",
+        "Completionist Hours": "143 Hours"
     },
     {
-        "Game Name": "LEGO Marvel Super Heroes 2",
-        "Completionist Hours": "59"
+        "Game Name": "God of War",
+        "Completionist Hours": "51 Hours"
     },
     {
-        "Game Name": "Star Wars Jedi Knight II: Jedi Outcast",
-        "Completionist Hours": "18"
-    },
-    {
-        "Game Name": "Destroy All Humans!",
-        "Completionist Hours": "14"
-    },
-    {
-        "Game Name": "13 Sentinels: Aegis Rim",
-        "Completionist Hours": "38"
-    },
-    {
-        "Game Name": "Risen 2: Dark Waters",
-        "Completionist Hours": "47"
-    },
-    {
-        "Game Name": "Tropico 5",
-        "Completionist Hours": "103"
-    },
-    {
-        "Game Name": "Hitman: Contracts",
-        "Completionist Hours": "17"
-    },
-    {
-        "Game Name": "Legend of Keepers: Career of a Dungeon Manager",
-        "Completionist Hours": "65"
-    },
-    {
-        "Game Name": "Wreckfest",
-        "Completionist Hours": "31"
-    },
-    {
-        "Game Name": "Syberia 3",
-        "Completionist Hours": "16"
-    },
-    {
-        "Game Name": "Fallout 4: Game of the Year Edition",
-        "Completionist Hours": "213"
-    },
-    {
-        "Game Name": "Journey to the Savage Planet",
-        "Completionist Hours": "16"
-    },
-    {
-        "Game Name": "Call of Juarez: Bound in Blood",
-        "Completionist Hours": "12"
-    },
-    {
-        "Game Name": "Saints Row: The Third Remastered",
-        "Completionist Hours": "37"
-    },
-    {
-        "Game Name": "Tom Clancy's Ghost Recon Breakpoint",
-        "Completionist Hours": "96"
-    },
-    {
-        "Game Name": "WWE 2K Battlegrounds",
-        "Completionist Hours": "14"
-    },
-    {
-        "Game Name": "Stranded Deep",
-        "Completionist Hours": "43"
-    },
-    {
-        "Game Name": "Gloomhaven",
-        "Completionist Hours": "204"
-    },
-    {
-        "Game Name": "Crash Team Racing Nitro-Fueled",
-        "Completionist Hours": "29"
-    },
-    {
-        "Game Name": "Sword Art Online: Fatal Bullet",
-        "Completionist Hours": "131"
-    },
-    {
-        "Game Name": "Creaks",
-        "Completionist Hours": "6"
-    },
-    {
-        "Game Name": "World War Z",
-        "Completionist Hours": "60"
-    },
-    {
-        "Game Name": "Dreams",
-        "Completionist Hours": "65"
-    },
-    {
-        "Game Name": "Ghost of a Tale",
-        "Completionist Hours": "19"
-    },
-    {
-        "Game Name": "Hardspace: Shipbreaker",
-        "Completionist Hours": "38"
+        "Game Name": "Mafia: Definitive Edition",
+        "Completionist Hours": "25½ Hours"
     },
     {
         "Game Name": "Nioh 2",
-        "Completionist Hours": "106"
+        "Completionist Hours": "106 Hours"
     },
     {
-        "Game Name": "Assetto Corsa Competizione",
-        "Completionist Hours": "200"
+        "Game Name": "Marvel's Iron Man VR",
+        "Completionist Hours": "12½ Hours"
     },
     {
-        "Game Name": "Sacred Gold",
-        "Completionist Hours": "92"
+        "Game Name": "WWE 2K Battlegrounds",
+        "Completionist Hours": "14 Hours"
     },
     {
-        "Game Name": "A Normal Lost Phone",
-        "Completionist Hours": "1"
+        "Game Name": "EA Sports UFC 4",
+        "Completionist Hours": "83 Hours"
+    },
+    {
+        "Game Name": "No Man's Sky",
+        "Completionist Hours": "140 Hours"
+    },
+    {
+        "Game Name": "Cuphead",
+        "Completionist Hours": "25½ Hours"
+    },
+    {
+        "Game Name": "Ghostrunner",
+        "Completionist Hours": "13 Hours"
+    },
+    {
+        "Game Name": "Skater XL",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Crash Team Racing Nitro-Fueled",
+        "Completionist Hours": "29½ Hours"
+    },
+    {
+        "Game Name": "Borderlands 3",
+        "Completionist Hours": "76½ Hours"
+    },
+    {
+        "Game Name": "Tom Clancy's Ghost Recon Breakpoint",
+        "Completionist Hours": "96½ Hours"
+    },
+    {
+        "Game Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+        "Completionist Hours": "14 Hours"
+    },
+    {
+        "Game Name": "Fallout 76",
+        "Completionist Hours": "314 Hours"
+    },
+    {
+        "Game Name": "Stranded Deep",
+        "Completionist Hours": "43 Hours"
+    },
+    {
+        "Game Name": "Far Cry 5",
+        "Completionist Hours": "46 Hours"
+    },
+    {
+        "Game Name": "The Outer Worlds",
+        "Completionist Hours": "39 Hours"
+    },
+    {
+        "Game Name": "The Walking Dead: Saints & Sinners",
+        "Completionist Hours": "24 Hours"
+    },
+    {
+        "Game Name": "Spyro Reignited Trilogy",
+        "Completionist Hours": "33 Hours"
+    },
+    {
+        "Game Name": "13 Sentinels: Aegis Rim",
+        "Completionist Hours": "38 Hours"
+    },
+    {
+        "Game Name": "NASCAR Heat 5",
+        "Completionist Hours": "45 Hours"
+    },
+    {
+        "Game Name": "Wreckfest",
+        "Completionist Hours": "31½ Hours"
+    },
+    {
+        "Game Name": "World War Z",
+        "Completionist Hours": "60½ Hours"
+    },
+    {
+        "Game Name": "Mortal Shell",
+        "Completionist Hours": "22 Hours"
+    },
+    {
+        "Game Name": "Control: Ultimate Edition",
+        "Completionist Hours": "39 Hours"
+    },
+    {
+        "Game Name": "Maneater",
+        "Completionist Hours": "12½ Hours"
+    },
+    {
+        "Game Name": "Maneater: Truth Quest",
+        "Completionist Hours": "5 Hours"
+    },
+    {
+        "Game Name": "Dreams",
+        "Completionist Hours": "65½ Hours"
+    },
+    {
+        "Game Name": "Saints Row: The Third Remastered",
+        "Completionist Hours": "37 Hours"
+    },
+    {
+        "Game Name": "Destroy All Humans!",
+        "Completionist Hours": "14½ Hours"
+    },
+    {
+        "Game Name": "Kingdoms of Amalur: Re-Reckoning",
+        "Completionist Hours": "92½ Hours"
     },
     {
         "Game Name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
-        "Completionist Hours": "139"
+        "Completionist Hours": "139 Hours"
     },
     {
-        "Game Name": "Earth Defense Force 5",
-        "Completionist Hours": "104"
+        "Game Name": "Risk of Rain 2",
+        "Completionist Hours": "138 Hours"
     },
     {
-        "Game Name": "Budget Cuts",
-        "Completionist Hours": "7"
+        "Game Name": "The Legend of Heroes: Trails of Cold Steel IV",
+        "Completionist Hours": "134 Hours"
+    },
+    {
+        "Game Name": "GORN",
+        "Completionist Hours": "7½ Hours"
+    },
+    {
+        "Game Name": "Shadow of the Tomb Raider: Definitive Edition",
+        "Completionist Hours": "41½ Hours"
     },
     {
         "Game Name": "Plants vs. Zombies: Battle for Neighborville",
-        "Completionist Hours": "174"
+        "Completionist Hours": "174 Hours"
+    },
+    {
+        "Game Name": "Amnesia: Rebirth",
+        "Completionist Hours": "13 Hours"
+    },
+    {
+        "Game Name": "Fallout 4: Game of the Year Edition",
+        "Completionist Hours": "213 Hours"
+    },
+    {
+        "Game Name": "Attack on Titan 2: Final Battle",
+        "Completionist Hours": "76 Hours"
+    },
+    {
+        "Game Name": "The Elder Scrolls V: Skyrim VR",
+        "Completionist Hours": "128 Hours"
+    },
+    {
+        "Game Name": "Devil May Cry 5",
+        "Completionist Hours": "68½ Hours"
+    },
+    {
+        "Game Name": "Monster Hunter: World - Iceborne",
+        "Completionist Hours": "326 Hours"
+    },
+    {
+        "Game Name": "Wasteland 3",
+        "Completionist Hours": "72½ Hours"
+    },
+    {
+        "Game Name": "LEGO Marvel Super Heroes",
+        "Completionist Hours": "40 Hours"
+    },
+    {
+        "Game Name": "LEGO Marvel Super Heroes 2",
+        "Completionist Hours": "59 Hours"
+    },
+    {
+        "Game Name": "Street Fighter V: Champion Edition",
+        "Completionist Hours": "29 Hours"
+    },
+    {
+        "Game Name": "Battlefield V",
+        "Completionist Hours": "32 Hours"
+    },
+    {
+        "Game Name": "Cities: Skylines II",
+        "Completionist Hours": "38 Hours"
     },
     {
         "Game Name": "Attack on Titan 2",
-        "Completionist Hours": "84"
+        "Completionist Hours": "84½ Hours"
+    },
+    {
+        "Game Name": "LEGO Batman 3: Beyond Gotham",
+        "Completionist Hours": "37 Hours"
+    },
+    {
+        "Game Name": "Judgment",
+        "Completionist Hours": "103 Hours"
+    },
+    {
+        "Game Name": "Devil May Cry",
+        "Completionist Hours": "17½ Hours"
+    },
+    {
+        "Game Name": "Devil May Cry 3: Dante's Awakening - Special Edition",
+        "Completionist Hours": "55 Hours"
+    },
+    {
+        "Game Name": "Yakuza 6: The Song of Life",
+        "Completionist Hours": "53 Hours"
+    },
+    {
+        "Game Name": "Yakuza Kiwami 2",
+        "Completionist Hours": "76 Hours"
+    },
+    {
+        "Game Name": "WRC 9: FIA World Rally Championship",
+        "Completionist Hours": "25½ Hours"
+    },
+    {
+        "Game Name": "Assassin's Creed Origins",
+        "Completionist Hours": "84½ Hours"
+    },
+    {
+        "Game Name": "Arizona Sunshine",
+        "Completionist Hours": "8 Hours"
+    },
+    {
+        "Game Name": "Kingdom Come: Deliverance",
+        "Completionist Hours": "129 Hours"
+    },
+    {
+        "Game Name": "A Plague Tale: Innocence",
+        "Completionist Hours": "16 Hours"
+    },
+    {
+        "Game Name": "Code Vein",
+        "Completionist Hours": "59½ Hours"
+    },
+    {
+        "Game Name": "Ghostbusters: The Video Game - Remastered",
+        "Completionist Hours": "13 Hours"
+    },
+    {
+        "Game Name": "Assetto Corsa Competizione",
+        "Completionist Hours": "200 Hours"
+    },
+    {
+        "Game Name": "Budget Cuts",
+        "Completionist Hours": "7½ Hours"
+    },
+    {
+        "Game Name": "Warhammer 40,000: Dawn of War II",
+        "Completionist Hours": "48 Hours"
+    },
+    {
+        "Game Name": "Risen 2: Dark Waters",
+        "Completionist Hours": "47 Hours"
+    },
+    {
+        "Game Name": "Call of Juarez: Bound in Blood",
+        "Completionist Hours": "12½ Hours"
+    },
+    {
+        "Game Name": "Farming Simulator 22",
+        "Completionist Hours": "348 Hours"
+    },
+    {
+        "Game Name": "Old World - The Sacred and The Profane",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Endzone - A World Apart",
+        "Completionist Hours": "61 Hours"
+    },
+    {
+        "Game Name": "Prison Simulator",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "SBK 22",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Earth Defense Force 5",
+        "Completionist Hours": "104 Hours"
+    },
+    {
+        "Game Name": "Ride 5",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Journey to the Savage Planet",
+        "Completionist Hours": "16½ Hours"
+    },
+    {
+        "Game Name": "Destiny 2",
+        "Completionist Hours": "155 Hours"
+    },
+    {
+        "Game Name": "Pure Farming 2018",
+        "Completionist Hours": "60 Hours"
+    },
+    {
+        "Game Name": "Total War: Rome II - Wrath of Sparta",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Sword Art Online: Alicization Lycoris",
+        "Completionist Hours": "435 Hours"
     },
     {
         "Game Name": "Panzer Corps 2",
         "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Overcooked 2",
+        "Completionist Hours": "22½ Hours"
+    },
+    {
+        "Game Name": "Overcooked 2: Surf ‘n’ Turf",
+        "Completionist Hours": "5½ Hours"
+    },
+    {
+        "Game Name": "Sacred Gold",
+        "Completionist Hours": "92½ Hours"
+    },
+    {
+        "Game Name": "Gloomhaven",
+        "Completionist Hours": "204 Hours"
+    },
+    {
+        "Game Name": "Treasure Hunter Simulator",
+        "Completionist Hours": "14½ Hours"
+    },
+    {
+        "Game Name": "BlazBlue: Central Fiction",
+        "Completionist Hours": "51½ Hours"
+    },
+    {
+        "Game Name": "Tropico 5",
+        "Completionist Hours": "103 Hours"
+    },
+    {
+        "Game Name": "Marvel's Avengers",
+        "Completionist Hours": "92 Hours"
+    },
+    {
+        "Game Name": "Sid Meier's Civilization VI",
+        "Completionist Hours": "328 Hours"
+    },
+    {
+        "Game Name": "Frozen Flame",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "MotoGP 23",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Autobahn Police Simulator 3",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Orcs Must Die! 3 - Cold as Eyes DLC",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Creaks",
+        "Completionist Hours": "6½ Hours"
+    },
+    {
+        "Game Name": "Monster Train",
+        "Completionist Hours": "103 Hours"
+    },
+    {
+        "Game Name": "Roguebook",
+        "Completionist Hours": "149 Hours"
+    },
+    {
+        "Game Name": "The Surge 2",
+        "Completionist Hours": "37 Hours"
+    },
+    {
+        "Game Name": "Hitman: Contracts",
+        "Completionist Hours": "17 Hours"
+    },
+    {
+        "Game Name": "Hardspace: Shipbreaker",
+        "Completionist Hours": "38 Hours"
+    },
+    {
+        "Game Name": "Metro Exodus",
+        "Completionist Hours": "39 Hours"
+    },
+    {
+        "Game Name": "Legend of Keepers: Career of a Dungeon Manager",
+        "Completionist Hours": "65 Hours"
+    },
+    {
+        "Game Name": "Syberia 3",
+        "Completionist Hours": "16 Hours"
+    },
+    {
+        "Game Name": "Overcooked: The Lost Morsel DLC",
+        "Completionist Hours": "2 Hours"
+    },
+    {
+        "Game Name": "Shadowrun: Dragonfall - Director's Cut",
+        "Completionist Hours": "41½ Hours"
+    },
+    {
+        "Game Name": "Dragon Ball FighterZ",
+        "Completionist Hours": "42½ Hours"
+    },
+    {
+        "Game Name": "Shift Happens",
+        "Completionist Hours": "15 Hours"
+    },
+    {
+        "Game Name": "Project Highrise",
+        "Completionist Hours": "46½ Hours"
+    },
+    {
+        "Game Name": "LEGO DC Super-Villains",
+        "Completionist Hours": "43½ Hours"
+    },
+    {
+        "Game Name": "Company of Heroes",
+        "Completionist Hours": "82 Hours"
+    },
+    {
+        "Game Name": "Endless Space 2",
+        "Completionist Hours": "98½ Hours"
+    },
+    {
+        "Game Name": "Batora: Lost Haven",
+        "Completionist Hours": "11 Hours"
+    },
+    {
+        "Game Name": "Star Wars Jedi Knight Collection",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Guilty Gear Strive",
+        "Completionist Hours": "55 Hours"
+    },
+    {
+        "Game Name": "Ghost of a Tale",
+        "Completionist Hours": "19 Hours"
+    },
+    {
+        "Game Name": "A Normal Lost Phone",
+        "Completionist Hours": "1½ Hours"
+    },
+    {
+        "Game Name": "Tourist Bus Simulator",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Sanctum 2",
+        "Completionist Hours": "59 Hours"
+    },
+    {
+        "Game Name": "Sword Art Online: Fatal Bullet",
+        "Completionist Hours": "131 Hours"
+    },
+    {
+        "Game Name": "Cossacks: Back to War",
+        "Completionist Hours": "--"
+    },
+    {
+        "Game Name": "Sniper Elite 4",
+        "Completionist Hours": "41 Hours"
+    },
+    {
+        "Game Name": "Star Wars Jedi Knight II: Jedi Outcast",
+        "Completionist Hours": "18 Hours"
+    },
+    {
+        "Game Name": "Golf With Your Friends",
+        "Completionist Hours": "22½ Hours"
+    },
+    {
+        "Game Name": "Sifu",
+        "Completionist Hours": "20½ Hours"
+    },
+    {
+        "Game Name": "The Legend of Zelda: Breath of the Wild",
+        "Completionist Hours": "190 Hours"
+    },
+    {
+        "Game Name": "Monster Hunter: World",
+        "Completionist Hours": "404 Hours"
     }
 ]
