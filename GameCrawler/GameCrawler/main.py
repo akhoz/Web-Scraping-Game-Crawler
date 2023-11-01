@@ -57,6 +57,12 @@ def merge_data():
         if game['Game Name'] in data_dict:
             data_dict[game['Game Name']]['Completionist hours'] = game['Completionist Hours']
 
+    for game in data_dict.values():
+        if "Metascore" not in game:
+            game["Metascore"] = "--"
+        if "Completionist hours" not in game:
+            game["Completionist hours"] = "--"
+            
     data_list = list(data_dict.values())
 
     with open('data.json', 'w') as file:
