@@ -16,8 +16,7 @@ class MetacriticSpider(scrapy.Spider):
         games = response.xpath('//div[contains(@class, "c-finderProductCard c-finderProductCard-game")]')
         for game in games:
             game_name = game.xpath('.//div[@data-title]/@data-title').extract_first()
-            metascore = game.xpath('.//div[contains(@class, "c-siteReviewScore_background")]/div/span/text()').extract_first()
-
+            metascore = response.css('span[data-v-4cdca868]::text').extract_first()
             if game_name:
                 if game_name not in self.scraped_game_names:
                     if game_name in allowed_games:
