@@ -61,7 +61,7 @@ def merge_data():
         if "Metascore" not in game:
             game["Metascore"] = "--"
         if "Completionist hours" not in game:
-            game["Completionist hours"] = "--"
+            game["Completionist hours"] = "N/A"
             
     data_list = list(data_dict.values())
 
