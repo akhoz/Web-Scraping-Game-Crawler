@@ -1,0 +1,447 @@
+[
+    {
+        "name": "Cities: Skylines II",
+        "price": "33.72\u20ac",
+        "discount": "-33%"
+    },
+    {
+        "name": "Farming Simulator 22 - Premium Edition",
+        "price": "27.99\u20ac",
+        "discount": "-49%"
+    },
+    {
+        "name": "Payday 3",
+        "price": "29.99\u20ac",
+        "discount": "-25%"
+    },
+    {
+        "name": "Starfield",
+        "price": "51.99\u20ac",
+        "discount": "-26%"
+    },
+    {
+        "name": "Starfield Digital Premium Edition",
+        "price": "73.99\u20ac",
+        "discount": "-26%"
+    },
+    {
+        "name": "MotoGP 23",
+        "price": "36.64\u20ac",
+        "discount": "-27%"
+    },
+    {
+        "name": "Ride 5",
+        "price": "45.16\u20ac",
+        "discount": "-25%"
+    },
+    {
+        "name": "Terraria",
+        "price": "6.87\u20ac",
+        "discount": "-30%"
+    },
+    {
+        "name": "Golf With Your Friends",
+        "price": "3.28\u20ac",
+        "discount": "-78%"
+    },
+    {
+        "name": "Payday 2",
+        "price": "1.31\u20ac",
+        "discount": "-87%"
+    },
+    {
+        "name": "No Man's Sky",
+        "price": "19.32\u20ac",
+        "discount": "-67%"
+    },
+    {
+        "name": "Mortal Kombat 11",
+        "price": "2.99\u20ac",
+        "discount": "-94%"
+    },
+    {
+        "name": "Monster Hunter Rise",
+        "price": "9.82\u20ac",
+        "discount": "-75%"
+    },
+    {
+        "name": "Cities: Skylines",
+        "price": "6.46\u20ac",
+        "discount": "-77%"
+    },
+    {
+        "name": "Resident Evil Village",
+        "price": "11.80\u20ac",
+        "discount": "-70%"
+    },
+    {
+        "name": "Sackboy: A Big Adventure",
+        "price": "19.62\u20ac",
+        "discount": "-67%"
+    },
+    {
+        "name": "Battlefield 2042",
+        "price": "23.07\u20ac",
+        "discount": "-62%"
+    },
+    {
+        "name": "Marvel's Avengers - The Definitive Edition",
+        "price": "8.99\u20ac",
+        "discount": "-78%"
+    },
+    {
+        "name": "Creaks",
+        "price": "2.08\u20ac",
+        "discount": "-90%"
+    },
+    {
+        "name": "NBA 2K22",
+        "price": "13.67\u20ac",
+        "discount": "-77%"
+    },
+    {
+        "name": "Life is Strange: True Colors - Ultimate Edition",
+        "price": "31.82\u20ac",
+        "discount": "-60%"
+    },
+    {
+        "name": "Hitman: Contracts",
+        "price": "1.01\u20ac",
+        "discount": "-89%"
+    },
+    {
+        "name": "LEGO Marvel Super Heroes 2",
+        "price": "2.89\u20ac",
+        "discount": "-90%"
+    },
+    {
+        "name": "Call of Juarez: Bound in Blood",
+        "price": "1.20\u20ac",
+        "discount": "-88%"
+    },
+    {
+        "name": "LEGO DC Super-Villains Season Pass",
+        "price": "1.97\u20ac",
+        "discount": "-87%"
+    },
+    {
+        "name": "Sword Art Online: Alicization Lycoris Deluxe Edition",
+        "price": "14.79\u20ac",
+        "discount": "-84%"
+    },
+    {
+        "name": "Cities: Skylines - Sunset Harbor",
+        "price": "12.78\u20ac",
+        "discount": "-15%"
+    },
+    {
+        "name": "Syberia 3",
+        "price": "1.82\u20ac",
+        "discount": "-88%"
+    },
+    {
+        "name": "Sacred Gold",
+        "price": "1.40\u20ac",
+        "discount": "-86%"
+    },
+    {
+        "name": "Solasta: Crown of the Magister - Lost Valley",
+        "price": "5.64\u20ac",
+        "discount": "-57%"
+    },
+    {
+        "name": "Journey to the Savage Planet",
+        "price": "5.26\u20ac",
+        "discount": "-82%"
+    },
+    {
+        "name": "Pure Farming 2018 - Digital Deluxe Edition",
+        "price": "1.17\u20ac",
+        "discount": "-96%"
+    },
+    {
+        "name": "ZUSI 3 - Aerosoft Edition",
+        "price": "16.98\u20ac",
+        "discount": "-72%"
+    },
+    {
+        "name": "Tropico 5",
+        "price": "1.22\u20ac",
+        "discount": "-94%"
+    },
+    {
+        "name": "Devil May Cry 3: Special Edition",
+        "price": "3.45\u20ac",
+        "discount": "-83%"
+    },
+    {
+        "name": "Old World - The Sacred and The Profane",
+        "price": "2.80\u20ac",
+        "discount": "-44%"
+    },
+    {
+        "name": "The Jackbox Party Pack 8",
+        "price": "10.62\u20ac",
+        "discount": "-65%"
+    },
+    {
+        "name": "Guilty Gear -Strive- Deluxe Edition",
+        "price": "47.97\u20ac",
+        "discount": "-20%"
+    },
+    {
+        "name": "Risen 2: Dark Waters",
+        "price": "1.30\u20ac",
+        "discount": "-87%"
+    },
+    {
+        "name": "The Jackbox Party Quintpack",
+        "price": "28.30\u20ac",
+        "discount": "-78%"
+    },
+    {
+        "name": "Prison Simulator",
+        "price": "8.20\u20ac",
+        "discount": "-51%"
+    },
+    {
+        "name": "SBK 22",
+        "price": "7.99\u20ac",
+        "discount": "-80%"
+    },
+    {
+        "name": "Autobahn Police Simulator 3",
+        "price": "15.88\u20ac",
+        "discount": "-47%"
+    },
+    {
+        "name": "Elite Dangerous: Odyssey Deluxe Edition",
+        "price": "8.34\u20ac",
+        "discount": "-79%"
+    },
+    {
+        "name": "Destiny 2: Legendary Edition",
+        "price": "22.15\u20ac",
+        "discount": "-72%"
+    },
+    {
+        "name": "Overcooked - The Lost Morsel",
+        "price": "1.00\u20ac",
+        "discount": "-80%"
+    },
+    {
+        "name": "Ghost of a Tale",
+        "price": "2.61\u20ac",
+        "discount": "-87%"
+    },
+    {
+        "name": "Dragon Ball FighterZ: FighterZ Pass",
+        "price": "12.15\u20ac",
+        "discount": "-65%"
+    },
+    {
+        "name": "Warhammer 40.000: Dawn of War II Master Collection",
+        "price": "4.66\u20ac",
+        "discount": "-92%"
+    },
+    {
+        "name": "One Piece: Burning Blood Gold Pack",
+        "price": "6.86\u20ac",
+        "discount": "-73%"
+    },
+    {
+        "name": "Sid Meier\u2019s Civilization VI: Leader Pass",
+        "price": "10.10\u20ac",
+        "discount": "-49%"
+    },
+    {
+        "name": "Endzone - A World Apart Complete Edition",
+        "price": "8.97\u20ac",
+        "discount": "-80%"
+    },
+    {
+        "name": "Endless Space 2 Definitive Edition",
+        "price": "25.20\u20ac",
+        "discount": "-73%"
+    },
+    {
+        "name": "Total War: Rome II - Wrath of Sparta",
+        "price": "5.16\u20ac",
+        "discount": "-70%"
+    },
+    {
+        "name": "Treasure Hunter Simulator",
+        "price": "1.00\u20ac",
+        "discount": "-93%"
+    },
+    {
+        "name": "The Jackbox Party Pack 3",
+        "price": "7.74\u20ac",
+        "discount": "-69%"
+    },
+    {
+        "name": "Sniper Elite 4 Season Pass",
+        "price": "4.00\u20ac",
+        "discount": "-88%"
+    },
+    {
+        "name": "Star Wars Jedi Knight II: Jedi Outcast",
+        "price": "1.27\u20ac",
+        "discount": "-87%"
+    },
+    {
+        "name": "Absolver",
+        "price": "5.64\u20ac",
+        "discount": "-81%"
+    },
+    {
+        "name": "Cities: Skylines - Content Creator Pack: Seaside Resorts",
+        "price": "3.99\u20ac",
+        "discount": "-33%"
+    },
+    {
+        "name": "Earth Defense Force 5",
+        "price": "21.47\u20ac",
+        "discount": "-57%"
+    },
+    {
+        "name": "Patrician III",
+        "price": "1.00\u20ac",
+        "discount": "-80%"
+    },
+    {
+        "name": "The Surge 2 Premium Edition",
+        "price": "8.27\u20ac",
+        "discount": "-79%"
+    },
+    {
+        "name": "Sniper Ghost Warrior 3",
+        "price": "2.77\u20ac",
+        "discount": "-86%"
+    },
+    {
+        "name": "Hardspace: Shipbreaker",
+        "price": "17.75\u20ac",
+        "discount": "-49%"
+    },
+    {
+        "name": "Metro: Exodus Expansion Pass",
+        "price": "2.88\u20ac",
+        "discount": "-81%"
+    },
+    {
+        "name": "Panzer Corps 2",
+        "price": "6.01\u20ac",
+        "discount": "-85%"
+    },
+    {
+        "name": "Europa Universalis IV: Wealth of Nations",
+        "price": "3.45\u20ac",
+        "discount": "-65%"
+    },
+    {
+        "name": "Alone In The Dark: The New Nightmare",
+        "price": "1.00\u20ac",
+        "discount": "-86%"
+    },
+    {
+        "name": "Tannenberg",
+        "price": "2.50\u20ac",
+        "discount": "-87%"
+    },
+    {
+        "name": "Shift Happens",
+        "price": "1.53\u20ac",
+        "discount": "-90%"
+    },
+    {
+        "name": "Batora: Lost Haven",
+        "price": "1.01\u20ac",
+        "discount": "-96%"
+    },
+    {
+        "name": "Star Wars Jedi Knight Collection",
+        "price": "3.76\u20ac",
+        "discount": "-85%"
+    },
+    {
+        "name": "Dead by Daylight: The 80's Suitcase",
+        "price": "1.00\u20ac",
+        "discount": "-67%"
+    },
+    {
+        "name": "A Normal Lost Phone",
+        "price": "1.00\u20ac",
+        "discount": "-67%"
+    },
+    {
+        "name": "Overcooked! 2 - Too Many Cooks Pack",
+        "price": "1.00\u20ac",
+        "discount": "-58%"
+    },
+    {
+        "name": "Gloria Victis: Medieval MMORPG",
+        "price": "2.85\u20ac",
+        "discount": "-86%"
+    },
+    {
+        "name": "Gloomhaven",
+        "price": "16.71\u20ac",
+        "discount": "-52%"
+    },
+    {
+        "name": "Company of Heroes Complete Pack",
+        "price": "6.83\u20ac",
+        "discount": "-73%"
+    },
+    {
+        "name": "Driving School Simulator",
+        "price": "2.66\u20ac",
+        "discount": "-73%"
+    },
+    {
+        "name": "Monster Train - The Last Divinity",
+        "price": "1.00\u20ac",
+        "discount": "-92%"
+    },
+    {
+        "name": "Roguebook Deluxe Edition",
+        "price": "5.20\u20ac",
+        "discount": "-85%"
+    },
+    {
+        "name": "Post Scriptum (uncut)",
+        "price": "5.73\u20ac",
+        "discount": "-80%"
+    },
+    {
+        "name": "Cossacks: Back to War",
+        "price": "1.00\u20ac",
+        "discount": "-80%"
+    },
+    {
+        "name": "Project Highrise",
+        "price": "1.20\u20ac",
+        "discount": "-94%"
+    },
+    {
+        "name": "Fights in Tight Spaces",
+        "price": "10.40\u20ac",
+        "discount": "-50%"
+    },
+    {
+        "name": "Legend of Keepers: Career of a Dungeon Manager",
+        "price": "1.00\u20ac",
+        "discount": "-94%"
+    },
+    {
+        "name": "Frozen Flame",
+        "price": "10.34\u20ac",
+        "discount": "-66%"
+    },
+    {
+        "name": "Shadowrun: Dragonfall (Director's Cut)",
+        "price": "2.18\u20ac",
+        "discount": "-85%"
+    }
+]

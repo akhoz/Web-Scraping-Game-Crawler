@@ -13,4 +13,3 @@ def games():
 @app.route('/')
 def index():
     return 'Hello World'
-
