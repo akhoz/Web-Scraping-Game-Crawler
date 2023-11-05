@@ -1,35 +1,24 @@
 <template>
-    <div class="common-layout">
-        <el-space direction="horizontal">
-            <el-card shadow="hover" style="width: 700px">
-                <img class="game-image" :src="game.image" alt="game image">
-                <template #header>
-                    <h1>{{ game.name }}</h1>
-                </template>
-                <div class="items">
-                    <el-tag >
-                        {{ game.price }}
-                    </el-tag>
-                    <el-tag type="success">
-                        {{ game.discount }}
-                    </el-tag>
-                    <el-tag type="warning">
-                        Metacritic Score: {{ game.metascore }}
-                    </el-tag>
-                    <el-tag type="danger">
-                        {{ game.tta }}
-                    </el-tag>
-
-                </div>
-            </el-card>
-
-        </el-space>
+    <div class="container">
+        <div class="product-image">
+            <img :src="game.image" class="game-image" height="300"/>
+        </div>
+        <div class="product-info">
+            <!-- Redirect game name to game link -->
+            <a :href="game.link"><h1>{{ game.name }}</h1></a>
+            <p>Price: ${{ game.price }}</p>
+            <p>Discount: {{ game.discount }}</p>
+            <p>Metascore: {{ game.metascore }}</p>
+            <p>Time to achieve: {{game.tta}}</p>
+        </div>
     </div>
 </template>
 
 <script lang="ts">
 import axios from 'axios';
 import { defineComponent } from 'vue';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.js';
 import Game from '@/game';
 
 export default defineComponent({
@@ -42,7 +31,7 @@ export default defineComponent({
   },
   data() {
     return {
-    game: {}
+    game: {} as Game
     };
   },
   beforeMount() {
@@ -52,15 +41,24 @@ export default defineComponent({
     async getGameDetails() {
       const response = await axios.get(`http://127.0.0.1:5000/games/${this.id}`);
       this.game = response.data;
+      console.log(this.game);
+    },
+    redirectToGame() {
+        window.open(this.game.link, '_blank');
     }
   }
 });
 </script>
 <style scoped>
-.game-image {
-    width: 600px;
-    height: 600px;
-}
 
+.product-image {
+    float: left;
+}
+.product-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 </style>
 
