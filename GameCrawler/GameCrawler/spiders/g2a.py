@@ -28,14 +28,14 @@ class G2aSpider(scrapy.Spider):
                     game_name = game_name.split(' (')[0].strip()
                     game_discount = game_discount.replace('-', '')
                     item = {
-                        "Name": game_name,
-                        "Price": game_price,
-                        "Link": response.urljoin(product_link),
-                        "Image": game_image
+                        "name": game_name,
+                        "price": game_price,
+                        "link": response.urljoin(product_link),
+                        "image": game_image
                     }
 
                     if game_discount:
-                        item["Discount"] = game_discount
+                        item["discount"] = game_discount
                     if game_name in allowed_games:
                         self.data.append(item)
                         self.scraped_game_names.add(game_name)

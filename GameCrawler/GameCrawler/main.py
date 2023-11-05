@@ -10,7 +10,8 @@ from spiders.metacritic import MetacriticSpider
 from spiders.howlongtobeat import HowlongtobeatSpider
 from spiders.playStation import PlayStationSpider
 
-spiders = [MetacriticSpider, G2aSpider, PlayStationSpider, InstantGamingSpider, HowlongtobeatSpider]
+# spiders = [MetacriticSpider, G2aSpider, PlayStationSpider, InstantGamingSpider, HowlongtobeatSpider]
+spiders = [HowlongtobeatSpider]
 
 def run_spider(spider):
     process = CrawlerProcess(get_project_settings())
@@ -40,46 +41,57 @@ def merge_data():
     data_dict = {}
 
     for game in merged_data:
-        game_name = game['Name']
-        game_price = float(game['Price'])
+        game_name = game['name']
+        game_price = float(game['price'])
 
         if game_name in data_dict:
-            if game_price < float(data_dict[game_name]['Price']):
+            if game_price < float(data_dict[game_name]['price']):
                 data_dict[game_name] = game
         else:
             data_dict[game_name] = game
 
     for game in mc:
-        if game['Name'] in data_dict:
-            data_dict[game['Name']]['Metascore'] = game['Metascore']
+        if game['name'] in data_dict:
+            data_dict[game['name']]['metascore'] = game['metascore']
 
     for game in hltb:
-        if game['Game Name'] in data_dict:
-            data_dict[game['Game Name']]['Completionist hours'] = game['Completionist Hours']
+        if game['name'] in data_dict:
+            data_dict[game['name']]['tta'] = game['tta']
 
     for game in data_dict.values():
-        if "Metascore" not in game:
-            game["Metascore"] = "--"
-        if "Completionist hours" not in game:
-            game["Completionist hours"] = "N/A"
+        if "metascore" not in game:
+            game["metascore"] = "--"
+        if "tta" not in game:
+            game["tta"] = "--"
             
     data_list = list(data_dict.values())
 
     with open('data.json', 'w') as file:
         json.dump(data_list, file, indent=4)
 
+def asing_id():
+    with open('data.json', 'r') as file:
+        data = json.load(file)
+
+    for index, game in enumerate(data, start=1):
+        game['id'] = index
+
+    with open('data.json', 'w') as file:
+        json.dump(data, file, indent=4)
+
 def main():
-    jobs = []
+    # jobs = []
 
-    for spider in spiders:
-        p = multiprocessing.Process(target=run_spider, args=(spider,))
-        jobs.append(p)
-        p.start()
+    # for spider in spiders:
+    #     p = multiprocessing.Process(target=run_spider, args=(spider,))
+    #     jobs.append(p)
+    #     p.start()
 
-    for job in jobs:
-        job.join()
+    # for job in jobs:
+    #     job.join()
 
     merge_data()
+    asing_id()
 
 if __name__ == '__main__':
     main()

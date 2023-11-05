@@ -3,7 +3,6 @@
         <el-container>
             <el-input placeholder="Search" prefix-icon="el-icon-search" size="large" style="width: 100%" v-model="searchInput"></el-input>
         </el-container>
-        <el-scrollbar height="700px">
         <el-container direction="vertical">
             <el-row justify="space-evenly" v-for="(games, idx) in filteredGames" :key="idx"> 
                 <el-col :span="6" v-for="(game, idx) in games" :key="idx">
@@ -11,7 +10,6 @@
                 </el-col>
             </el-row>
         </el-container>
-        </el-scrollbar>
         <!--GameCard :game="{picture: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.VXDSpudGCV9oSOQ4Jd-8jQHaLH%26pid%3DApi&f=1&ipt=89058b7c13ec02fa4311fc9040646c8f090a77cef3459f85bb4bbd36b1582a0a&ipo=images', name: 'Dragon Ball Z', price: '$27', discount : '-13%', howLongToBeat: '15h', metacritic: 50}"></GameCard-->
     </div>
 </template>
@@ -20,12 +18,9 @@
 import { defineComponent } from 'vue';
 import GameCard from '@/components/GameCard.vue'; // @ is an alias to /src
 import axios from 'axios';
+import Game from '@/game';
 
-interface Game {
-    name : string,
-    price : string,
-    discount : string,
-}
+
 export default defineComponent({
   name: 'HomeView',
   components: {

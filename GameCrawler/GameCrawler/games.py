@@ -1,5 +1,6 @@
 allowed_games = [
 "The Last of Us Part II",
+"Marvel’s Spider-Man 2",
 "Ghost of Tsushima: Legends",
 "Marvel's Spider-Man: Game of the Year Edition",
 "Watch Dogs: Legion",

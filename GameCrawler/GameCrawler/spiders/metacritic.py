@@ -23,8 +23,8 @@ class MetacriticSpider(scrapy.Spider):
                         if not metascore:
                             metascore = "--"
                         item = {
-                            "Name": game_name,
-                            "Metascore": metascore
+                            "name": game_name,
+                            "metascore": metascore
                         }
                         self.data.append(item)
                         self.scraped_game_names.add(game_name)

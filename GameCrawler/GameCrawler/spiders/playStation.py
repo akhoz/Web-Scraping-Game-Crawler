@@ -39,15 +39,15 @@ class PlayStationSpider(scrapy.Spider):
                 game_link = urljoin(base_url, game_link)
                 game_image = urljoin(base_url, game_image)
                 item = {
-                    "Name": game_name,
-                    "Price": game_price,
-                    "Link": game_link,
-                    "Image": game_image
+                    "name": game_name,
+                    "price": game_price,
+                    "link": game_link,
+                    "image": game_image
                 }
 
                 if game_discount:
                     game_discount = game_discount.replace("-", "")
-                    item["Discount"] = game_discount
+                    item["discount"] = game_discount
 
                 self.data.append(item)
                 print(f"PlayStation: {game_name} -----------------------")

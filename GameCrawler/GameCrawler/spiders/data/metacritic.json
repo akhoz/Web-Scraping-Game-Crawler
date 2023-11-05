@@ -1,382 +1,370 @@
 [
     {
-        "Name": "Grand Theft Auto V",
-        "Metascore": "99"
+        "name": "Grand Theft Auto V",
+        "metascore": "99"
     },
     {
-        "Name": "The Legend of Zelda: Breath of the Wild",
-        "Metascore": "99"
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "metascore": "99"
     },
     {
-        "Name": "Super Mario Odyssey",
-        "Metascore": "99"
+        "name": "Super Mario Odyssey",
+        "metascore": "99"
     },
     {
-        "Name": "Red Dead Redemption 2",
-        "Metascore": "99"
+        "name": "Red Dead Redemption 2",
+        "metascore": "99"
     },
     {
-        "Name": "Devil May Cry",
-        "Metascore": "95"
+        "name": "Devil May Cry",
+        "metascore": "94"
     },
     {
-        "Name": "The Last of Us Part II",
-        "Metascore": "93"
+        "name": "God of War",
+        "metascore": "94"
     },
     {
-        "Name": "The Witcher 3: Wild Hunt",
-        "Metascore": "93"
+        "name": "Minecraft",
+        "metascore": "93"
     },
     {
-        "Name": "Tony Hawk's Pro Skater 1 + 2",
-        "Metascore": "91"
+        "name": "Company of Heroes",
+        "metascore": "93"
     },
     {
-        "Name": "Monster Hunter: World",
-        "Metascore": "91"
+        "name": "Monster Hunter: World",
+        "metascore": "90"
     },
     {
-        "Name": "Dreams",
-        "Metascore": "90"
+        "name": "Monster Hunter: World - Iceborne",
+        "metascore": "90"
     },
     {
-        "Name": "Star Wars Jedi Knight II: Jedi Outcast",
-        "Metascore": "89"
+        "name": "Animal Crossing: New Horizons",
+        "metascore": "90"
     },
     {
-        "Name": "Devil May Cry 5",
-        "Metascore": "89"
+        "name": "Tony Hawk's Pro Skater 1 + 2",
+        "metascore": "90"
     },
     {
-        "Name": "13 Sentinels: Aegis Rim",
-        "Metascore": "88"
+        "name": "Dreams",
+        "metascore": "90"
     },
     {
-        "Name": "Sid Meier's Civilization VI",
-        "Metascore": "88"
+        "name": "Devil May Cry 5",
+        "metascore": "89"
     },
     {
-        "Name": "Cuphead",
-        "Metascore": "88"
+        "name": "Sid Meier's Civilization VI",
+        "metascore": "88"
     },
     {
-        "Name": "Europa Universalis IV",
-        "Metascore": "87"
+        "name": "Cuphead",
+        "metascore": "88"
     },
     {
-        "Name": "Dragon Ball FighterZ",
-        "Metascore": "87"
+        "name": "Destiny 2",
+        "metascore": "88"
     },
     {
-        "Name": "Yakuza 6: The Song of Life",
-        "Metascore": "87"
+        "name": "Europa Universalis IV",
+        "metascore": "87"
     },
     {
-        "Name": "Assassin's Creed Odyssey",
-        "Metascore": "87"
+        "name": "Yakuza 6: The Song of Life",
+        "metascore": "87"
     },
     {
-        "Name": "Destiny 2",
-        "Metascore": "87"
+        "name": "Panzer Corps 2",
+        "metascore": "86"
     },
     {
-        "Name": "Mortal Kombat 11",
-        "Metascore": "86"
+        "name": "Starfield",
+        "metascore": "86"
     },
     {
-        "Name": "Cities: Skylines",
-        "Metascore": "85"
+        "name": "BlazBlue: Central Fiction",
+        "metascore": "86"
     },
     {
-        "Name": "Nioh 2",
-        "Metascore": "85"
+        "name": "Monster Train",
+        "metascore": "86"
     },
     {
-        "Name": "Assassin's Creed Origins",
-        "Metascore": "85"
+        "name": "Mortal Kombat 11",
+        "metascore": "86"
     },
     {
-        "Name": "Judgment",
-        "Metascore": "85"
+        "name": "Control: Ultimate Edition",
+        "metascore": "86"
     },
     {
-        "Name": "Halo: The Master Chief Collection",
-        "Metascore": "85"
+        "name": "Warhammer 40,000: Dawn of War II",
+        "metascore": "85"
     },
     {
-        "Name": "Wasteland 3",
-        "Metascore": "85"
+        "name": "Halo: The Master Chief Collection",
+        "metascore": "85"
     },
     {
-        "Name": "Risk of Rain 2",
-        "Metascore": "85"
+        "name": "Risk of Rain 2",
+        "metascore": "85"
     },
     {
-        "Name": "The Outer Worlds",
-        "Metascore": "85"
+        "name": "Assassin's Creed Origins",
+        "metascore": "85"
     },
     {
-        "Name": "Yakuza Kiwami 2",
-        "Metascore": "85"
+        "name": "The Outer Worlds",
+        "metascore": "85"
     },
     {
-        "Name": "Control: Ultimate Edition",
-        "Metascore": "85"
+        "name": "Judgment",
+        "metascore": "85"
     },
     {
-        "Name": "Life is Strange: True Colors",
-        "Metascore": "84"
+        "name": "Life is Strange: True Colors",
+        "metascore": "84"
     },
     {
-        "Name": "Wreckfest",
-        "Metascore": "83"
+        "name": "LEGO Marvel Super Heroes",
+        "metascore": "83"
     },
     {
-        "Name": "A Plague Tale: Innocence",
-        "Metascore": "83"
+        "name": "Wreckfest",
+        "metascore": "83"
     },
     {
-        "Name": "Creaks",
-        "Metascore": "83"
+        "name": "A Plague Tale: Innocence",
+        "metascore": "83"
     },
     {
-        "Name": "Spyro Reignited Trilogy",
-        "Metascore": "83"
+        "name": "Creaks",
+        "metascore": "83"
     },
     {
-        "Name": "Hardspace: Shipbreaker",
-        "Metascore": "82"
+        "name": "Spyro Reignited Trilogy",
+        "metascore": "83"
     },
     {
-        "Name": "Street Fighter V: Champion Edition",
-        "Metascore": "82"
+        "name": "No Man's Sky",
+        "metascore": "83"
     },
     {
-        "Name": "Metro Exodus",
-        "Metascore": "82"
+        "name": "Borderlands 3",
+        "metascore": "82"
     },
     {
-        "Name": "Borderlands 3",
-        "Metascore": "82"
+        "name": "Metro Exodus",
+        "metascore": "82"
     },
     {
-        "Name": "Far Cry 5",
-        "Metascore": "82"
+        "name": "Far Cry 5",
+        "metascore": "82"
     },
     {
-        "Name": "Hunt: Showdown",
-        "Metascore": "81"
+        "name": "Gloomhaven",
+        "metascore": "82"
     },
     {
-        "Name": "Ghostrunner",
-        "Metascore": "81"
+        "name": "Hardspace: Shipbreaker",
+        "metascore": "82"
     },
     {
-        "Name": "The Walking Dead: Saints & Sinners",
-        "Metascore": "81"
+        "name": "Ghostrunner",
+        "metascore": "81"
     },
     {
-        "Name": "Battlefield V",
-        "Metascore": "81"
+        "name": "The Walking Dead: Saints & Sinners",
+        "metascore": "81"
     },
     {
-        "Name": "Hitman: Contracts",
-        "Metascore": "80"
+        "name": "Battlefield V",
+        "metascore": "81"
     },
     {
-        "Name": "Assetto Corsa Competizione",
-        "Metascore": "80"
+        "name": "The Elder Scrolls V: Skyrim VR",
+        "metascore": "81"
     },
     {
-        "Name": "Mafia: Definitive Edition",
-        "Metascore": "79"
+        "name": "The Jackbox Party Pack 5",
+        "metascore": "80"
     },
     {
-        "Name": "RIDE 4",
-        "Metascore": "79"
+        "name": "Amnesia: Rebirth",
+        "metascore": "80"
     },
     {
-        "Name": "The Surge 2",
-        "Metascore": "78"
+        "name": "Assetto Corsa Competizione",
+        "metascore": "80"
     },
     {
-        "Name": "Call of Juarez: Bound in Blood",
-        "Metascore": "78"
+        "name": "Mafia: Definitive Edition",
+        "metascore": "79"
     },
     {
-        "Name": "Farming Simulator 22",
-        "Metascore": "78"
+        "name": "The Surge 2",
+        "metascore": "78"
     },
     {
-        "Name": "Plants vs. Zombies: Battle for Neighborville",
-        "Metascore": "77"
+        "name": "Budget Cuts",
+        "metascore": "78"
     },
     {
-        "Name": "Darksiders Genesis",
-        "Metascore": "77"
+        "name": "Roguebook",
+        "metascore": "78"
     },
     {
-        "Name": "Sanctum 2",
-        "Metascore": "77"
+        "name": "RIDE 4",
+        "metascore": "78"
     },
     {
-        "Name": "Tropico 5",
-        "Metascore": "76"
+        "name": "Fights in Tight Spaces",
+        "metascore": "78"
     },
     {
-        "Name": "Earth Defense Force 5",
-        "Metascore": "76"
+        "name": "Call of Juarez: Bound in Blood",
+        "metascore": "78"
     },
     {
-        "Name": "Legend of Keepers: Career of a Dungeon Manager",
-        "Metascore": "76"
+        "name": "Darksiders Genesis",
+        "metascore": "77"
     },
     {
-        "Name": "Watch Dogs: Legion",
-        "Metascore": "76"
+        "name": "Plants vs. Zombies: Battle for Neighborville",
+        "metascore": "77"
     },
     {
-        "Name": "Journey to the Savage Planet",
-        "Metascore": "76"
+        "name": "Earth Defense Force 5",
+        "metascore": "76"
     },
     {
-        "Name": "NBA 2K22",
-        "Metascore": "76"
+        "name": "LEGO Marvel Super Heroes 2",
+        "metascore": "76"
     },
     {
-        "Name": "Kingdom Come: Deliverance",
-        "Metascore": "76"
+        "name": "Journey to the Savage Planet",
+        "metascore": "76"
     },
     {
-        "Name": "Code Vein",
-        "Metascore": "75"
+        "name": "Legend of Keepers: Career of a Dungeon Manager",
+        "metascore": "76"
     },
     {
-        "Name": "Absolver",
-        "Metascore": "75"
+        "name": "Kingdom Come: Deliverance",
+        "metascore": "76"
     },
     {
-        "Name": "LEGO DC Super-Villains",
-        "Metascore": "75"
+        "name": "The Jackbox Party Pack 8",
+        "metascore": "75"
     },
     {
-        "Name": "Cities: Skylines II",
-        "Metascore": "75"
+        "name": "Attack on Titan 2",
+        "metascore": "75"
     },
     {
-        "Name": "Need for Speed Heat",
-        "Metascore": "74"
+        "name": "Cities: Skylines II",
+        "metascore": "75"
     },
     {
-        "Name": "LEGO Batman 3: Beyond Gotham",
-        "Metascore": "74"
+        "name": "LEGO Batman 3: Beyond Gotham",
+        "metascore": "74"
     },
     {
-        "Name": "World War Z",
-        "Metascore": "73"
+        "name": "Project Highrise",
+        "metascore": "73"
     },
     {
-        "Name": "Pure Farming 2018",
-        "Metascore": "73"
+        "name": "A Normal Lost Phone",
+        "metascore": "73"
     },
     {
-        "Name": "Project Highrise",
-        "Metascore": "73"
+        "name": "Marvel's Iron Man VR",
+        "metascore": "73"
     },
     {
-        "Name": "A Normal Lost Phone",
-        "Metascore": "73"
+        "name": "Sword Art Online: Fatal Bullet",
+        "metascore": "72"
     },
     {
-        "Name": "Marvel's Avengers",
-        "Metascore": "73"
+        "name": "Batora: Lost Haven",
+        "metascore": "72"
     },
     {
-        "Name": "Marvel's Iron Man VR",
-        "Metascore": "73"
+        "name": "Kingdoms of Amalur: Re-Reckoning",
+        "metascore": "72"
     },
     {
-        "Name": "Batora: Lost Haven",
-        "Metascore": "72"
+        "name": "Golf With Your Friends",
+        "metascore": "71"
     },
     {
-        "Name": "Kingdoms of Amalur: Re-Reckoning",
-        "Metascore": "72"
+        "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+        "metascore": "71"
     },
     {
-        "Name": "Sword Art Online: Fatal Bullet",
-        "Metascore": "72"
+        "name": "Destroy All Humans!",
+        "metascore": "71"
     },
     {
-        "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
-        "Metascore": "71"
+        "name": "Dead by Daylight",
+        "metascore": "71"
     },
     {
-        "Name": "Destroy All Humans!",
-        "Metascore": "71"
+        "name": "Maneater",
+        "metascore": "71"
     },
     {
-        "Name": "Golf With Your Friends",
-        "Metascore": "71"
+        "name": "The Sims 4",
+        "metascore": "70"
     },
     {
-        "Name": "Maneater",
-        "Metascore": "71"
+        "name": "Project CARS 3",
+        "metascore": "70"
     },
     {
-        "Name": "The Sims 4",
-        "Metascore": "70"
+        "name": "ARK: Survival Evolved",
+        "metascore": "70"
     },
     {
-        "Name": "ARK: Survival Evolved",
-        "Metascore": "70"
+        "name": "Crysis Remastered",
+        "metascore": "69"
     },
     {
-        "Name": "NASCAR Heat 5",
-        "Metascore": "69"
+        "name": "NASCAR Heat 5",
+        "metascore": "69"
     },
     {
-        "Name": "Crysis Remastered",
-        "Metascore": "69"
+        "name": "GORN",
+        "metascore": "68"
     },
     {
-        "Name": "Shift Happens",
-        "Metascore": "69"
+        "name": "Payday 3",
+        "metascore": "67"
     },
     {
-        "Name": "GORN",
-        "Metascore": "68"
+        "name": "One Piece: Burning Blood",
+        "metascore": "66"
     },
     {
-        "Name": "Payday 3",
-        "Metascore": "68"
+        "name": "Arizona Sunshine",
+        "metascore": "63"
     },
     {
-        "Name": "One Piece: Burning Blood",
-        "Metascore": "66"
+        "name": "WWE 2K Battlegrounds",
+        "metascore": "60"
     },
     {
-        "Name": "Maneater: Truth Quest",
-        "Metascore": "66"
+        "name": "Skater XL",
+        "metascore": "59"
     },
     {
-        "Name": "Stranded Deep",
-        "Metascore": "65"
+        "name": "Sword Art Online: Alicization Lycoris",
+        "metascore": "58"
     },
     {
-        "Name": "Arizona Sunshine",
-        "Metascore": "63"
-    },
-    {
-        "Name": "WWE 2K Battlegrounds",
-        "Metascore": "60"
-    },
-    {
-        "Name": "Sword Art Online: Alicization Lycoris",
-        "Metascore": "58"
-    },
-    {
-        "Name": "Fallout 76",
-        "Metascore": "53"
+        "name": "Syberia 3",
+        "metascore": "51"
     }
 ]

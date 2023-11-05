@@ -33,15 +33,15 @@ class InstantGamingSpider(scrapy.Spider):
                 price = price.replace('€', '')
 
                 game = {
-                    'Name': name,
-                    'Price': price,
-                    'Link': link,
-                    'Image': image,
+                    'name': name,
+                    'price': price,
+                    'link': link,
+                    'image': image,
                 }
 
                 if discount:
                     discount = discount.replace('-', '')
-                    game['Discount'] = discount
+                    game['discount'] = discount
 
                 self.check_cheepest_price(game)
                 if name in allowed_games and game not in self.game_list:

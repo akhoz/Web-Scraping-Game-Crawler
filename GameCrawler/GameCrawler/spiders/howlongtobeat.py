@@ -9,6 +9,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 
+# firefox_path = "/usr/bin/geckodriver"
+# driver = webdriver.Firefox(executable_path=firefox_path)
+
 class HowlongtobeatSpider(scrapy.Spider):
     name = "howlongtobeat"
     start_urls = ["https://howlongtobeat.com/?q="]
@@ -34,8 +37,8 @@ class HowlongtobeatSpider(scrapy.Spider):
                 if game_name not in self.scraped_game_names:
                     completionist_time = completionist_time.replace("½", ".5")
                     item = {
-                        'Game Name': game_name.strip(),
-                        'Completionist Hours': completionist_time.strip()
+                        'name': game_name.strip(),
+                        'tta': completionist_time.strip()
                     }
 
                     if game_name in allowed_games:
@@ -43,7 +46,7 @@ class HowlongtobeatSpider(scrapy.Spider):
                         self.scraped_game_names.add(game_name)
                         print(f"HowLongToBeat: {game_name} -----------------------")
 
-        driver = webdriver.Edge()
+        driver = webdriver.Firefox()
         driver.get(response.url)
 
         for game_name in allowed_games:
@@ -66,8 +69,8 @@ class HowlongtobeatSpider(scrapy.Spider):
                     if game_name not in self.scraped_game_names:
                         completionist_time = completionist_time.replace("½", ".5")
                         item = {
-                            'Game Name': game_name.strip(),
-                            'Completionist Hours': completionist_time.strip()
+                            'name': game_name.strip(),
+                            'tta': completionist_time.strip()
                         }
 
                         if game_name in allowed_games:
