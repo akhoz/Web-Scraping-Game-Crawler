@@ -45,3 +45,10 @@ class G2aSpider(scrapy.Spider):
         if self.pages < 279: # 279
             self.pages += 1
             yield response.follow(next_page, callback=self.parse)
+
+    def closed(self, reason):
+        current_directory = os.path.dirname(os.path.realpath(__file__))
+        path = current_directory + '/data/g2a.json'
+        print(current_directory)
+        with open(path, 'w', encoding='utf-8') as json_file:
+            json.dump(self.data, json_file, ensure_ascii=False, indent=4)
