@@ -26,4 +26,4 @@ def get_game(id):
 
 @app.route('/')
 def index():
-    return 'Hello World'
+    return 'Hello world'

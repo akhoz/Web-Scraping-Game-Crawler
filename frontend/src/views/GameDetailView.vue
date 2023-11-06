@@ -53,6 +53,7 @@ export default defineComponent({
 
 .product-image {
     float: left;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
 }
 .product-info {
     display: flex;

@@ -27,7 +27,7 @@
           <a href="https://github.com/iZackk26" target="_blank">
             <img src="../../images/github.png" alt="GitHub" />
           </a>
-          <a href="https://www.instagram.com/isaacramirez_/" target="_blank">
+          <a href="https://www.instagram.com/izackk_r/" target="_blank">
             <img src="../../images/instagram.webp" alt="Instagram" />
           </a>
         </div>
@@ -44,7 +44,7 @@
           <a href="https://github.com/tuusuario" target="_blank">
             <img src="../../images/github.png" alt="GitHub" />
           </a>
-          <a href="https://www.instagram.com/hector_caravaca" target="_blank">
+          <a href="https://www.instagram.com/jordienpo" target="_blank">
             <img src="../../images/instagram.webp" alt="Instagram" />
           </a>
         </div>
