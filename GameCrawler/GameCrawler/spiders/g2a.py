@@ -1,6 +1,6 @@
 import scrapy
 import json
-from GameCrawler.games import allowed_games
+from games import allowed_games
 import os
 
 class G2aSpider(scrapy.Spider):
@@ -20,7 +20,7 @@ class G2aSpider(scrapy.Spider):
             game_price = ''.join(game.xpath('.//span[contains(@data-locator, "zth-price")]/text()').extract()).strip()
             game_discount = ''.join(game.xpath('.//span[contains(@data-locator, "zth-badge")]/text()').extract()).strip()
             product_link = game.xpath('.//h3/a/@href').extract_first()
-            game_image = game.xpath('.//a/img/@src').extract_first()
+            #game_image = game.xpath('.//a/img/@src').extract_first()
 
 
             if game_name and game_price:
@@ -32,7 +32,7 @@ class G2aSpider(scrapy.Spider):
                         "name": game_name,
                         "price": game_price,
                         "link": response.urljoin(product_link),
-                        "image": game_image
+                        #"image": game_image
                     }
 
                     if game_discount:

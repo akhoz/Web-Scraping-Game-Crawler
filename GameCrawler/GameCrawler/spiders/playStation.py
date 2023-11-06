@@ -22,7 +22,7 @@ class PlayStationSpider(scrapy.Spider):
             game_price = game.xpath('.//span[contains(@class, "psw-m-r-3")]/text()').extract_first()
             game_discount = game.xpath('.//span[contains(@class, "psw-body-2 psw-badge__text psw-badge--none psw-text-bold psw-p-y-0 psw-p-2 psw-r-1 psw-l-anchor")]/text()').extract_first()
             game_link = game.xpath('.//a/@href').extract_first()
-            game_image = game.xpath('.//img/@src').extract_first()
+            #game_image = game.xpath('.//img/@src').extract_first()
 
             if game_name in allowed_games and game_price:
                 game_price = game_price.replace("US$", "")
@@ -42,7 +42,7 @@ class PlayStationSpider(scrapy.Spider):
                     "name": game_name,
                     "price": game_price,
                     "link": game_link,
-                    "image": game_image
+                    #"image": game_image
                 }
 
                 if game_discount:
