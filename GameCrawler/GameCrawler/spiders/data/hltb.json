@@ -1,11 +1,35 @@
 [
     {
+        "name": "Cyberpunk 2077",
+        "tta": "103 Hours"
+    },
+    {
         "name": "Starfield",
-        "tta": "153 Hours"
+        "tta": "152 Hours"
+    },
+    {
+        "name": "Elden Ring",
+        "tta": "133 Hours"
+    },
+    {
+        "name": "Red Dead Redemption 2",
+        "tta": "181 Hours"
+    },
+    {
+        "name": "The Witcher 3: Wild Hunt",
+        "tta": "173 Hours"
+    },
+    {
+        "name": "Grand Theft Auto V",
+        "tta": "82.5 Hours"
+    },
+    {
+        "name": "God of War",
+        "tta": "51 Hours"
     },
     {
         "name": "The Last of Us Part II",
-        "tta": "42 Hours"
+        "tta": "42.5 Hours"
     },
     {
         "name": "Ghost of Tsushima: Legends",
@@ -13,7 +37,7 @@
     },
     {
         "name": "Marvel's Spider-Man: Game of the Year Edition",
-        "tta": "44 Hours"
+        "tta": "43.5 Hours"
     },
     {
         "name": "Watch Dogs: Legion",
@@ -22,10 +46,6 @@
     {
         "name": "Grand Theft Auto",
         "tta": "16 Hours"
-    },
-    {
-        "name": "Grand Theft Auto V",
-        "tta": "82.5 Hours"
     },
     {
         "name": "Tony Hawk's Pro Skater 1 + 2",
@@ -38,10 +58,6 @@
     {
         "name": "Assassin's Creed Odyssey",
         "tta": "143 Hours"
-    },
-    {
-        "name": "God of War",
-        "tta": "51 Hours"
     },
     {
         "name": "Mafia: Definitive Edition",
@@ -85,19 +101,15 @@
     },
     {
         "name": "Borderlands 3",
-        "tta": "76.5 Hours"
+        "tta": "77 Hours"
     },
     {
         "name": "Tom Clancy's Ghost Recon Breakpoint",
         "tta": "96.5 Hours"
     },
     {
-        "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
-        "tta": "14 Hours"
-    },
-    {
         "name": "Fallout 76",
-        "tta": "314 Hours"
+        "tta": "304 Hours"
     },
     {
         "name": "Stranded Deep",
@@ -132,16 +144,12 @@
         "tta": "31.5 Hours"
     },
     {
-        "name": "World War Z",
-        "tta": "60.5 Hours"
-    },
-    {
         "name": "Mortal Shell",
         "tta": "22 Hours"
     },
     {
-        "name": "Control: Ultimate Edition",
-        "tta": "39 Hours"
+        "name": "Control",
+        "tta": "28.5 Hours"
     },
     {
         "name": "Maneater",
@@ -168,12 +176,8 @@
         "tta": "92.5 Hours"
     },
     {
-        "name": "Yu-Gi-Oh! Legacy of the Duelist: Link Evolution",
-        "tta": "139 Hours"
-    },
-    {
         "name": "Risk of Rain 2",
-        "tta": "138 Hours"
+        "tta": "137 Hours"
     },
     {
         "name": "The Legend of Heroes: Trails of Cold Steel IV",
@@ -204,8 +208,8 @@
         "tta": "76 Hours"
     },
     {
-        "name": "The Elder Scrolls V: Skyrim VR",
-        "tta": "128 Hours"
+        "name": "The Elder Scrolls V: Skyrim",
+        "tta": "231 Hours"
     },
     {
         "name": "Devil May Cry 5",
@@ -228,10 +232,6 @@
         "tta": "59 Hours"
     },
     {
-        "name": "Street Fighter V: Champion Edition",
-        "tta": "29 Hours"
-    },
-    {
         "name": "Battlefield V",
         "tta": "32 Hours"
     },
@@ -240,16 +240,8 @@
         "tta": "38 Hours"
     },
     {
-        "name": "Attack on Titan 2",
-        "tta": "84.5 Hours"
-    },
-    {
         "name": "LEGO Batman 3: Beyond Gotham",
         "tta": "37 Hours"
-    },
-    {
-        "name": "Judgment",
-        "tta": "103 Hours"
     },
     {
         "name": "Devil May Cry",
@@ -265,7 +257,7 @@
     },
     {
         "name": "Yakuza Kiwami 2",
-        "tta": "76 Hours"
+        "tta": "76.5 Hours"
     },
     {
         "name": "WRC 9: FIA World Rally Championship",
@@ -298,10 +290,6 @@
     {
         "name": "Assetto Corsa Competizione",
         "tta": "200 Hours"
-    },
-    {
-        "name": "Budget Cuts",
-        "tta": "7.5 Hours"
     },
     {
         "name": "Warhammer 40,000: Dawn of War II",
@@ -556,19 +544,151 @@
         "tta": "190 Hours"
     },
     {
-        "name": "Red Dead Redemption 2",
-        "tta": "181 Hours"
-    },
-    {
-        "name": "The Witcher 3: Wild Hunt",
-        "tta": "173 Hours"
-    },
-    {
         "name": "Super Mario Odyssey",
         "tta": "62 Hours"
     },
     {
         "name": "Monster Hunter: World",
         "tta": "404 Hours"
+    },
+    {
+        "name": "Doom Eternal",
+        "tta": "27 Hours"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare 3",
+        "tta": "38.5 Hours"
+    },
+    {
+        "name": "Project Zomboid",
+        "tta": "577 Hours"
+    },
+    {
+        "name": "7 Days to Die",
+        "tta": "371 Hours"
+    },
+    {
+        "name": "Five Nights at Freddy's: Security Breach",
+        "tta": "26 Hours"
+    },
+    {
+        "name": "Five Nights at Freddy's 2",
+        "tta": "13 Hours"
+    },
+    {
+        "name": "Five Nights at Freddy's: Sister Location",
+        "tta": "13 Hours"
+    },
+    {
+        "name": "Five Nights at Freddy's 4",
+        "tta": "5.5 Hours"
+    },
+    {
+        "name": "Forza Horizon 5",
+        "tta": "116 Hours"
+    },
+    {
+        "name": "Forza Horizon 4",
+        "tta": "146 Hours"
+    },
+    {
+        "name": "Forza Motorsport",
+        "tta": "35 Hours"
+    },
+    {
+        "name": "Forza Motorsport 7",
+        "tta": "172 Hours"
+    },
+    {
+        "name": "Dragon Ball Xenoverse 2",
+        "tta": "96.5 Hours"
+    },
+    {
+        "name": "Dragon Ball Z: Kakarot",
+        "tta": "54.5 Hours"
+    },
+    {
+        "name": "Dragon Ball Xenoverse",
+        "tta": "88.5 Hours"
+    },
+    {
+        "name": "Xenoblade Chronicles 3",
+        "tta": "171 Hours"
+    },
+    {
+        "name": "Xenoblade Chronicles 2",
+        "tta": "257 Hours"
+    },
+    {
+        "name": "Monster Hunter Rise",
+        "tta": "163 Hours"
+    },
+    {
+        "name": "Monster Hunter Stories 2: Wings of Ruin",
+        "tta": "141 Hours"
+    },
+    {
+        "name": "Microsoft Flight Simulator",
+        "tta": "--"
+    },
+    {
+        "name": "Euro Truck Simulator 2",
+        "tta": "444 Hours"
+    },
+    {
+        "name": "Beat Saber",
+        "tta": "55.5 Hours"
+    },
+    {
+        "name": "Sekiro: Shadows Die Twice",
+        "tta": "70 Hours"
+    },
+    {
+        "name": "Dark Souls III",
+        "tta": "99 Hours"
+    },
+    {
+        "name": "Dark Souls II",
+        "tta": "118 Hours"
+    },
+    {
+        "name": "Dark Souls II: Scholar of the First Sin",
+        "tta": "105 Hours"
+    },
+    {
+        "name": "High On Life",
+        "tta": "19 Hours"
+    },
+    {
+        "name": "Hades",
+        "tta": "95.5 Hours"
+    },
+    {
+        "name": "Remnant II",
+        "tta": "79 Hours"
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "tta": "67.5 Hours"
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six Extraction",
+        "tta": "56.5 Hours"
+    },
+    {
+        "name": "Ratchet & Clank: Rift Apart",
+        "tta": "18 Hours"
+    },
+    {
+        "name": "Call of Duty: Black Ops Cold War",
+        "tta": "13 Hours"
+    },
+    {
+        "name": "Assassin's Creed Valhalla",
+        "tta": "144 Hours"
+    },
+    {
+        "name": "Subnautica: Below Zero",
+        "tta": "31.5 Hours"
     }
 ]

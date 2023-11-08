@@ -37,7 +37,7 @@ class PlayStationSpider(scrapy.Spider):
 
                 base_url = "https://store.playstation.com"
                 game_link = urljoin(base_url, game_link)
-                game_image = urljoin(base_url, game_image)
+                # game_image = urljoin(base_url, game_image)
                 item = {
                     "name": game_name,
                     "price": game_price,

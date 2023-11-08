@@ -10,8 +10,8 @@ from spiders.metacritic import MetacriticSpider
 from spiders.howlongtobeat import HowlongtobeatSpider
 from spiders.playStation import PlayStationSpider
 
-# spiders = [MetacriticSpider, G2aSpider, PlayStationSpider, InstantGamingSpider, HowlongtobeatSpider]
-spiders = [HowlongtobeatSpider]
+spiders = [MetacriticSpider, G2aSpider, PlayStationSpider, InstantGamingSpider, HowlongtobeatSpider]
+# spiders = [HowlongtobeatSpider]
 
 def run_spider(spider):
     process = CrawlerProcess(get_project_settings())
@@ -63,7 +63,22 @@ def merge_data():
             game["metascore"] = "--"
         if "tta" not in game:
             game["tta"] = "--"
-            
+    # print(data_dict.values())
+    for game in data_dict.values():
+        if "image" not in game:
+            name = game["name"]
+            for game2 in ig:
+                if game2["name"] == name:
+                    game["image"] = game2["image"]
+                    break
+        if "image" not in game:
+            name = game["name"]
+            for game2 in g2a:
+                if game2["name"] == name:
+                    game["image"] = game2["image"]
+                    break
+            # game["image"] = ig[
+        
     data_list = list(data_dict.values())
 
     with open('data.json', 'w') as file:
@@ -80,15 +95,15 @@ def asing_id():
         json.dump(data, file, indent=4)
 
 def main():
-    # jobs = []
+    jobs = []
 
-    # for spider in spiders:
-    #     p = multiprocessing.Process(target=run_spider, args=(spider,))
-    #     jobs.append(p)
-    #     p.start()
+    for spider in spiders:
+        p = multiprocessing.Process(target=run_spider, args=(spider,))
+        jobs.append(p)
+        p.start()
 
-    # for job in jobs:
-    #     job.join()
+    for job in jobs:
+        job.join()
 
     merge_data()
     asing_id()

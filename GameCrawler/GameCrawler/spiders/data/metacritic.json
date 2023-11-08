@@ -8,39 +8,55 @@
         "metascore": "99"
     },
     {
-        "name": "Super Mario Odyssey",
-        "metascore": "99"
-    },
-    {
         "name": "Red Dead Redemption 2",
         "metascore": "99"
     },
     {
-        "name": "Devil May Cry",
-        "metascore": "94"
+        "name": "Super Mario Odyssey",
+        "metascore": "99"
     },
     {
-        "name": "God of War",
-        "metascore": "94"
+        "name": "The Elder Scrolls V: Skyrim",
+        "metascore": "99"
+    },
+    {
+        "name": "Elden Ring",
+        "metascore": "96"
+    },
+    {
+        "name": "Devil May Cry",
+        "metascore": "95"
     },
     {
         "name": "Minecraft",
         "metascore": "93"
     },
     {
-        "name": "Company of Heroes",
+        "name": "Hades",
         "metascore": "93"
     },
     {
+        "name": "The Last of Us Part II",
+        "metascore": "93"
+    },
+    {
+        "name": "Beat Saber",
+        "metascore": "93"
+    },
+    {
+        "name": "Forza Horizon 5",
+        "metascore": "92"
+    },
+    {
+        "name": "Forza Horizon 4",
+        "metascore": "92"
+    },
+    {
+        "name": "Dark Souls II",
+        "metascore": "92"
+    },
+    {
         "name": "Monster Hunter: World",
-        "metascore": "90"
-    },
-    {
-        "name": "Monster Hunter: World - Iceborne",
-        "metascore": "90"
-    },
-    {
-        "name": "Animal Crossing: New Horizons",
         "metascore": "90"
     },
     {
@@ -48,27 +64,59 @@
         "metascore": "90"
     },
     {
-        "name": "Dreams",
+        "name": "Animal Crossing: New Horizons",
         "metascore": "90"
+    },
+    {
+        "name": "Monster Hunter: World - Iceborne",
+        "metascore": "90"
+    },
+    {
+        "name": "Dark Souls II: Scholar of the First Sin",
+        "metascore": "89"
+    },
+    {
+        "name": "Xenoblade Chronicles 3",
+        "metascore": "89"
+    },
+    {
+        "name": "Star Wars Jedi Knight II: Jedi Outcast",
+        "metascore": "89"
     },
     {
         "name": "Devil May Cry 5",
         "metascore": "89"
     },
     {
-        "name": "Sid Meier's Civilization VI",
-        "metascore": "88"
-    },
-    {
         "name": "Cuphead",
         "metascore": "88"
     },
     {
-        "name": "Destiny 2",
+        "name": "Sid Meier's Civilization VI",
         "metascore": "88"
     },
     {
-        "name": "Europa Universalis IV",
+        "name": "Ratchet & Clank: Rift Apart",
+        "metascore": "88"
+    },
+    {
+        "name": "Monster Hunter Rise",
+        "metascore": "88"
+    },
+    {
+        "name": "13 Sentinels: Aegis Rim",
+        "metascore": "88"
+    },
+    {
+        "name": "Call of Duty: Modern Warfare 3",
+        "metascore": "88"
+    },
+    {
+        "name": "Subnautica",
+        "metascore": "87"
+    },
+    {
+        "name": "Assassin's Creed Odyssey",
         "metascore": "87"
     },
     {
@@ -76,7 +124,31 @@
         "metascore": "87"
     },
     {
+        "name": "Europa Universalis IV",
+        "metascore": "87"
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "metascore": "86"
+    },
+    {
+        "name": "Monster Train",
+        "metascore": "86"
+    },
+    {
         "name": "Panzer Corps 2",
+        "metascore": "86"
+    },
+    {
+        "name": "Mortal Kombat 11",
+        "metascore": "86"
+    },
+    {
+        "name": "Forza Motorsport 7",
+        "metascore": "86"
+    },
+    {
+        "name": "Dark Souls Remastered",
         "metascore": "86"
     },
     {
@@ -88,23 +160,19 @@
         "metascore": "86"
     },
     {
-        "name": "Monster Train",
-        "metascore": "86"
-    },
-    {
-        "name": "Mortal Kombat 11",
-        "metascore": "86"
-    },
-    {
-        "name": "Control: Ultimate Edition",
-        "metascore": "86"
-    },
-    {
         "name": "Warhammer 40,000: Dawn of War II",
         "metascore": "85"
     },
     {
-        "name": "Halo: The Master Chief Collection",
+        "name": "Wasteland 3",
+        "metascore": "85"
+    },
+    {
+        "name": "Hogwarts Legacy",
+        "metascore": "85"
+    },
+    {
+        "name": "Forza Motorsport",
         "metascore": "85"
     },
     {
@@ -120,11 +188,11 @@
         "metascore": "85"
     },
     {
-        "name": "Judgment",
+        "name": "Remnant II",
         "metascore": "85"
     },
     {
-        "name": "Life is Strange: True Colors",
+        "name": "Assassin's Creed Valhalla",
         "metascore": "84"
     },
     {
@@ -136,15 +204,15 @@
         "metascore": "83"
     },
     {
+        "name": "Subnautica: Below Zero",
+        "metascore": "83"
+    },
+    {
+        "name": "Xenoblade Chronicles 2",
+        "metascore": "83"
+    },
+    {
         "name": "A Plague Tale: Innocence",
-        "metascore": "83"
-    },
-    {
-        "name": "Creaks",
-        "metascore": "83"
-    },
-    {
-        "name": "Spyro Reignited Trilogy",
         "metascore": "83"
     },
     {
@@ -152,7 +220,7 @@
         "metascore": "83"
     },
     {
-        "name": "Borderlands 3",
+        "name": "Gloomhaven",
         "metascore": "82"
     },
     {
@@ -160,19 +228,19 @@
         "metascore": "82"
     },
     {
-        "name": "Far Cry 5",
-        "metascore": "82"
-    },
-    {
-        "name": "Gloomhaven",
-        "metascore": "82"
-    },
-    {
         "name": "Hardspace: Shipbreaker",
         "metascore": "82"
     },
     {
-        "name": "Ghostrunner",
+        "name": "Monster Hunter Stories 2: Wings of Ruin",
+        "metascore": "82"
+    },
+    {
+        "name": "Hunt: Showdown",
+        "metascore": "81"
+    },
+    {
+        "name": "Sniper Elite 4",
         "metascore": "81"
     },
     {
@@ -180,35 +248,39 @@
         "metascore": "81"
     },
     {
+        "name": "Ghostrunner",
+        "metascore": "81"
+    },
+    {
         "name": "Battlefield V",
         "metascore": "81"
     },
     {
-        "name": "The Elder Scrolls V: Skyrim VR",
-        "metascore": "81"
+        "name": "Endless Space 2",
+        "metascore": "80"
+    },
+    {
+        "name": "Hitman: Contracts",
+        "metascore": "80"
     },
     {
         "name": "The Jackbox Party Pack 5",
         "metascore": "80"
     },
     {
-        "name": "Amnesia: Rebirth",
-        "metascore": "80"
+        "name": "Euro Truck Simulator 2",
+        "metascore": "79"
     },
     {
-        "name": "Assetto Corsa Competizione",
-        "metascore": "80"
+        "name": "FIFA 23",
+        "metascore": "79"
     },
     {
         "name": "Mafia: Definitive Edition",
         "metascore": "79"
     },
     {
-        "name": "The Surge 2",
-        "metascore": "78"
-    },
-    {
-        "name": "Budget Cuts",
+        "name": "Call of Juarez: Bound in Blood",
         "metascore": "78"
     },
     {
@@ -220,11 +292,7 @@
         "metascore": "78"
     },
     {
-        "name": "Fights in Tight Spaces",
-        "metascore": "78"
-    },
-    {
-        "name": "Call of Juarez: Bound in Blood",
+        "name": "Farming Simulator 22",
         "metascore": "78"
     },
     {
@@ -232,19 +300,35 @@
         "metascore": "77"
     },
     {
-        "name": "Plants vs. Zombies: Battle for Neighborville",
-        "metascore": "77"
+        "name": "Kingdom Come: Deliverance",
+        "metascore": "76"
+    },
+    {
+        "name": "Tropico 5",
+        "metascore": "76"
+    },
+    {
+        "name": "Call of Duty: Black Ops Cold War",
+        "metascore": "76"
+    },
+    {
+        "name": "Mortal Shell",
+        "metascore": "76"
+    },
+    {
+        "name": "Saints Row: The Third Remastered",
+        "metascore": "76"
+    },
+    {
+        "name": "NBA 2K22",
+        "metascore": "76"
+    },
+    {
+        "name": "Watch Dogs: Legion",
+        "metascore": "76"
     },
     {
         "name": "Earth Defense Force 5",
-        "metascore": "76"
-    },
-    {
-        "name": "LEGO Marvel Super Heroes 2",
-        "metascore": "76"
-    },
-    {
-        "name": "Journey to the Savage Planet",
         "metascore": "76"
     },
     {
@@ -252,15 +336,19 @@
         "metascore": "76"
     },
     {
-        "name": "Kingdom Come: Deliverance",
+        "name": "Journey to the Savage Planet",
         "metascore": "76"
     },
     {
-        "name": "The Jackbox Party Pack 8",
+        "name": "LEGO DC Super-Villains",
         "metascore": "75"
     },
     {
-        "name": "Attack on Titan 2",
+        "name": "Attack on Titan 2: Final Battle",
+        "metascore": "75"
+    },
+    {
+        "name": "Code Vein",
         "metascore": "75"
     },
     {
@@ -272,7 +360,23 @@
         "metascore": "74"
     },
     {
+        "name": "Need for Speed Heat",
+        "metascore": "74"
+    },
+    {
+        "name": "MotoGP 23",
+        "metascore": "74"
+    },
+    {
         "name": "Project Highrise",
+        "metascore": "73"
+    },
+    {
+        "name": "Pure Farming 2018",
+        "metascore": "73"
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six Extraction",
         "metascore": "73"
     },
     {
@@ -280,32 +384,24 @@
         "metascore": "73"
     },
     {
-        "name": "Marvel's Iron Man VR",
+        "name": "Marvel's Avengers",
         "metascore": "73"
     },
     {
-        "name": "Sword Art Online: Fatal Bullet",
-        "metascore": "72"
+        "name": "Dragon Ball Z: Kakarot",
+        "metascore": "73"
     },
     {
-        "name": "Batora: Lost Haven",
-        "metascore": "72"
+        "name": "Marvel's Iron Man VR",
+        "metascore": "73"
     },
     {
         "name": "Kingdoms of Amalur: Re-Reckoning",
         "metascore": "72"
     },
     {
-        "name": "Golf With Your Friends",
-        "metascore": "71"
-    },
-    {
-        "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
-        "metascore": "71"
-    },
-    {
-        "name": "Destroy All Humans!",
-        "metascore": "71"
+        "name": "Batora: Lost Haven",
+        "metascore": "72"
     },
     {
         "name": "Dead by Daylight",
@@ -316,11 +412,19 @@
         "metascore": "71"
     },
     {
-        "name": "The Sims 4",
-        "metascore": "70"
+        "name": "Golf With Your Friends",
+        "metascore": "71"
+    },
+    {
+        "name": "Destroy All Humans!",
+        "metascore": "71"
     },
     {
         "name": "Project CARS 3",
+        "metascore": "70"
+    },
+    {
+        "name": "The Sims 4",
         "metascore": "70"
     },
     {
@@ -328,12 +432,16 @@
         "metascore": "70"
     },
     {
-        "name": "Crysis Remastered",
+        "name": "Risen 2: Dark Waters",
         "metascore": "69"
     },
     {
         "name": "NASCAR Heat 5",
         "metascore": "69"
+    },
+    {
+        "name": "Battlefield 2042",
+        "metascore": "68"
     },
     {
         "name": "GORN",
@@ -348,23 +456,23 @@
         "metascore": "66"
     },
     {
+        "name": "Maneater: Truth Quest",
+        "metascore": "66"
+    },
+    {
+        "name": "Stranded Deep",
+        "metascore": "65"
+    },
+    {
         "name": "Arizona Sunshine",
         "metascore": "63"
-    },
-    {
-        "name": "WWE 2K Battlegrounds",
-        "metascore": "60"
-    },
-    {
-        "name": "Skater XL",
-        "metascore": "59"
     },
     {
         "name": "Sword Art Online: Alicization Lycoris",
         "metascore": "58"
     },
     {
-        "name": "Syberia 3",
-        "metascore": "51"
+        "name": "Fallout 76",
+        "metascore": "53"
     }
 ]

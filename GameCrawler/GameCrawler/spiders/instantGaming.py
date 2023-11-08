@@ -14,9 +14,9 @@ class InstantGamingSpider(scrapy.Spider):
         self.allowed_games = set()
 
     def check_cheepest_price(self, game):
-        if game['Name'] in self.allowed_games:
-            if game['Price'] < self.allowed_games[game['Name']]:
-                self.allowed_games[game['Name']] = game['Price']
+        if game['name'] in self.allowed_games:
+            if game['price'] < self.allowed_games[game['name']]:
+                self.allowed_games[game['name']] = game['price']
 
     def parse(self, response):
         game_items = response.xpath('//div[@class="search listing-items"]//div[@class="item force-badge"]')
