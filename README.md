@@ -1,43 +1,212 @@
-# Web Scrapping Game Crawler
+# 🎮 Game Price Comparison Web Scraper
 
-## Descripción
+A full-stack web application that automates the process of finding the best game deals across multiple online stores. Built with Vue.js and Scrapy, this project delivers real-time price comparisons in an intuitive storefront interface.
 
-El Game Price Scraper es una solución integral diseñada para agilizar la búsqueda y comparación de precios de videojuegos a través de múltiples plataformas de venta en línea, tales como G2A, INSTANT GAMING y PS4 STORE, entre otras. Utilizando tecnologías de vanguardia en el ámbito del desarrollo web y la ingeniería de software, esta herramienta busca optimizar la experiencia de compra de los usuarios al proporcionarles información actualizada sobre las mejores ofertas disponibles.
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.2+-brightgreen.svg)
+![Flask](https://img.shields.io/badge/Flask-2.0+-lightgrey.svg)
+![Scrapy](https://img.shields.io/badge/Scrapy-2.5+-red.svg)
 
-## Arquitectura Técnica
+## 📋 Overview
 
-### Web Scraping con Scrappy
+This application solves the common problem of comparing video game prices across different online retailers. Instead of manually checking multiple websites, users can view all pricing information in one centralized interface. The system automatically scrapes and updates game prices from major retailers, providing users with the most cost-effective purchasing options.
 
-El corazón de la aplicación reside en su capacidad para extraer datos de manera eficiente utilizando Scrapy, un poderoso framework de Python diseñado específicamente para el web scraping. Mediante el desarrollo de spiders personalizados, se realiza la extracción sistemática de información relevante sobre precios y disponibilidad de juegos en las plataformas objetivo.
+### Key Features
 
-### Almacenamiento en Mini Database JSON
+- 🔍 **Multi-Platform Price Scraping**: Automatically collects pricing data from G2A, Instant Gaming, PlayStation Store, Metacritic, and HowLongToBeat
+- 💰 **Real-Time Price Comparison**: Displays current prices and discounts across all platforms
+- 🎨 **Modern UI**: Clean, responsive storefront interface built with Vue.js and Element Plus
+- 📊 **Game Metadata**: Includes ratings, playtime estimates, and detailed game information
+- ⚡ **RESTful API**: Flask backend provides structured API endpoints for game data
+- 🔄 **Automated Updates**: Scrapy spiders can be scheduled to refresh pricing data periodically
 
-Para la persistencia de datos, se implementa una base de datos no relacional basada en JSON, optimizada para un acceso rápido y eficiente a la información recabada. Este enfoque permite una manipulación flexible de los datos y facilita la integración con sistemas y tecnologías frontend.
+## 🏗️ Architecture
 
-### Backend con Flask
+### Frontend
+- **Framework**: Vue.js 3 with TypeScript
+- **UI Library**: Element Plus, Bootstrap 5
+- **Routing**: Vue Router 4
+- **HTTP Client**: Axios
+- **Styling**: Custom CSS with responsive design
 
-El backend de la aplicación se desarrolla utilizando Flask, un microframework de Python que ofrece la flexibilidad necesaria para construir aplicaciones web robustas y escalables. A través de Flask, se exponen endpoints RESTful que permiten la comunicación entre el frontend y el backend, asegurando una arquitectura desacoplada y modular.
+### Backend
+- **Web Framework**: Flask with CORS support
+- **Web Scraping**: Scrapy framework with custom spiders
+- **Data Storage**: JSON-based lightweight database
+- **API**: RESTful endpoints for game data retrieval
 
-### Frontend con VueJS
+### Web Scrapers
+Custom Scrapy spiders for each platform:
+- **G2A Spider**: Scrapes prices, discounts, and product links
+- **Instant Gaming Spider**: Collects pricing and availability data
+- **PlayStation Store Spider**: Extracts console game pricing
+- **Metacritic Spider**: Gathers game ratings and reviews
+- **HowLongToBeat Spider**: Retrieves average playtime statistics
 
-En el lado del cliente, se utiliza VueJS para el desarrollo del frontend. Este framework progresivo de JavaScript es elegido por su reactividad y por facilitar la construcción de interfaces de usuario dinámicas e interactivas. A través de VueJS, los usuarios pueden visualizar los juegos y sus precios de manera clara y ordenada, mejorando significativamente la experiencia de búsqueda de promociones.
+## 🚀 Getting Started
 
-## Características Principales
+### Prerequisites
 
-- **Búsqueda Eficiente de Juegos:** Capacidad para buscar y comparar precios de videojuegos en varias plataformas de venta en línea.
-- **Actualización Automática:** Los spiders de Scrapy se ejecutan periódicamente para mantener actualizada la base de datos con las últimas ofertas.
-- **Interfaz Amigable:** Una interfaz de usuario desarrollada con VueJS que facilita la navegación y mejora la experiencia del usuario.
-- **API RESTful:** Endpoints bien definidos que permiten la recuperación de datos de juegos de manera programática.
+- Python 3.8 or higher
+- Node.js 14 or higher
+- npm or yarn package manager
 
-## Cómo Empezar
+### Installation
 
-Para comenzar a utilizar el Game Price Scraper, siga estos pasos:
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/akhoz/Web-Scraping-Game-Crawler.git
+   cd Web-Scraping-Game-Crawler
+   ```
 
-1. **Clonar el Repositorio:**
+2. **Set up the Python backend**
+   ```bash
+   # Install Python dependencies
+   pip install flask flask-cors scrapy
+   ```
 
-```bash
-https://github.com/akhoz/Web-Scraping-Game-Crawler
+3. **Set up the Vue.js frontend**
+   ```bash
+   cd frontend
+   npm install
+   ```
+
+### Running the Application
+
+1. **Start the Flask backend server**
+   ```bash
+   # From the project root directory
+   python main.py
+   ```
+   The API will be available at `http://localhost:5000`
+
+2. **Launch the Vue.js development server**
+   ```bash
+   cd frontend
+   npm run serve
+   ```
+   The frontend will be available at `http://localhost:8080`
+
+3. **Run the web scrapers (optional)**
+   ```bash
+   cd GameCrawler/GameCrawler
+   
+   # Run individual spiders
+   scrapy crawl g2a
+   scrapy crawl instantGaming
+   scrapy crawl playStation
+   scrapy crawl metacritic
+   scrapy crawl howlongtobeat
+   ```
+
+## 📁 Project Structure
+
+```
+Web-Scraping-Game-Crawler/
+├── main.py                      # Flask API server
+├── GameCrawler/                 # Scrapy project
+│   └── GameCrawler/
+│       ├── spiders/             # Custom web scrapers
+│       │   ├── g2a.py
+│       │   ├── instantGaming.py
+│       │   ├── playStation.py
+│       │   ├── metacritic.py
+│       │   └── howlongtobeat.py
+│       ├── items.py             # Data models
+│       ├── pipelines.py         # Data processing
+│       ├── settings.py          # Scraper configuration
+│       └── data.json            # Scraped data storage
+└── frontend/                    # Vue.js application
+    ├── src/
+    │   ├── components/          # Vue components
+    │   │   └── GameCard.vue
+    │   ├── views/               # Page views
+    │   │   ├── HomeView.vue
+    │   │   ├── GameDetailView.vue
+    │   │   └── AboutView.vue
+    │   ├── router/              # Route configuration
+    │   ├── App.vue              # Root component
+    │   └── main.ts              # Application entry
+    └── package.json             # Frontend dependencies
 ```
 
-### Licencia
-Este proyecto está bajo la Licencia MIT. Para más detalles, vea el archivo LICENSE.md
+## 🔌 API Endpoints
+
+### Get All Games
+```http
+GET /games
+```
+Returns a list of all games with pricing information from all scraped platforms.
+
+**Response Example:**
+```json
+[
+  {
+    "id": 1,
+    "game_name": "Elden Ring",
+    "game_price": "€39.99",
+    "game_rating": "9.5",
+    "game_hours": "55",
+    "platform": "G2A",
+    "discount": "33%"
+  }
+]
+```
+
+### Get Game by ID
+```http
+GET /games/:id
+```
+Returns detailed information for a specific game.
+
+## 🛠️ Technologies Used
+
+**Frontend:**
+- Vue.js 3
+- TypeScript
+- Vue Router
+- Axios
+- Element Plus
+- Bootstrap 5
+
+**Backend:**
+- Python 3.8+
+- Flask
+- Flask-CORS
+- Scrapy
+- JSON
+
+**Tools & Practices:**
+- RESTful API design
+- Web scraping with XPath selectors
+- Responsive design
+- Component-based architecture
+- TypeScript for type safety
+
+## 💡 Key Learnings & Achievements
+
+- Developed custom Scrapy spiders to handle dynamic web content across different site structures
+- Implemented efficient data aggregation from multiple sources
+- Created a responsive single-page application with Vue.js
+- Designed and implemented a RESTful API with Flask
+- Managed state and routing in a modern JavaScript framework
+- Applied web scraping best practices including error handling and rate limiting
+
+## 🔮 Future Enhancements
+
+- [ ] Add user authentication and saved game lists
+- [ ] Implement price history tracking and charts
+- [ ] Add email notifications for price drops
+- [ ] Expand to include more gaming platforms (Steam, Epic Games, etc.)
+- [ ] Implement a PostgreSQL database for better scalability
+- [ ] Add automated scraping with scheduled tasks (Celery/Redis)
+- [ ] Create price prediction using historical data
+- [ ] Add filters and advanced search functionality
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+⭐ If you found this project interesting, please consider giving it a star!
